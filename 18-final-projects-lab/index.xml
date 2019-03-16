@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final Projects Lab on FEWD</title>
+    <link>http://example.org/18-final-projects-lab/</link>
+    <description>Recent content in Final Projects Lab on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/18-final-projects-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/18-final-projects-lab/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/18-final-projects-lab/objectives/</guid>
+      <description> See demos of libraries you may find helpful
+ Use in-class time to work on final projects
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/18-final-projects-lab/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/18-final-projects-lab/agenda/</guid>
+      <description> Introduce a few js libraries / concepts that you can put to use in your projects
+ Lab: Final Projects
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/18-final-projects-lab/code-demos/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/18-final-projects-lab/code-demos/</guid>
+      <description> Code Demos We&amp;rsquo;ll go through some libraries / concepts you may find helpful  Filtering &amp;amp; Sorting using mixitup
+ Parallax
+ Carousel
+ Maps using Google Maps API
+ Fetching data from another service using an API (itunes, giphy, soundcloud)
+ Contact Form without the need for a Server
+ Basic CRUD operations with Firebase
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/18-final-projects-lab/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/18-final-projects-lab/lab/</guid>
+      <description> Lab  Work on your final project
+ Make sure your code is hosted (without any issues) on Github pages
+  </description>
+    </item>
+    
+  </channel>
+</rss>
