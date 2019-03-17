@@ -3,23 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/00-dev-tools-github/objectives/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/01-html-basics/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-dev-tools-github/</loc>
+    <loc>http://example.org/00-course-intro-and-tools/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/00-dev-tools-github/agenda/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
@@ -33,37 +23,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/00-dev-tools-github/tools/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/01-html-basics/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/06-flexbox/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/00-dev-tools-github/git-overview/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/01-html-basics/html-tag-anatomy/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/00-dev-tools-github/github-tutorial/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
@@ -73,123 +38,13 @@
   </url>
   
   <url>
-    <loc>http://example.org/02-css-basics/objectives/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/objectives/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/objectives/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/objectives/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/21-class-resources/videos/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/02-css-basics/</loc>
+    <loc>http://example.org/02-git-github/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/lab-relaxr/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/18-final-projects-lab/objectives/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/02-css-basics/agenda/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/agenda/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/agenda/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/agenda/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/last-class-review/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
@@ -198,497 +53,27 @@
   </url>
   
   <url>
-    <loc>http://example.org/07-intro-to-programming/agenda/</loc>
+    <loc>http://example.org/03-relative-paths/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/08-intro-to-jquery/agenda/</loc>
+    <loc>http://example.org/04-intro-to-css/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <loc>http://example.org/course-materials/lesson-files/</loc>
+    <lastmod>2019-03-17T13:48:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/10-functions/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/18-final-projects-lab/agenda/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/last-class-review/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/css-intro-review/</loc>
+    <loc>http://example.org/00-course-intro-and-tools/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/04-page-layout/code-along-1/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/last-class-review/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/array-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/bootstrap-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/code-along-1/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/console-log/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/final-projects/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/flexbox-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/json/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/lab-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/last-class-review/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/last-class-review/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/variables/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/layout-challenge-review/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/api-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/anonymous-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/bootstrap-grid/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/data-types/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/fixed-width-layouts/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/flexbox-terminology/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/function-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/lab-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/looping-through-arrays/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/programming-protips/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/objects-with-arrays/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/what-is-programming/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/block-inline-elements/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/classes-and-ids/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/arithmetic-operators/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/declaring-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/flex-container-properties/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/dom-intro/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/making-api-requests-with-jquery/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/milestone-1/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/milestone-1/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/mobile-websites/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/pseudocode/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/02-css-basics/html-review-exercise/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/api-example/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/calling-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/class-exercise/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/18-final-projects-lab/code-demos/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/code-along-2/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/flex-items-properties/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/form-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/jquery-intro/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/milestone-2/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/milestone-2/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/responsive-design-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/02-css-basics/relative-paths/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/css-colors/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/css-selectors/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/containing-elements/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/semantic-elements/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/this/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/adding-jquery/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/comparison-operators/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/exercise/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/flexbox-with-floats/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/form-elements/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/group-exercise/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/18-final-projects-lab/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/milestone-3/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/milestone-3/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/returning-values-from-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/viewport-meta-tag/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/02-css-basics/css-intro/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/css-selectors-examples/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/dollar-sign-function/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/bonus-milestone/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/bonus-milestone/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/javascript-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/logical-operators/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/media-query-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/styling-forms/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/working-with-parameters/</loc>
+    <loc>http://example.org/05-css-selectors/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -698,67 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/02-css-basics/code-along/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/02-css-basics/lab/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/css-cascading-guidelines/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/css-positioning/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/conditionals/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/document-ready/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/final-project-deliverable-2/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/functions-calling-other-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/06-flexbox/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/media-query-parts/</loc>
+    <loc>http://example.org/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -768,243 +93,43 @@
   </url>
   
   <url>
-    <loc>http://example.org/03-css-selectors-box-model/box-model/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/homework/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/homework/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/breakpoints/</loc>
+    <loc>http://example.org/07-page-layout-flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/10-functions/code-along-1/</loc>
+    <loc>http://example.org/08-css-positioning-and-colors/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/07-intro-to-programming/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <loc>http://example.org/course-materials/solutions/</loc>
+    <lastmod>2019-03-17T14:08:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/08-intro-to-jquery/jquery-in-action/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <loc>http://example.org/00-course-intro-and-tools/what-is-frontend-development/</loc>
+    <lastmod>2019-03-16T19:57:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/05-css-positioning-and-colors/background-images/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+    <loc>http://example.org/00-course-intro-and-tools/class-logistics-materials/</loc>
+    <lastmod>2019-03-16T10:04:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/04-page-layout/css-floats/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+    <loc>http://example.org/00-course-intro-and-tools/tools/</loc>
+    <lastmod>2019-03-16T10:03:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/03-css-selectors-box-model/code-along/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+    <loc>http://example.org/00-course-intro-and-tools/folder-structure/</loc>
+    <lastmod>2019-03-16T10:03:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/05-css-positioning-and-colors/code-along/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/lab/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/code-along-3/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/progressive-enhancement/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/single-responsibility-principle/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/code-along-2/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/code-along-4/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/grid-overview/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/code-along-2/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/responsive-grid-example/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/code-along/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/05-css-positioning-and-colors/homework/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/homework/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/lab/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/04-page-layout/lab/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/ems-rems/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/08-intro-to-jquery/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/07-intro-to-programming/final-project-deliverable-1/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/responsive-images/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/03-css-selectors-box-model/homework/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/rules-of-thumb/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/09-variables-datatypes-conditionals/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/10-functions/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/11-javascript-lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/12-arrays-and-advanced-javascript/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/13-objects/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/14-responsive-design/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/15-responsive-design-lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/16-forms/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/17-working-with-apis/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/18-final-projects-lab/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/21-class-resources/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <loc>http://example.org/00-course-intro-and-tools/keys-to-success/</loc>
+    <lastmod>2019-03-16T17:11:17-04:00</lastmod>
   </url>
   
   <url>
@@ -1013,17 +138,22 @@
   </url>
   
   <url>
-    <loc>http://example.org/something_else/</loc>
-    <lastmod>2019-03-14T20:29:02-04:00</lastmod>
+    <loc>http://example.org/course-materials/</loc>
+    <lastmod>2019-03-17T13:48:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/21-class-resources/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/01-html-basics/reading-assignment/</loc>
+    <lastmod>2019-03-17T01:04:09-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/basics/second-content/child-chapter/</loc>
-    <lastmod>2019-03-14T20:29:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/something_else/second-content/child-chapter/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
   </url>
   
@@ -1033,17 +163,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/something_else/second-content/</loc>
-    <lastmod>2019-03-14T20:29:59-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/basics/first-content/</loc>
-    <lastmod>2019-03-14T20:29:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/something_else/first-content/</loc>
     <lastmod>2019-03-14T20:29:19-04:00</lastmod>
   </url>
   

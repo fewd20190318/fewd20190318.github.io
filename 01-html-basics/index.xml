@@ -109,5 +109,19 @@
  Focus on the content first, then the image then the CSS There will be some items that you will need to look up, CSS is one of them (don&amp;rsquo;t worry we will be going over this in the next class, but part of being a developer is being able to google your way to solutions)   </description>
     </item>
     
+    <item>
+      <title>Reading Assignment</title>
+      <link>http://example.org/01-html-basics/reading-assignment/</link>
+      <pubDate>Sun, 17 Mar 2019 01:04:09 -0400</pubDate>
+      
+      <guid>http://example.org/01-html-basics/reading-assignment/</guid>
+      <description>View the following videos before the next class
+ Video: What is Version Control (6 mins) 
+ Video: What is Git (8 mins)
+ Video: What is Github? (4 mins)
+  Complete the following tutorial before the next class
+ Tutorial: Hello World Github Tutorial  </description>
+    </item>
+    
   </channel>
 </rss>

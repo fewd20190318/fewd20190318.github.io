@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Materials on FEWD</title>
+    <link>http://example.org/course-materials/</link>
+    <description>Recent content in Course Materials on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2019 13:48:09 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/course-materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lesson Files</title>
+      <link>http://example.org/course-materials/lesson-files/</link>
+      <pubDate>Sun, 17 Mar 2019 13:48:09 -0400</pubDate>
+      
+      <guid>http://example.org/course-materials/lesson-files/</guid>
+      <description>Lesson Files  Lesson 00 files (Course Intro &amp;amp; Tools) : No files needed
+ Lesson 01 files (HTML Basics)
+ Lesson 02 files (Git/Github): TBD
+ Lesson 03 files (Relative Paths): TBD
+ Lesson 04 files (Intro to CSS): TBD
+ Lesson 05 files (CSS Selectors): TBD
+ Lesson 06 files (CSS Box Model): TBD
+ Lesson 07 files (Page Layout with Flexbox): TBD
+ Lesson 08 files (CSS Positioning &amp;amp; Colors): TBD</description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>http://example.org/course-materials/solutions/</link>
+      <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
+      
+      <guid>http://example.org/course-materials/solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

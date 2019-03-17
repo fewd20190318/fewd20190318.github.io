@@ -66,7 +66,7 @@
       <guid>http://example.org/17-working-with-apis/making-api-requests-with-jquery/</guid>
       <description>What is Ajax?  AJAX stands for Asynchronous JavaScript And XML
  The meaning: web applications can send or receive data from the server without requesting an entire page - instead, they can just request or send an arbitrary amount of data
- In frontend development, Ajax Often used to make API requests that will fetch data from another service without having to refresh the web page
+ In front-end development, Ajax Often used to make API requests that will fetch data from another service without having to refresh the web page
   Click here for more information about AJAX</description>
     </item>
     
