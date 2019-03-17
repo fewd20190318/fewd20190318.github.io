@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class Resources on FEWD</title>
-    <link>http://example.org/21-class-resources/</link>
+    <link>/21-class-resources/</link>
     <description>Recent content in Class Resources on FEWD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/21-class-resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/21-class-resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://example.org/21-class-resources/videos/</link>
+      <link>/21-class-resources/videos/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/21-class-resources/videos/</guid>
+      <guid>/21-class-resources/videos/</guid>
       <description></description>
     </item>
     

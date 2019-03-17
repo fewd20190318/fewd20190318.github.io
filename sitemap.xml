@@ -3,182 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/01-html-basics/objectives/</loc>
+    <loc>/01-html-basics/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/</loc>
+    <loc>/00-course-intro-and-tools/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/agenda/</loc>
+    <loc>/01-html-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/html-structure/</loc>
+    <loc>/01-html-basics/html-structure/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/</loc>
+    <loc>/01-html-basics/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/html-tag-anatomy/</loc>
+    <loc>/01-html-basics/html-tag-anatomy/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/html-attributes/</loc>
+    <loc>/01-html-basics/html-attributes/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/21-class-resources/videos/</loc>
+    <loc>/21-class-resources/videos/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/02-git-github/</loc>
+    <loc>/02-git-github/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/tag-overview/</loc>
+    <loc>/01-html-basics/tag-overview/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/03-relative-paths/</loc>
+    <loc>/03-relative-paths/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/04-intro-to-css/</loc>
+    <loc>/04-intro-to-css/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/course-materials/lesson-files/</loc>
+    <loc>/course-materials/lesson-files/</loc>
     <lastmod>2019-03-17T13:48:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/objectives/</loc>
+    <loc>/00-course-intro-and-tools/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/05-css-selectors/</loc>
+    <loc>/05-css-selectors/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/code-along/</loc>
+    <loc>/01-html-basics/code-along/</loc>
     <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/06-css-box-model/</loc>
+    <loc>/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/lab/</loc>
+    <loc>/01-html-basics/lab/</loc>
     <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/07-page-layout-flexbox/</loc>
+    <loc>/07-page-layout-flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/08-css-positioning-and-colors/</loc>
+    <loc>/08-css-positioning-and-colors/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/course-materials/solutions/</loc>
+    <loc>/course-materials/solutions/</loc>
     <lastmod>2019-03-17T14:08:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/what-is-frontend-development/</loc>
+    <loc>/00-course-intro-and-tools/what-is-frontend-development/</loc>
     <lastmod>2019-03-16T19:57:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/class-logistics-materials/</loc>
+    <loc>/00-course-intro-and-tools/class-logistics-materials/</loc>
     <lastmod>2019-03-16T10:04:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/tools/</loc>
+    <loc>/00-course-intro-and-tools/tools/</loc>
     <lastmod>2019-03-16T10:03:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/folder-structure/</loc>
+    <loc>/00-course-intro-and-tools/folder-structure/</loc>
     <lastmod>2019-03-16T10:03:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/00-course-intro-and-tools/keys-to-success/</loc>
+    <loc>/00-course-intro-and-tools/keys-to-success/</loc>
     <lastmod>2019-03-16T17:11:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/</loc>
+    <loc>/basics/</loc>
     <lastmod>2019-03-14T20:29:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/course-materials/</loc>
-    <lastmod>2019-03-17T13:48:09-04:00</lastmod>
+    <loc>/course-materials/</loc>
+    <lastmod>2019-03-17T13:44:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/21-class-resources/</loc>
+    <loc>/21-class-resources/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/01-html-basics/reading-assignment/</loc>
+    <loc>/01-html-basics/reading-assignment/</loc>
     <lastmod>2019-03-17T01:04:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/second-content/child-chapter/</loc>
+    <loc>/basics/second-content/child-chapter/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/second-content/</loc>
+    <loc>/basics/second-content/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/first-content/</loc>
+    <loc>/basics/first-content/</loc>
     <lastmod>2019-03-14T20:29:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

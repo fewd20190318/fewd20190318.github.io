@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FEWD</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on FEWD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 18:05:18 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Objectives</title>
-      <link>http://example.org/01-html-basics/objectives/</link>
+      <link>/01-html-basics/objectives/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/objectives/</guid>
+      <guid>/01-html-basics/objectives/</guid>
       <description> Understand how web pages are structured
  Introduce some of the most frequently used html tags
   </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Agenda</title>
-      <link>http://example.org/01-html-basics/agenda/</link>
+      <link>/01-html-basics/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/agenda/</guid>
+      <guid>/01-html-basics/agenda/</guid>
       <description> HTML Structure
  Overview of basic HTML Tags
  Code Along (GA Press Release)
@@ -37,10 +37,10 @@
     
     <item>
       <title>HTML Structure</title>
-      <link>http://example.org/01-html-basics/html-structure/</link>
+      <link>/01-html-basics/html-structure/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-structure/</guid>
+      <guid>/01-html-basics/html-structure/</guid>
       <description> Same principles that apply to newspapers and documents also apply to html pages
  Most important content should be displayed at the top with larger font
   </description>
@@ -48,10 +48,10 @@
     
     <item>
       <title>HTML Tag Anatomy</title>
-      <link>http://example.org/01-html-basics/html-tag-anatomy/</link>
+      <link>/01-html-basics/html-tag-anatomy/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-tag-anatomy/</guid>
+      <guid>/01-html-basics/html-tag-anatomy/</guid>
       <description>What is a Tag?  Tags act like containers, they tell the browser what type of information lies between (aka the content) the opening and closing tag
  Opening Tag
  comprised of character(s) surrounded by less than and equal than signs (brackets) characters within the brackets indicates the tags purpose  Closing Tag
@@ -60,10 +60,10 @@
     
     <item>
       <title>HTML Attributes</title>
-      <link>http://example.org/01-html-basics/html-attributes/</link>
+      <link>/01-html-basics/html-attributes/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-attributes/</guid>
+      <guid>/01-html-basics/html-attributes/</guid>
       <description>What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.
  They are placed in the opening tag
  They have two parts: name, value
@@ -73,19 +73,19 @@
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://example.org/21-class-resources/videos/</link>
+      <link>/21-class-resources/videos/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/21-class-resources/videos/</guid>
+      <guid>/21-class-resources/videos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag Overview</title>
-      <link>http://example.org/01-html-basics/tag-overview/</link>
+      <link>/01-html-basics/tag-overview/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/tag-overview/</guid>
+      <guid>/01-html-basics/tag-overview/</guid>
       <description>&amp;lt;html&amp;gt;, &amp;lt;body&amp;gt;, &amp;lt;head&amp;gt;, &amp;lt;title&amp;gt;  &amp;lt;html&amp;gt;
  Represents the root (top-level element) of an HTML document, so it is also referred to as the root element
  All other elements must be descendants of this element.
@@ -97,10 +97,10 @@
     
     <item>
       <title>Lesson Files</title>
-      <link>http://example.org/course-materials/lesson-files/</link>
+      <link>/course-materials/lesson-files/</link>
       <pubDate>Sun, 17 Mar 2019 13:48:09 -0400</pubDate>
       
-      <guid>http://example.org/course-materials/lesson-files/</guid>
+      <guid>/course-materials/lesson-files/</guid>
       <description>Lesson Files  Lesson 00 files (Course Intro &amp;amp; Tools) : No files needed
  Lesson 01 files (HTML Basics)
  Lesson 02 files (Git/Github): TBD
@@ -114,10 +114,10 @@
     
     <item>
       <title>Objectives</title>
-      <link>http://example.org/00-course-intro-and-tools/objectives/</link>
+      <link>/00-course-intro-and-tools/objectives/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/objectives/</guid>
+      <guid>/00-course-intro-and-tools/objectives/</guid>
       <description> Understand what the term &amp;ldquo;front-end Development&amp;rdquo; means
  Introduce tools you will be using throughout the class
  Cover class logistics, structure &amp;amp; keys to success
@@ -126,10 +126,10 @@
     
     <item>
       <title>Code Along</title>
-      <link>http://example.org/01-html-basics/code-along/</link>
+      <link>/01-html-basics/code-along/</link>
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/code-along/</guid>
+      <guid>/01-html-basics/code-along/</guid>
       <description> Code Along: GA Press Release  As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release
  Using Sublime, open the folder called ga_press_release (found within the starter_code) folder
   </description>
@@ -137,10 +137,10 @@
     
     <item>
       <title>Lab</title>
-      <link>http://example.org/01-html-basics/lab/</link>
+      <link>/01-html-basics/lab/</link>
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/lab/</guid>
+      <guid>/01-html-basics/lab/</guid>
       <description> Lab: Cookie Recipe  Work individually or in teams to create an html version of a Cookie recipe depicted in the images below
  Using Sublime, open the folder called cookie_recipe files for this exercise can be found in your starter_code
  Tips
@@ -149,20 +149,20 @@
     
     <item>
       <title>Solutions</title>
-      <link>http://example.org/course-materials/solutions/</link>
+      <link>/course-materials/solutions/</link>
       <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
       
-      <guid>http://example.org/course-materials/solutions/</guid>
+      <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
  </description>
     </item>
     
     <item>
       <title>What Is front-end Development?</title>
-      <link>http://example.org/00-course-intro-and-tools/what-is-frontend-development/</link>
+      <link>/00-course-intro-and-tools/what-is-frontend-development/</link>
       <pubDate>Sat, 16 Mar 2019 19:57:51 -0400</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/what-is-frontend-development/</guid>
+      <guid>/00-course-intro-and-tools/what-is-frontend-development/</guid>
       <description>Overview  Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.  What are the primary technologies associated with front-end development?  HTML
  CSS
  Javascript
@@ -171,10 +171,10 @@
     
     <item>
       <title>Class Logistics &amp; Materials</title>
-      <link>http://example.org/00-course-intro-and-tools/class-logistics-materials/</link>
+      <link>/00-course-intro-and-tools/class-logistics-materials/</link>
       <pubDate>Sat, 16 Mar 2019 10:04:07 -0400</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/class-logistics-materials/</guid>
+      <guid>/00-course-intro-and-tools/class-logistics-materials/</guid>
       <description>Class Logistics  Class Schedule: Monday &amp;amp; Wednesdays, 6:30pm - 9:30pm, from Mar 18th through May 22nd
  Break: 30 minute break during the middle of class from 7:45pm to 8:15pm (subject to change depending on flow of the class, but you&amp;rsquo;ll always get a 30 min break)
  Class Materials: Most lessons will include a set of files that you&amp;rsquo;ll work with during that lesson, we&amp;rsquo;ll refer to these files as the &amp;ldquo;lesson files&amp;rdquo;</description>
@@ -182,10 +182,10 @@
     
     <item>
       <title>Course Tools</title>
-      <link>http://example.org/00-course-intro-and-tools/tools/</link>
+      <link>/00-course-intro-and-tools/tools/</link>
       <pubDate>Sat, 16 Mar 2019 10:03:50 -0400</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/tools/</guid>
+      <guid>/00-course-intro-and-tools/tools/</guid>
       <description>Text Editor:
  Why?: Text editor is a program that developers use to create and edit a range of programming language files. We&amp;rsquo;ll be using Atom, because it&amp;rsquo;s open source (free) and really good.
  Download Atom
@@ -198,10 +198,10 @@
     
     <item>
       <title>Folder Organization</title>
-      <link>http://example.org/00-course-intro-and-tools/folder-structure/</link>
+      <link>/00-course-intro-and-tools/folder-structure/</link>
       <pubDate>Sat, 16 Mar 2019 10:03:59 -0400</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/folder-structure/</guid>
+      <guid>/00-course-intro-and-tools/folder-structure/</guid>
       <description>Recommended Folder Organization  Create a folder in your Documents (My Documents on Windows) folder called FEWD
  At beginning of every class, download and unzip (mac instructions | windows instructions) the &amp;ldquo;Lesson Files&amp;rdquo; for that lesson directly into your FEWD folder
  Over the course, you&amp;rsquo;ll have a neatly organized listing of all of your work that looks similar to this:
@@ -210,10 +210,10 @@
     
     <item>
       <title>Keys to Success</title>
-      <link>http://example.org/00-course-intro-and-tools/keys-to-success/</link>
+      <link>/00-course-intro-and-tools/keys-to-success/</link>
       <pubDate>Sat, 16 Mar 2019 17:11:17 -0400</pubDate>
       
-      <guid>http://example.org/00-course-intro-and-tools/keys-to-success/</guid>
+      <guid>/00-course-intro-and-tools/keys-to-success/</guid>
       <description>Do your homework: More you practice the concepts learned in class, the faster you&amp;rsquo;ll pick them up
  Don&amp;rsquo;t try to memorize anything: You&amp;rsquo;ll memorize things naturally through the act of doing things over and over again. Besides, if you don&amp;rsquo;t remember something just look it up (i.e. google).
  Work smarter not harder: In additional to looking things up, developers are really good at referencing past code that they&amp;rsquo;ve used in the past to solve problems they encounter in the present.</description>
@@ -221,10 +221,10 @@
     
     <item>
       <title>Reading Assignment</title>
-      <link>http://example.org/01-html-basics/reading-assignment/</link>
+      <link>/01-html-basics/reading-assignment/</link>
       <pubDate>Sun, 17 Mar 2019 01:04:09 -0400</pubDate>
       
-      <guid>http://example.org/01-html-basics/reading-assignment/</guid>
+      <guid>/01-html-basics/reading-assignment/</guid>
       <description>View the following videos before the next class
  Video: What is Version Control (6 mins) 
  Video: What is Git (8 mins)
@@ -235,10 +235,10 @@
     
     <item>
       <title>First Content</title>
-      <link>http://example.org/basics/first-content/</link>
+      <link>/basics/first-content/</link>
       <pubDate>Thu, 14 Mar 2019 20:29:19 -0400</pubDate>
       
-      <guid>http://example.org/basics/first-content/</guid>
+      <guid>/basics/first-content/</guid>
       <description> Hello there </description>
     </item>
     

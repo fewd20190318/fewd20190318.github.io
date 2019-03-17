@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML Basics on FEWD</title>
-    <link>http://example.org/01-html-basics/</link>
+    <link>/01-html-basics/</link>
     <description>Recent content in HTML Basics on FEWD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/01-html-basics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/01-html-basics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Objectives</title>
-      <link>http://example.org/01-html-basics/objectives/</link>
+      <link>/01-html-basics/objectives/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/objectives/</guid>
+      <guid>/01-html-basics/objectives/</guid>
       <description> Understand how web pages are structured
  Introduce some of the most frequently used html tags
   </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Agenda</title>
-      <link>http://example.org/01-html-basics/agenda/</link>
+      <link>/01-html-basics/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/agenda/</guid>
+      <guid>/01-html-basics/agenda/</guid>
       <description> HTML Structure
  Overview of basic HTML Tags
  Code Along (GA Press Release)
@@ -37,10 +37,10 @@
     
     <item>
       <title>HTML Structure</title>
-      <link>http://example.org/01-html-basics/html-structure/</link>
+      <link>/01-html-basics/html-structure/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-structure/</guid>
+      <guid>/01-html-basics/html-structure/</guid>
       <description> Same principles that apply to newspapers and documents also apply to html pages
  Most important content should be displayed at the top with larger font
   </description>
@@ -48,10 +48,10 @@
     
     <item>
       <title>HTML Tag Anatomy</title>
-      <link>http://example.org/01-html-basics/html-tag-anatomy/</link>
+      <link>/01-html-basics/html-tag-anatomy/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-tag-anatomy/</guid>
+      <guid>/01-html-basics/html-tag-anatomy/</guid>
       <description>What is a Tag?  Tags act like containers, they tell the browser what type of information lies between (aka the content) the opening and closing tag
  Opening Tag
  comprised of character(s) surrounded by less than and equal than signs (brackets) characters within the brackets indicates the tags purpose  Closing Tag
@@ -60,10 +60,10 @@
     
     <item>
       <title>HTML Attributes</title>
-      <link>http://example.org/01-html-basics/html-attributes/</link>
+      <link>/01-html-basics/html-attributes/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/html-attributes/</guid>
+      <guid>/01-html-basics/html-attributes/</guid>
       <description>What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.
  They are placed in the opening tag
  They have two parts: name, value
@@ -73,10 +73,10 @@
     
     <item>
       <title>Tag Overview</title>
-      <link>http://example.org/01-html-basics/tag-overview/</link>
+      <link>/01-html-basics/tag-overview/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/tag-overview/</guid>
+      <guid>/01-html-basics/tag-overview/</guid>
       <description>&amp;lt;html&amp;gt;, &amp;lt;body&amp;gt;, &amp;lt;head&amp;gt;, &amp;lt;title&amp;gt;  &amp;lt;html&amp;gt;
  Represents the root (top-level element) of an HTML document, so it is also referred to as the root element
  All other elements must be descendants of this element.
@@ -88,10 +88,10 @@
     
     <item>
       <title>Code Along</title>
-      <link>http://example.org/01-html-basics/code-along/</link>
+      <link>/01-html-basics/code-along/</link>
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/code-along/</guid>
+      <guid>/01-html-basics/code-along/</guid>
       <description> Code Along: GA Press Release  As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release
  Using Sublime, open the folder called ga_press_release (found within the starter_code) folder
   </description>
@@ -99,10 +99,10 @@
     
     <item>
       <title>Lab</title>
-      <link>http://example.org/01-html-basics/lab/</link>
+      <link>/01-html-basics/lab/</link>
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
       
-      <guid>http://example.org/01-html-basics/lab/</guid>
+      <guid>/01-html-basics/lab/</guid>
       <description> Lab: Cookie Recipe  Work individually or in teams to create an html version of a Cookie recipe depicted in the images below
  Using Sublime, open the folder called cookie_recipe files for this exercise can be found in your starter_code
  Tips
@@ -111,10 +111,10 @@
     
     <item>
       <title>Reading Assignment</title>
-      <link>http://example.org/01-html-basics/reading-assignment/</link>
+      <link>/01-html-basics/reading-assignment/</link>
       <pubDate>Sun, 17 Mar 2019 01:04:09 -0400</pubDate>
       
-      <guid>http://example.org/01-html-basics/reading-assignment/</guid>
+      <guid>/01-html-basics/reading-assignment/</guid>
       <description>View the following videos before the next class
  Video: What is Version Control (6 mins) 
  Video: What is Git (8 mins)

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basics on FEWD</title>
-    <link>http://example.org/basics/</link>
+    <link>/basics/</link>
     <description>Recent content in Basics on FEWD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2019 20:29:02 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/basics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/basics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Content</title>
-      <link>http://example.org/basics/first-content/</link>
+      <link>/basics/first-content/</link>
       <pubDate>Thu, 14 Mar 2019 20:29:19 -0400</pubDate>
       
-      <guid>http://example.org/basics/first-content/</guid>
+      <guid>/basics/first-content/</guid>
       <description> Hello there </description>
     </item>
     
