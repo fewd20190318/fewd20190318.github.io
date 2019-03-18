@@ -77,6 +77,23 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
     </item>
     
     <item>
+      <title>Tables</title>
+      <link>/01-html-basics/tag-overview/tables/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/tables/</guid>
+      <description>Tables  Tables represent data in a grid format
+ Table Tags
+ &amp;lt;table&amp;gt;: element used to create a table
+ &amp;lt;tr&amp;gt;: table row
+ &amp;lt;td&amp;gt;: table data, represents a cell in the table
+ &amp;lt;th&amp;gt;: table headings used to respresent the header for a column or a row
+   Learn more about tables here
+ ---- Table examples  JS Bin on jsbin.com
+JS Bin on jsbin.</description>
+    </item>
+    
+    <item>
       <title>Block &amp; Inline Elements</title>
       <link>/01-html-basics/tag-overview/block-and-inline-elements/</link>
       <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
