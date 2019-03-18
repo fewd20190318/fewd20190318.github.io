@@ -25,7 +25,7 @@
 	"title": "HTML Structure",
 	"tags": [],
 	"description": "",
-	"content": " Front page of a newspaper\n Which elements stand out and why?\n What would happen if every word was the same size font?\n  Document in a word processor\nHTML document\nSummary  Structure helps readers better understand all forms of documents\n Documents leverage hierarchy, size and font-width to emphasize importance\n HTML pages are another type documents\n  "
+	"content": " Front page of a newspaper\n Which elements stand out and why?\n What would happen if every word was the same size font?\n  Document in a word processor\nHTML document\nSummary  Structure helps readers better understand all forms of documents\n Documents leverage hierarchy, size and font weight to emphasize importance\n HTML pages are another type documents\n  "
 },
 {
 	"uri": "/01-html-basics/",
