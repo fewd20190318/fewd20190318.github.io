@@ -25,7 +25,7 @@
 	"title": "HTML Structure",
 	"tags": [],
 	"description": "",
-	"content": " Same principles that apply to newspapers and documents also apply to html pages\n Most important content should be displayed at the top with larger font\n  "
+	"content": " Front page of a newspaper\n Which elements stand out and why?\n What would happen if every word was the same size font?\n  Document in a word processor\nHTML document\nSummary  Structure helps readers better understand all forms of documents\n Documents leverage hierarchy, size and font-width to emphasize importance\n HTML pages are another type documents\n  "
 },
 {
 	"uri": "/01-html-basics/",
@@ -46,10 +46,10 @@
 	"title": "HTML Attributes",
 	"tags": [],
 	"description": "",
-	"content": " What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.\n They are placed in the opening tag\n They have two parts: name, value\n  Attribute Structure  Attribute Name\n Indicates what kind of extra information you are supplying to the browser about the content in the element characters within the brackets indicates the tags purpose  Attribute Value\n Information or setting for the attribute Is placed in double or single quotes   Example of a HTML Attribute  \u0026lt;img src=\u0026quot;mdn-logo-sm.png\u0026quot; alt=\u0026quot;MDN\u0026quot;\u0026gt;  "
+	"content": " What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.\n They are placed in the opening tag\n They have two parts: name, value\n  Attribute Structure  Attribute Name\n Indicates what kind of extra information you are supplying to the browser about the content in the element characters within the brackets indicates the tags purpose  Attribute Value\n Information or setting for the attribute Is placed in double or single quotes   Example of a HTML Attribute  \u0026lt;img src=\u0026quot;mdn-logo-sm.png\u0026quot; alt=\u0026quot;MDN\u0026quot;\u0026gt;  A complete list of all the available HTML attributes can be found here\n "
 },
 {
-	"uri": "/21-class-resources/videos/",
+	"uri": "/21-class-resources/keyboard-shortcuts/",
 	"title": "Keyboard Shortcuts",
 	"tags": [],
 	"description": "",
@@ -67,7 +67,7 @@
 	"title": "Tag Overview",
 	"tags": [],
 	"description": "",
-	"content": " \u0026lt;html\u0026gt;, \u0026lt;body\u0026gt;, \u0026lt;head\u0026gt;, \u0026lt;title\u0026gt;  \u0026lt;html\u0026gt;\n Represents the root (top-level element) of an HTML document, so it is also referred to as the root element\n All other elements must be descendants of this element.\n  \u0026lt;body\u0026gt;\n Everything inside the body tag is shown inside the browser window  \u0026lt;head\u0026gt;\n Contains information about the page (vs shown on the pages\n Title and Links to other files are usually specified in the head element\n  \u0026lt;title\u0026gt;\n Text here is displayed in the top of the browser (or on the tab in Chrome or other browsers that use tabs)   \u0026lt;title\u0026gt; is just one of many tags that can be placed inside of \u0026lt;head\u0026gt;, we\u0026rsquo;ll see more of them as we go through the class, for more information click here\n \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;h1\u0026gt;Main Heading\u0026lt;/h1\u0026gt; \u0026lt;p\u0026gt;Some cool content\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;My page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;h1\u0026gt;Main Heading\u0026lt;/h1\u0026gt; \u0026lt;h2\u0026gt;level 2 heading\u0026lt;/h2\u0026gt; \u0026lt;h3\u0026gt;level 3 heading\u0026lt;/h3\u0026gt; \u0026lt;h4\u0026gt;level 4 heading\u0026lt;/h4\u0026gt; \u0026lt;h5\u0026gt;level 5 heading\u0026lt;/h5\u0026gt; \u0026lt;h6\u0026gt;level 6 heading\u0026lt;/h6\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Paragraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;My page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt; This is a paragraph. Become familiar with it because you will be using it a lot.\u0026lt;/p\u0026gt; \u0026lt;p\u0026gt;Content inside of a paragraph is displayed on separate lines\u0026lt;/p\u0026gt; \u0026lt;p\u0026gt; The browser will view this line of text as separate from the other two paragraphs above, despite how it looks in the text editor\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Lists  3 different types of lists:  Unordered - lists start with a bullet point by default Ordered - numbered lists Definition - set of terms along with definition of those terms (not used often)   Example of unordered list \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;My page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;ul\u0026gt; \u0026lt;li\u0026gt;one\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;two\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;three\u0026lt;/li\u0026gt; \u0026lt;/ul\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;   List items elements are the items within list, they use opening and closing tag\n list item elements are indented by default\n list items elements are always a child a list element (in this case the “unordered list” or ul element.\n  Links  Links created using the \u0026lt;a\u0026gt; tag\n link tags use the href attribute (remember attributes come with a name and a value)\n The value of the href attribute is the location where the link will direct you after it has been clicked\n  \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;My page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;a href=\u0026quot;http://www.cnn.com\u0026quot;\u0026gt; CNN \u0026lt;/a\u0026gt; \u0026lt;a href=\u0026quot;/about_us.html\u0026quot;\u0026gt;About Us\u0026lt;/a\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Images  Images are placed in a \u0026lt;img\u0026gt;\n Empty element meaning there is no closing tag\n   \u0026lt;img src=\u0026quot;images/team_hands\u0026quot; alt=\u0026quot;a group of people touching hands in a star formation\u0026quot; title=\u0026quot;teamwork is awesome\u0026quot;\u0026gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)\n alt - Provides description of image for people who cannot see the image (accessibility)\n title - Used to provide additional information about the image. Most browsers will display this information in a tooltip.\n  Image File Formats  .png - Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif.\n .gif - Can have basic transparency, typically a png is used instead\n .jpeg - No transparency, can be stored at different compression levels with varying amounts of \u0026ldquo;lossy-ness\u0026rdquo;, typically the best format for photos\n  Many more tags  \u0026lt;b\u0026gt; Makes text bold\u0026lt;/b\u0026gt; \u0026lt;i\u0026gt; Italic text \u0026lt;/i\u0026gt; \u0026lt;br/\u0026gt; Used to break text within a paragraph \u0026lt;hr /\u0026gt; Used to add a horizontal line to visually break up text  MDN (Mozilla Developer Network) is an excellent resource for all things HTML, CSS and Javascript. For a complete list of all tags avaiable click here\n "
+	"content": ""
 },
 {
 	"uri": "/03-relative-paths/",
@@ -89,6 +89,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): TBD\n Lesson 03 files (Relative Paths): TBD\n Lesson 04 files (Intro to CSS): TBD\n Lesson 05 files (CSS Selectors): TBD\n Lesson 06 files (CSS Box Model): TBD\n Lesson 07 files (Page Layout with Flexbox): TBD\n Lesson 08 files (CSS Positioning \u0026amp; Colors): TBD\n  "
+},
+{
+	"uri": "/01-html-basics/tag-overview/body-head-title/",
+	"title": "Body, Head &amp; Title",
+	"tags": [],
+	"description": "",
+	"content": " \u0026lt;html\u0026gt;, \u0026lt;body\u0026gt;, \u0026lt;head\u0026gt;, \u0026lt;title\u0026gt; The following tags make up the structure of all web pages\n \u0026lt;html\u0026gt;\n Represents the root (top-level element) of an HTML document, so it is also referred to as the root element\n All other elements must be descendants of this element.\n  \u0026lt;body\u0026gt;\n Everything inside the body tag is shown inside the browser window  \u0026lt;head\u0026gt;\n Contains information about the page (vs shown on the pages\n Title and Links to other files are usually specified in the head element\n  \u0026lt;title\u0026gt;\n Text here is displayed in the top of the browser (or on the tab in Chrome or other browsers that use tabs)   \u0026lt;title\u0026gt; is just one of many tags that can be placed inside of \u0026lt;head\u0026gt;, we\u0026rsquo;ll see more of them as we go through the class, for more information click here\n Example\n\u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;h1\u0026gt;Main Heading\u0026lt;/h1\u0026gt; \u0026lt;p\u0026gt;Some cool content\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  what is the DOCTYPE? There have been several versions of HTML and because of this each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (browsers will still usually display the page even if it is not included).\n "
 },
 {
 	"uri": "/00-course-intro-and-tools/objectives/",
@@ -147,6 +154,13 @@
 	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n "
 },
 {
+	"uri": "/01-html-basics/tag-overview/text/",
+	"title": "Text",
+	"tags": [],
+	"description": "",
+	"content": " HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n JS Bin on jsbin.com\nParagraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  JS Bin on jsbin.com\n"
+},
+{
 	"uri": "/00-course-intro-and-tools/what-is-frontend-development/",
 	"title": "What Is front-end Development?",
 	"tags": [],
@@ -161,6 +175,13 @@
 	"content": " Class Logistics  Class Schedule: Monday \u0026amp; Wednesdays, 6:30pm - 9:30pm, from Mar 18th through May 22nd\n Break: 30 minute break during the middle of class from 7:45pm to 8:15pm (subject to change depending on flow of the class, but you\u0026rsquo;ll always get a 30 min break)\n Class Materials: Most lessons will include a set of files that you\u0026rsquo;ll work with during that lesson, we\u0026rsquo;ll refer to these files as the \u0026ldquo;lesson files\u0026rdquo;\n Homework: Homework assignments will be assigned at the end of class on Wednesdays and assignments will be due the following Wednesday.\n Reading Assignment / Tutorials: Reading Assignments and Tutorials may be assigned after a class. They are usual short in nature and are meant to help increase your understanding of upcoming or past concepts. If assigned, you will be expected to complete them before the next class.\n Labs: Labs are in-class assignments completed at the end of class; they can be done completed individually or in groups.\n Code Alongs: Small projects or exercises that the instructor and the class complete together\n Exercises: Short in-class exercises that are completed either individually\n  "
 },
 {
+	"uri": "/01-html-basics/tag-overview/lists/",
+	"title": "Lists",
+	"tags": [],
+	"description": "",
+	"content": " Lists  3 different types of lists:\n Unordered - lists start with a bullet point by default Ordered - numbered lists Definition - set of terms along with definition of those terms (not used often)  Both unordered and ordered lists contain list items\n list items elements are the items within list, they use opening and closing tag\n list item elements are indented by default\n list items elements are always a child a list element (in this case the “unordered list” or ul element.\n   Unordered List Example of an unordered list\nJS Bin on jsbin.com\nOrdered List Example of an ordered list\nJS Bin on jsbin.com\nDefinition List Example of a definition list\nJS Bin on jsbin.com\n"
+},
+{
 	"uri": "/00-course-intro-and-tools/tools/",
 	"title": "Course Tools",
 	"tags": [],
@@ -168,11 +189,25 @@
 	"content": " Text Editor:\n Why?: Text editor is a program that developers use to create and edit a range of programming language files. We\u0026rsquo;ll be using Atom, because it\u0026rsquo;s open source (free) and really good.\n Download Atom\n  Browser:\n Why?: Google chrome is a robust browser with a variety of tools that are helpful to developers.\n Install Google Chrome\n  Github:\n Why?: Github (and Git) are tools/applications used to by developers to manage their code and work collaboratively with each other. You\u0026rsquo;ll be using Github/Git to submit our homework assignments. kj\n Create a Github Account\n Download the Github Desktop App\n  Slack:\n Why?: Is a popular chat application that we\u0026rsquo;ll be using as our primary method of communication both during and outside of class\n Join the GA NYC Part Time Students Slack Community slack channel\n You should have received an emailed invitation to join GA’s slack team\n Don’t see an invitation in your inbox? Check your spam folder - many of Slack’s invitation emails tend to end up there. Let me know if you weren’t sent an invite and we’ll get you sorted out.\n  Add yourself to the dedicated Slack Channel for our class named #fewd-3-18-19 (see instructions on how to join a Slack Channel here)\n  Wireframes:\n Why?: Wireframes are a planning tools that helps you visualize the layout and other aspects of your web projects before writing any code.\n Multiple options:\n Whimsical - free wireframing software\n Google Draw\n Pen \u0026amp; Paper\n  Example of a wireframe:\n   "
 },
 {
+	"uri": "/01-html-basics/tag-overview/links/",
+	"title": "Links",
+	"tags": [],
+	"description": "",
+	"content": " Links  Links created using the \u0026lt;a\u0026gt; tag\n link tags use the href attribute (remember attributes come with a name and a value)\n The value of the href attribute is the location where the link will direct you after it has been clicked\n  \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;!-- contains information about the page --\u0026gt; \u0026lt;title\u0026gt;My page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;a href=\u0026quot;http://www.cnn.com\u0026quot;\u0026gt; CNN \u0026lt;/a\u0026gt; \u0026lt;a href=\u0026quot;/about_us.html\u0026quot;\u0026gt;About Us\u0026lt;/a\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  "
+},
+{
 	"uri": "/00-course-intro-and-tools/folder-structure/",
 	"title": "Folder Organization",
 	"tags": [],
 	"description": "",
-	"content": " Recommended Folder Organization  Create a folder in your Documents (My Documents on Windows) folder called FEWD\n At beginning of every class, download and unzip (mac instructions | windows instructions) the \u0026ldquo;Lesson Files\u0026rdquo; for that lesson directly into your FEWD folder\n Over the course, you\u0026rsquo;ll have a neatly organized listing of all of your work that looks similar to this:\n  [Add Image of folder here]\n"
+	"content": " Recommended Folder Organization  Create a folder in your Documents (My Documents on Windows) folder called FEWD\n At beginning of every class, download and unzip (mac instructions | windows instructions) the \u0026ldquo;Lesson Files\u0026rdquo; for that lesson directly into your FEWD folder\n  While the lesson files will be hosted on Dropbox, you do not need to have a dropbox account to download the files.\n  As the course progresses you\u0026rsquo;ll have a neatly organized listing of all of your work that looks similar to this:  "
+},
+{
+	"uri": "/01-html-basics/tag-overview/images/",
+	"title": "Images",
+	"tags": [],
+	"description": "",
+	"content": " Images  Images are placed in a \u0026lt;img\u0026gt;\n Empty element meaning there is no closing tag\n   \u0026lt;img src=\u0026quot;images/team_hands\u0026quot; alt=\u0026quot;a group of people touching hands in a star formation\u0026quot; title=\u0026quot;teamwork is awesome\u0026quot;\u0026gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)\n alt - Provides description of image for people who cannot see the image (accessibility)\n title - Used to provide additional information about the image. Most browsers will display this information in a tooltip.\n  Image File Formats  .png - Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif.\n .gif - Can have basic transparency, typically a png is used instead\n .jpeg - No transparency, can be stored at different compression levels with varying amounts of \u0026ldquo;lossy-ness\u0026rdquo;, typically the best format for photos\n  Image example JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/00-course-intro-and-tools/keys-to-success/",
@@ -182,11 +217,25 @@
 	"content": " Do your homework: More you practice the concepts learned in class, the faster you\u0026rsquo;ll pick them up\n Don\u0026rsquo;t try to memorize anything: You\u0026rsquo;ll memorize things naturally through the act of doing things over and over again. Besides, if you don\u0026rsquo;t remember something just look it up (i.e. google).\n Work smarter not harder: In additional to looking things up, developers are really good at referencing past code that they\u0026rsquo;ve used in the past to solve problems they encounter in the present. So keep your past code organized so you easily reference it later. You don\u0026rsquo;t get points for memorizing anything, but you do get points for being resourceful and using past work to help you move a litter faster today.\n Ask Questions: Don\u0026rsquo;t be afraid to ask questions, everyone learns differently, it\u0026rsquo;s the instructor\u0026rsquo;s responsibility to ensure you grasp the concepts. Your questions helps me (your instructor) understand what\u0026rsquo;s working and what\u0026rsquo;s not.\n Change your perspective of failure: Expects things to not work. That\u0026rsquo;s where the fun part and truly where the learning begins. It\u0026rsquo;s during the troubleshooting phase where\u0026rsquo;s you\u0026rsquo;ll gained a deep understanding of concepts taught in class. If everything worked the first time, you\u0026rsquo;d never learn anything :)\n Get comfortable with the fact that there are multiple ways to do things: If I gave a 10 experienced developers a coding homework assignment chances are that I will receive 10 different approaches and they\u0026rsquo;ll all be \u0026ldquo;correct\u0026rdquo; (meaning each approach will accomplish the stated goals of the assignment). There is no 1 right answers when it comes to coding. There are \u0026ldquo;best practices\u0026rdquo; some of which we will push in this course, others best practices will be learned through continued practice. Instead of focusing on what you think may be the \u0026ldquo;best\u0026rdquo; approach, just focus on ensuring that your program / assignments is the goals or requirements (\u0026ldquo;just get it things working first\u0026rdquo;).\n Perfection is the enemy of good enough: When you go through your homework assignments and labs your # 1 goal is to \u0026ldquo;just get things working\u0026rdquo; and not to make it perfect the first time. Get things working first (no matter how janky it may seem) and only after you\u0026rsquo;ve got it working should you go through the process developers call refactoring, optimizing the code without changing the behavior (i.e. making it look nice).\n Use names that make sense: As a developer you are going to be frequently tasked with naming things. Naming things is hard, but my advice is to be as explicit as possible. You should always write your code as if someone else is going to read it and you want them to be able to quickly understand what’s going on. One of the best ways to accomplish that is to use names that highly contextual. For example, if you have a variable that is supposed to represent a person’s first name, then be as explicit as possible:\n  // very bad - you don't get points for making names super short var n = \u0026quot;Kiara\u0026quot; // ok but not great var name = \u0026quot;Kiara\u0026quot; // best - explicit, there's no doubt what this variable should represent var firstName = \u0026quot;Kiara\u0026quot;  "
 },
 {
-	"uri": "/basics/",
-	"title": "Basics",
+	"uri": "/01-html-basics/tag-overview/block-and-inline-elements/",
+	"title": "Block &amp; Inline Elements",
 	"tags": [],
 	"description": "",
-	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+	"content": " Block Elements  Block elements always appear on a new line in the browser window\n \u0026lt;h1\u0026gt;, \u0026lt;p\u0026gt;, \u0026lt;ul\u0026gt;, and \u0026lt;li\u0026gt; are examples of block elements\n  JS Bin on jsbin.com\nInline Elements  Inline elements will always appear to continue on the same line as their neighboring elements\n \u0026lt;a\u0026gt;, \u0026lt;img\u0026gt;, \u0026lt;b\u0026gt;, and \u0026lt;em\u0026gt; are examples of inline elements\n  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/01-html-basics/tag-overview/divs-spans/",
+	"title": "Divs &amp; Spans",
+	"tags": [],
+	"description": "",
+	"content": " Divs  Divs allow you to group a set of elements together in one block-level box  JS Bin on jsbin.com\n Divs are mainly used to break your content up into logical sections. By doing so, you have more control of the layout and appearance of your pages.  Spans  Spans are the inline equivalent to Divs\n Spans are used to either:\n contain a section of text where there is no other suitable element to differentiate it from its surrounding text\n contain a number of inline elements\n  most common reason why people use  elements is so that they can control the appearance of the content of these elements using CSS\n  JS Bin on jsbin.com\nThis example uses classes and css, we will cover these topics later in the course\n "
+},
+{
+	"uri": "/01-html-basics/tag-overview/other-tags/",
+	"title": "Other Tags",
+	"tags": [],
+	"description": "",
+	"content": " Many more tags There are many other tags available to developers such as:\n \u0026lt;b\u0026gt; Makes text bold\u0026lt;/b\u0026gt; \u0026lt;i\u0026gt; Italic text \u0026lt;/i\u0026gt; \u0026lt;br/\u0026gt; Used to break text within a paragraph \u0026lt;hr /\u0026gt; Used to add a horizontal line to visually break up text  JS Bin on jsbin.com\nMDN (Mozilla Developer Network) is an excellent resource for all things HTML, CSS and Javascript. For a complete list of all tags avaiable click here\n "
 },
 {
 	"uri": "/course-materials/",
@@ -208,27 +257,6 @@
 	"tags": [],
 	"description": "",
 	"content": "View the following videos before the next class\n Video: What is Version Control (6 mins) \n Video: What is Git (8 mins)\n Video: What is Github? (4 mins)\n  Complete the following tutorial before the next class\n Tutorial: Hello World Github Tutorial  "
-},
-{
-	"uri": "/basics/second-content/child-chapter/",
-	"title": "Nested chapter",
-	"tags": [],
-	"description": "",
-	"content": "I am a nested chapter\n"
-},
-{
-	"uri": "/basics/second-content/",
-	"title": "Second Content",
-	"tags": [],
-	"description": "",
-	"content": "Hello again!\n"
-},
-{
-	"uri": "/basics/first-content/",
-	"title": "First Content",
-	"tags": [],
-	"description": "",
-	"content": " Hello there "
 },
 {
 	"uri": "/categories/",

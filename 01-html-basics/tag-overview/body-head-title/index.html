@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>Objectives :: FEWD</title>
+    <title>Body, Head &amp; Title :: FEWD</title>
 
     
     <link href="/css/nucleus.css?1552882286" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/00-course-intro-and-tools/objectives/">
+  <body class="" data-url="/01-html-basics/tag-overview/body-head-title/">
     <nav id="sidebar" class="">
 
 
@@ -111,7 +111,7 @@
   
     
     <li data-nav-id="/00-course-intro-and-tools/" title="Course Introduction &amp; Tools" class="dd-item
-        parent
+        
         
         
         ">
@@ -135,7 +135,7 @@
  
   
     
-      <li data-nav-id="/00-course-intro-and-tools/objectives/" title="Objectives" class="dd-item active">
+      <li data-nav-id="/00-course-intro-and-tools/objectives/" title="Objectives" class="dd-item ">
         <a href="/00-course-intro-and-tools/objectives/">
         Objectives
         
@@ -257,7 +257,7 @@
   
     
     <li data-nav-id="/01-html-basics/" title="HTML Basics" class="dd-item
-        
+        parent
         
         
         ">
@@ -379,7 +379,7 @@
   
     
     <li data-nav-id="/01-html-basics/tag-overview/" title="Tag Overview" class="dd-item
-        
+        parent
         
         
         ">
@@ -403,7 +403,7 @@
  
   
     
-      <li data-nav-id="/01-html-basics/tag-overview/body-head-title/" title="Body, Head &amp; Title" class="dd-item ">
+      <li data-nav-id="/01-html-basics/tag-overview/body-head-title/" title="Body, Head &amp; Title" class="dd-item active">
         <a href="/01-html-basics/tag-overview/body-head-title/">
         Body, Head &amp; Title
         
@@ -943,7 +943,13 @@
             
           
           
-            <a href='/'>FEWD</a> > <a href='/00-course-intro-and-tools/'>Course Introduction & Tools</a> > Objectives
+            
+            
+          
+          
+            <a href='/'>FEWD</a> > <a href='/01-html-basics/'>HTML Basics</a> > <a href='/01-html-basics/tag-overview/'>Tag Overview</a> > Body, Head & Title
+          
+         
           
          
           
@@ -956,7 +962,17 @@
                 
                     <div class="progress">
     <div class="wrapper">
-
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#html-body-head-title"><code>&lt;html&gt;</code>, <code>&lt;body&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;title&gt;</code></a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
     </div>
 </div>
 
@@ -968,19 +984,80 @@
         
         <div id="body-inner">
           
-            <h1>Objectives</h1>
+            <h1>Body, Head &amp; Title</h1>
           
 
         
 
 
+
+
+<h3 id="html-body-head-title"><code>&lt;html&gt;</code>, <code>&lt;body&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;title&gt;</code></h3>
+
+<p>The following tags make up the structure of all web pages</p>
+
 <ul>
-<li><p>Understand what the term &ldquo;front-end Development&rdquo; means</p></li>
+<li><p><code>&lt;html&gt;</code></p>
 
-<li><p>Introduce tools you will be using throughout the class</p></li>
+<ul>
+<li><p>Represents the root (top-level element) of an HTML document, so it is also referred to as the root element</p></li>
 
-<li><p>Cover class logistics, structure &amp; keys to success</p></li>
+<li><p>All other elements must be <strong>descendants</strong> of this element.</p></li>
+</ul></li>
+
+<li><p><code>&lt;body&gt;</code></p>
+
+<ul>
+<li>Everything inside the body tag is shown inside the browser window</li>
+</ul></li>
+
+<li><p><code>&lt;head&gt;</code></p>
+
+<ul>
+<li><p>Contains information about the page (vs shown on the pages</p></li>
+
+<li><p>Title and Links to other files are usually specified in the head element</p></li>
+</ul></li>
+
+<li><p><code>&lt;title&gt;</code></p>
+
+<ul>
+<li>Text here is displayed in the top of the browser (or on the tab in Chrome or other browsers that use tabs)</li>
+</ul></li>
 </ul>
+
+<div class="notices tip" ><p><code>&lt;title&gt;</code> is <strong>just one of many</strong> tags that can be placed inside of <code>&lt;head&gt;</code>, we&rsquo;ll see more of them as we go through the class, for more information click <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">here</a></p>
+</div>
+
+
+<p><img src="/images/01/body_vs_head.png" alt="original left fit" /></p>
+
+<hr />
+
+<p>Example</p>
+
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;!-- contains information about the page --&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;h1&gt;Main Heading&lt;/h1&gt;
+    &lt;p&gt;Some cool content&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</code></pre>
+
+<p><img src="/images/01/html_structure_browser.png" alt="original left fit" /></p>
+
+<hr />
+
+<div class="notices note" ><p>what is the <strong>DOCTYPE</strong>? There have been several versions of HTML and because of this each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (browsers will still usually display the page even if it is not included).</p>
+</div>
+
 
 
 <footer class=" footline" >
@@ -1019,37 +1096,6 @@
             
                 
                     
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
                         
                         
                     
@@ -1057,91 +1103,6 @@
                 
 
                     
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
                     
                     
 
@@ -1239,6 +1200,47 @@
                     
 
                     
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
             
             
@@ -1259,6 +1261,88 @@
             
             
                 
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
                     
                 
                 
@@ -1622,10 +1706,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/00-course-intro-and-tools/" title="Course Introduction &amp; Tools"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/01-html-basics/tag-overview/" title="Tag Overview"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/00-course-intro-and-tools/what-is-frontend-development/" title="What Is front-end Development?" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/01-html-basics/tag-overview/text/" title="Text" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>

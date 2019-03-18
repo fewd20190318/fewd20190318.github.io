@@ -41,8 +41,14 @@
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
       <guid>/01-html-basics/html-structure/</guid>
-      <description> Same principles that apply to newspapers and documents also apply to html pages
- Most important content should be displayed at the top with larger font
+      <description> Front page of a newspaper
+ Which elements stand out and why?
+ What would happen if every word was the same size font?
+  Document in a word processor
+HTML document
+Summary  Structure helps readers better understand all forms of documents
+ Documents leverage hierarchy, size and font-width to emphasize importance
+ HTML pages are another type documents
   </description>
     </item>
     
@@ -69,21 +75,6 @@
  They have two parts: name, value
   Attribute Structure  Attribute Name
  Indicates what kind of extra information you are supplying to the browser about the content in the element characters within the brackets indicates the tags purpose  Attribute Value</description>
-    </item>
-    
-    <item>
-      <title>Tag Overview</title>
-      <link>/01-html-basics/tag-overview/</link>
-      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
-      <guid>/01-html-basics/tag-overview/</guid>
-      <description>&amp;lt;html&amp;gt;, &amp;lt;body&amp;gt;, &amp;lt;head&amp;gt;, &amp;lt;title&amp;gt;  &amp;lt;html&amp;gt;
- Represents the root (top-level element) of an HTML document, so it is also referred to as the root element
- All other elements must be descendants of this element.
-  &amp;lt;body&amp;gt;
- Everything inside the body tag is shown inside the browser window  &amp;lt;head&amp;gt;
- Contains information about the page (vs shown on the pages
- Title and Links to other files are usually specified in the head element</description>
     </item>
     
     <item>
