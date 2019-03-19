@@ -83,7 +83,7 @@ Summary  Structure helps readers better understand all forms of documents
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
       <guid>/21-class-resources/keyboard-shortcuts/</guid>
-      <description></description>
+      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools Cmd + Option + i F2 or Ctrl + Shift + i   Refresh page Cmd + R Ctrl + R   Switch between applications Cmd + Tab Alt + Tab   Switch between windows in the same application Cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open File (Fuzzy) cmd-p or cmd-t ctrl-p or ctrl-t ctrl-p or ctrl-t Opens the Fuzzy Finder   Browse Open Files cmd-b ctrl-b ctrl-b Browse tabs within the window   Previous Tab alt-cmd-left ctrl-pageup ctrl-pageup Cycles left through open tabs (in the active pane)   Next Tab alt-cmd-right ctrl-pagedown ctrl-pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd-k cmd-borcmd- ctrl-k ctrl-borctrl- ctrl-k ctrl-borctrl-| Toggles Atom&amp;rsquo;s file Tree View    Show Available Snippets alt-shift-s alt-shift-s alt-shift-s Shows the snippets available to Atom   Save cmd-s ctrl-s ctrl-s Saves the currently active file   Save As shift-cmd-s ctrl-shift-s ctrl-shift-s Saves the currently active file under a different name   Save All alt-cmd-s   Saves all changed files   Close Tab cmd-w ctrl-w ctrl-w Closes the currently active tab   Close Window shift-cmd-w ctrl-shift-w ctrl-shift-w Closes the currently active editor window   Split Window cmd-k up/down/left/right ctrl-k up/down/left/right ctrl-k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd-k cmd-up/down/left/right ctrl-k ctrl-up/down/left/right ctrl-k ctrl-up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl-cmd-f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift-cmd-d ctrl-shift-d ctrl-shift-d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl-shift-k ctrl-shift-k ctrl-shift-k Deletes the current line   Move Line Up ctrl-cmd-up ctrl-up ctrl-up Moves the contents of the current cursor position up one line.</description>
     </item>
     
     <item>
@@ -194,7 +194,7 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       
       <guid>/00-course-intro-and-tools/class-logistics-materials/</guid>
       <description>Class Logistics  Class Schedule: Monday &amp;amp; Wednesdays, 6:30pm - 9:30pm, from Mar 18th through May 22nd
- Break: 30 minute break during the middle of class from 7:45pm to 8:15pm (subject to change depending on flow of the class, but you&amp;rsquo;ll always get a 30 min break)
+ Break: 15 minute break during the middle of class from 7:45pm to 8:00pm (subject to change depending on flow of the class, but you&amp;rsquo;ll always get a 15 min break)
  Class Materials: Most lessons will include a set of files that you&amp;rsquo;ll work with during that lesson, we&amp;rsquo;ll refer to these files as the &amp;ldquo;lesson files&amp;rdquo;</description>
     </item>
     
@@ -236,7 +236,7 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <description> Links  Links created using the &amp;lt;a&amp;gt; tag
  link tags use the href attribute (remember attributes come with a name and a value)
  The value of the href attribute is the location where the link will direct you after it has been clicked
-  &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;!-- contains information about the page --&amp;gt; &amp;lt;title&amp;gt;My page&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;a href=&amp;quot;http://www.cnn.com&amp;quot;&amp;gt; CNN &amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;/about_us.html&amp;quot;&amp;gt;About Us&amp;lt;/a&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  </description>
+  &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;!-- contains information about the page --&amp;gt; &amp;lt;title&amp;gt;My page&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;a href=&amp;quot;https://www.cnn.com&amp;quot;&amp;gt; CNN &amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;/about_us.html&amp;quot;&amp;gt;About Us&amp;lt;/a&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  </description>
     </item>
     
     <item>
