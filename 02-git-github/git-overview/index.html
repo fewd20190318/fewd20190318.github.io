@@ -12,19 +12,19 @@
     <title>Git Overview :: FEWD</title>
 
     
-    <link href="/css/nucleus.css?1553120750" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1553120750" rel="stylesheet">
-    <link href="/css/hybrid.css?1553120750" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1553120750" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1553120750" rel="stylesheet">
-    <link href="/css/auto-complete.css?1553120750" rel="stylesheet">
-    <link href="/css/theme.css?1553120750" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1553120750" rel="stylesheet">
+    <link href="/css/nucleus.css?1553125531" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1553125531" rel="stylesheet">
+    <link href="/css/hybrid.css?1553125531" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1553125531" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1553125531" rel="stylesheet">
+    <link href="/css/auto-complete.css?1553125531" rel="stylesheet">
+    <link href="/css/theme.css?1553125531" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1553125531" rel="stylesheet">
     
-      <link href="/css/theme-blue.css?1553120750" rel="stylesheet">
+      <link href="/css/theme-blue.css?1553125531" rel="stylesheet">
     
 
-    <script src="/js/jquery-2.x.min.js?1553120750"></script>
+    <script src="/js/jquery-2.x.min.js?1553125531"></script>
 
     <style type="text/css">
       :root #header + #content > #left > #rlblock_left{
@@ -87,14 +87,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1553120750"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1553120750"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1553125531"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1553125531"></script>
 <script type="text/javascript">
     
         var baseurl = "\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1553120750"></script>
+<script type="text/javascript" src="/js/search.js?1553125531"></script>
 
     
   </div>
@@ -729,9 +729,9 @@
  
   
     
-      <li data-nav-id="/02-git-github/github_hw_submission_steps/" title="Github HW Submission Steps" class="dd-item ">
-        <a href="/02-git-github/github_hw_submission_steps/">
-        Github HW Submission Steps
+      <li data-nav-id="/02-git-github/code-along-working-with-github/" title="Code Along: Working with Github" class="dd-item ">
+        <a href="/02-git-github/code-along-working-with-github/">
+        Code Along: Working with Github
         
         </a>
     </li>
@@ -1176,6 +1176,7 @@
 <li><a href="#respository">Respository</a></li>
 <li><a href="#commit">Commit</a></li>
 <li><a href="#branch">Branch</a></li>
+<li><a href="#master-branch">Master Branch</a></li>
 <li><a href="#merge">Merge</a></li>
 <li><a href="#push">Push</a></li>
 <li><a href="#pull">Pull</a></li>
@@ -1253,7 +1254,9 @@
 <ul>
 <li><p>Most basic element of GitHub</p></li>
 
-<li><p>A repository contains all of the project files</p></li>
+<li><p>A repository can be referred to as a projeect</p></li>
+
+<li><p>contains all of a project&rsquo;s files</p></li>
 
 <li><p>Stores each file&rsquo;s revision history</p></li>
 
@@ -1269,6 +1272,10 @@
 
 <li><p>Git&rsquo;s version of &ldquo;saving&rdquo;</p></li>
 
+<li><p>Commits save a &ldquo;snapshot&rdquo; of all of the project&rsquo;s files at that point in time</p></li>
+
+<li><p>Using commits you can &ldquo;time travel&rdquo; and navigate back to any previous commit that was made throughout the history of the project</p></li>
+
 <li><p>Commits usually contain a commit message which is a brief description of what changes were made</p></li>
 </ul>
 
@@ -1279,9 +1286,21 @@
 <ul>
 <li><p>Parallel version of a repository</p></li>
 
-<li><p>It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the &ldquo;live&rdquo; version.</p></li>
+<li><p>Branches allow developers to work on new features without affecting the &ldquo;master&rdquo; branch and disrupting the &ldquo;live&rdquo; version</p></li>
 
-<li><p>When you&rsquo;ve made the changes you want to make, you can merge your branch back into the master branch to publish your changes</p></li>
+<li><p>The process of creating a separate branch to work on a feature is referred to as &ldquo;creating a <strong>feature branch</strong>&ldquo;</p></li>
+
+<li><p>After developers have added their new feature (on their feature branch) they will then make a Pull Request (which is a request for comments and a request to <strong>Merge</strong> their changes back into the main branch (<strong>master branch</strong>))</p></li>
+</ul>
+
+<hr />
+
+<h2 id="master-branch">Master Branch</h2>
+
+<ul>
+<li><p>The default branch found in every Git respository</p></li>
+
+<li><p>For most companies, the master branch reflects that latest version of <strong>production</strong> code (i.e. working code available to customers)</p></li>
 </ul>
 
 <hr />
@@ -1291,7 +1310,7 @@
 <ul>
 <li><p>Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another</p></li>
 
-<li><p>This often happens as a Pull Request (which can be thought of as a request to merge)</p></li>
+<li><p>This often happens as a Pull Request (which can be thought of as a request for comments and a request to merge into the another branch - usually the <strong>master branch</strong>)</p></li>
 </ul>
 
 <hr />
@@ -1327,7 +1346,9 @@
 <h2 id="clone">Clone</h2>
 
 <ul>
-<li>Copies a remote repository down to your computer and creates a link between the two</li>
+<li><p>Copies a remote repository (i.e. repository in the cloud on a platform like Github.com) and creates a local copy of the repository on your computer</p></li>
+
+<li><p>Cloning creates a link between the the remote and local copy of a repository, allowing you to your code in sync between the two</p></li>
 </ul>
 
 <hr />
@@ -1335,9 +1356,13 @@
 <h2 id="pull-request">Pull Request</h2>
 
 <ul>
-<li>Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository&rsquo;s collaborators.</li>
-<li>Pull requests each have their own discussion forum. See Using Pull Requests.</li>
-<li>Used to perform &ldquo;Code Reviews&rdquo; of other developers&rsquo; work</li>
+<li><p>Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository&rsquo;s collaborators (i.e. team members).</p></li>
+
+<li><p>Pull requests can be thought of as a developer asking for permission to merge their changes into the <strong>master branch</strong></p></li>
+
+<li><p>Pull requests each have their own discussion forum, where developer can discuss the changes requested and suggest further revisions.</p></li>
+
+<li><p>This discussion as also referred to as <strong>Code Reviews</strong></p></li>
 </ul>
 
 <div class="notices tip" ><p>Great resource for all things git can be found <a href="https://git-scm.com/book/en/v2">here</a></p>
@@ -2153,7 +2178,7 @@
 			<a class="nav nav-prev" href="/02-git-github/agenda/" title="Agenda"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/02-git-github/github_hw_submission_steps/" title="Github HW Submission Steps" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/02-git-github/code-along-working-with-github/" title="Code Along: Working with Github" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -2163,20 +2188,20 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1553120750"></script>
-    <script src="/js/perfect-scrollbar.min.js?1553120750"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1553120750"></script>
-    <script src="/js/jquery.sticky.js?1553120750"></script>
-    <script src="/js/featherlight.min.js?1553120750"></script>
-    <script src="/js/html5shiv-printshiv.min.js?1553120750"></script>
-    <script src="/js/highlight.pack.js?1553120750"></script>
+    <script src="/js/clipboard.min.js?1553125531"></script>
+    <script src="/js/perfect-scrollbar.min.js?1553125531"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1553125531"></script>
+    <script src="/js/jquery.sticky.js?1553125531"></script>
+    <script src="/js/featherlight.min.js?1553125531"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1553125531"></script>
+    <script src="/js/highlight.pack.js?1553125531"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom.71422.js?1553120750"></script>
-    <script src="/js/learn.js?1553120750"></script>
-    <script src="/js/hugo-learn.js?1553120750"></script>
+    <script src="/js/modernizr.custom.71422.js?1553125531"></script>
+    <script src="/js/learn.js?1553125531"></script>
+    <script src="/js/hugo-learn.js?1553125531"></script>
 
-    <link href="/mermaid/mermaid.css?1553120750" type="text/css" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1553120750"></script>
+    <link href="/mermaid/mermaid.css?1553125531" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1553125531"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
