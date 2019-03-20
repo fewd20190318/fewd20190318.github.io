@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Objectives</title>
+      <link>/03-relative-paths/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/objectives/</guid>
+      <description> Learn about Relative Paths and why they are important  </description>
+    </item>
+    
+    <item>
       <title>Agenda</title>
       <link>/01-html-basics/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -32,6 +41,53 @@
  Overview of basic HTML Tags
  Code Along (GA Press Release)
  Lab (Cookie Recipe)
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/03-relative-paths/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/agenda/</guid>
+      <description> Discuss Relative Paths
+ Complete Relative Paths exercise
+  </description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/02-git-github/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/objectives/</guid>
+      <description> Achieve high-level understanding of git and why developers use it
+ Introduce students to a git workflow that will be used to submit (and recieve feeback on) assignments
+  </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/03-relative-paths/overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
+      
+      <guid>/03-relative-paths/overview/</guid>
+      <description>Relative Paths  Relative URLs can be used when linking to pages and files within your own website.
+ Shorthand way of telling the browser where to find your files.
+ Inform students that they have already seen this is use with the link tag when referencing a css file
+  Example Project with Multiple Folders/Files Navigating within the Same Folder Linking from music index page to the music reviews page</description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/02-git-github/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/02-git-github/agenda/</guid>
+      <description> Tools Overview &amp;amp; Folder Organization
+ Git Overview
+ Code Along: Submitting assignment using Github
+ Practice: Submitting another assignment using Github
   </description>
     </item>
     
@@ -65,6 +121,21 @@ Summary  Structure helps readers better understand all forms of documents
     </item>
     
     <item>
+      <title>Git Overview</title>
+      <link>/02-git-github/git-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/git-overview/</guid>
+      <description>What is Git?  Version control for Programmers
+ Like Microsoft Word &amp;ldquo;Track Changes&amp;rdquo; feature with superpowers
+ Makes it easy for programmers to collaborate and work on the same codebase
+ SVN (subversion) and CVS are other version control programs (Git is the most popular)
+  What is Github?  Web-based Git repository hosting service
+ Built on top of git
+ Home to +90% of all open source projects</description>
+    </item>
+    
+    <item>
       <title>HTML Attributes</title>
       <link>/01-html-basics/html-attributes/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -83,7 +154,41 @@ Summary  Structure helps readers better understand all forms of documents
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
       <guid>/21-class-resources/keyboard-shortcuts/</guid>
-      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools Cmd + Option + i F2 or Ctrl + Shift + i   Refresh page Cmd + R Ctrl + R   Switch between applications Cmd + Tab Alt + Tab   Switch between windows in the same application Cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open File (Fuzzy) cmd-p or cmd-t ctrl-p or ctrl-t ctrl-p or ctrl-t Opens the Fuzzy Finder   Browse Open Files cmd-b ctrl-b ctrl-b Browse tabs within the window   Previous Tab alt-cmd-left ctrl-pageup ctrl-pageup Cycles left through open tabs (in the active pane)   Next Tab alt-cmd-right ctrl-pagedown ctrl-pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd-k cmd-borcmd- ctrl-k ctrl-borctrl- ctrl-k ctrl-borctrl-| Toggles Atom&amp;rsquo;s file Tree View    Show Available Snippets alt-shift-s alt-shift-s alt-shift-s Shows the snippets available to Atom   Save cmd-s ctrl-s ctrl-s Saves the currently active file   Save As shift-cmd-s ctrl-shift-s ctrl-shift-s Saves the currently active file under a different name   Save All alt-cmd-s   Saves all changed files   Close Tab cmd-w ctrl-w ctrl-w Closes the currently active tab   Close Window shift-cmd-w ctrl-shift-w ctrl-shift-w Closes the currently active editor window   Split Window cmd-k up/down/left/right ctrl-k up/down/left/right ctrl-k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd-k cmd-up/down/left/right ctrl-k ctrl-up/down/left/right ctrl-k ctrl-up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl-cmd-f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift-cmd-d ctrl-shift-d ctrl-shift-d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl-shift-k ctrl-shift-k ctrl-shift-k Deletes the current line   Move Line Up ctrl-cmd-up ctrl-up ctrl-up Moves the contents of the current cursor position up one line.</description>
+      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools Cmd + Option + i F2 or Ctrl + Shift + i   Refresh page Cmd + R Ctrl + R   Switch between applications Cmd + Tab Alt + Tab   Switch between windows in the same application Cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open File (Fuzzy) cmd-p or cmd-t ctrl-p or ctrl-t ctrl-p or ctrl-t Opens the Fuzzy Finder   Browse Open Files cmd-b ctrl-b ctrl-b Browse tabs within the window   Previous Tab alt-cmd-left ctrl-pageup ctrl-pageup Cycles left through open tabs (in the active pane)   Next Tab alt-cmd-right ctrl-pagedown ctrl-pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd-\ ctrl-\ ctrl-\ Toggles Atom&amp;rsquo;s file Tree View   Show Available Snippets alt-shift-s alt-shift-s alt-shift-s Shows the snippets available to Atom   Save cmd-s ctrl-s ctrl-s Saves the currently active file   Save As shift-cmd-s ctrl-shift-s ctrl-shift-s Saves the currently active file under a different name   Save All alt-cmd-s   Saves all changed files   Close Tab cmd-w ctrl-w ctrl-w Closes the currently active tab   Close Window shift-cmd-w ctrl-shift-w ctrl-shift-w Closes the currently active editor window   Split Window cmd-k up/down/left/right ctrl-k up/down/left/right ctrl-k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd-k cmd-up/down/left/right ctrl-k ctrl-up/down/left/right ctrl-k ctrl-up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl-cmd-f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift-cmd-d ctrl-shift-d ctrl-shift-d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl-shift-k ctrl-shift-k ctrl-shift-k Deletes the current line   Move Line Up ctrl-cmd-up ctrl-up ctrl-up Moves the contents of the current cursor position up one line.</description>
+    </item>
+    
+    <item>
+      <title>Recommended Atom Editor Settings</title>
+      <link>/21-class-resources/atom-editor-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/atom-editor-settings/</guid>
+      <description>Setting indentation levels During our course we will be using a set indentation level of 2 spaces (1 indentation level = 2 spaces). Atom makes it easy conform to this approach by setting our tab to a set level of indentation.
+After updating this setting, pressing the tab key will represent one level of indentation which will translate to 2 spaces.
+Displaying indentation guides Setting wordwrap Wordwrap ensures that long lines in your code are automatically wrapped to the next line.</description>
+    </item>
+    
+    <item>
+      <title>Github HW Submission Instructions</title>
+      <link>/21-class-resources/homework-submission-github-workflow/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/21-class-resources/homework-submission-github-workflow/</guid>
+      <description>This guide details the steps students should take when s
+Before you start Ensure the following:
+Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
+Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.</description>
+    </item>
+    
+    <item>
+      <title>Github HW Submission Steps</title>
+      <link>/02-git-github/github_hw_submission_steps/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/02-git-github/github_hw_submission_steps/</guid>
+      <description>This guide details the steps students should take when completing and submitting their homework assignments.
+Before you start Ensure the following:
+Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.</description>
     </item>
     
     <item>

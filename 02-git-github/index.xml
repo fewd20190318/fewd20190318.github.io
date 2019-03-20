@@ -6,10 +6,60 @@
     <description>Recent content in Git &amp; Github on FEWD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 18:05:18 -0500</lastBuildDate>
     
 	<atom:link href="/02-git-github/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Objectives</title>
+      <link>/02-git-github/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/objectives/</guid>
+      <description> Achieve high-level understanding of git and why developers use it
+ Introduce students to a git workflow that will be used to submit (and recieve feeback on) assignments
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/02-git-github/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/02-git-github/agenda/</guid>
+      <description> Tools Overview &amp;amp; Folder Organization
+ Git Overview
+ Code Along: Submitting assignment using Github
+ Practice: Submitting another assignment using Github
+  </description>
+    </item>
+    
+    <item>
+      <title>Git Overview</title>
+      <link>/02-git-github/git-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/git-overview/</guid>
+      <description>What is Git?  Version control for Programmers
+ Like Microsoft Word &amp;ldquo;Track Changes&amp;rdquo; feature with superpowers
+ Makes it easy for programmers to collaborate and work on the same codebase
+ SVN (subversion) and CVS are other version control programs (Git is the most popular)
+  What is Github?  Web-based Git repository hosting service
+ Built on top of git
+ Home to +90% of all open source projects</description>
+    </item>
+    
+    <item>
+      <title>Github HW Submission Steps</title>
+      <link>/02-git-github/github_hw_submission_steps/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/02-git-github/github_hw_submission_steps/</guid>
+      <description>This guide details the steps students should take when completing and submitting their homework assignments.
+Before you start Ensure the following:
+Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.</description>
+    </item>
     
   </channel>
 </rss>
