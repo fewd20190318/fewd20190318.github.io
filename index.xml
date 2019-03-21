@@ -86,8 +86,8 @@
       <guid>/02-git-github/agenda/</guid>
       <description> Tools Overview &amp;amp; Folder Organization
  Git Overview
- Code Along: Submitting assignment using Github
- Practice: Submitting another assignment using Github
+ Code Along: Working with Github
+ Exercise: Working with Github
   </description>
     </item>
     
@@ -180,6 +180,20 @@ Steps  1) Fork this US states repository located on Github.com
       <description>Setting indentation levels During our course we will be using a set indentation level of 2 spaces (1 indentation level = 2 spaces). Atom makes it easy conform to this approach by setting our tab to a set level of indentation.
 After updating this setting, pressing the tab key will represent one level of indentation which will translate to 2 spaces.
 Displaying indentation guides Setting wordwrap Wordwrap ensures that long lines in your code are automatically wrapped to the next line.</description>
+    </item>
+    
+    <item>
+      <title>Exercise: Working with Github</title>
+      <link>/02-git-github/exercise-github-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/exercise-github-workflow/</guid>
+      <description>Work together in pairs and follow the directions below.
+Use this Guide as reference
+Steps  1) Fork this repository located on Github.com
+ 2) Clone the Repository using Github Desktop
+ 3) Save the local copy of the repository in your FEWD/github folder
+ 4) Open the project in Atom and and add the lyrics to Barney&amp;rsquo;s (you know the purple dinosaur) hit song &amp;ldquo;I Love You&amp;rdquo;. Save your work.</description>
     </item>
     
     <item>
