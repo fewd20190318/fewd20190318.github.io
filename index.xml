@@ -121,18 +121,6 @@ Summary  Structure helps readers better understand all forms of documents
     </item>
     
     <item>
-      <title>Code Along - Relative Paths</title>
-      <link>/03-relative-paths/code-along-relative-paths/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/03-relative-paths/code-along-relative-paths/</guid>
-      <description>Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page
- 2) Add a link from the About page to the Homepage
- 3) Add links from Homepage to index.html pages of the following sections:
- Mammals Birds Reptiles  4) Add links from the Homepage to the index.</description>
-    </item>
-    
-    <item>
       <title>Example</title>
       <link>/03-relative-paths/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,6 +166,18 @@ Summary  Structure helps readers better understand all forms of documents
       
       <guid>/21-class-resources/keyboard-shortcuts/</guid>
       <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools Cmd + Option + i F2 or Ctrl + Shift + i   Refresh page Cmd + R Ctrl + R   Switch between applications Cmd + Tab Alt + Tab   Switch between windows in the same application Cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open File (Fuzzy) cmd-p or cmd-t ctrl-p or ctrl-t ctrl-p or ctrl-t Opens the Fuzzy Finder   Browse Open Files cmd-b ctrl-b ctrl-b Browse tabs within the window   Previous Tab alt-cmd-left ctrl-pageup ctrl-pageup Cycles left through open tabs (in the active pane)   Next Tab alt-cmd-right ctrl-pagedown ctrl-pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd-\ ctrl-\ ctrl-\ Toggles Atom&amp;rsquo;s file Tree View   Show Available Snippets alt-shift-s alt-shift-s alt-shift-s Shows the snippets available to Atom   Save cmd-s ctrl-s ctrl-s Saves the currently active file   Save As shift-cmd-s ctrl-shift-s ctrl-shift-s Saves the currently active file under a different name   Save All alt-cmd-s   Saves all changed files   Close Tab cmd-w ctrl-w ctrl-w Closes the currently active tab   Close Window shift-cmd-w ctrl-shift-w ctrl-shift-w Closes the currently active editor window   Split Window cmd-k up/down/left/right ctrl-k up/down/left/right ctrl-k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd-k cmd-up/down/left/right ctrl-k ctrl-up/down/left/right ctrl-k ctrl-up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl-cmd-f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift-cmd-d ctrl-shift-d ctrl-shift-d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl-shift-k ctrl-shift-k ctrl-shift-k Deletes the current line   Move Line Up ctrl-cmd-up ctrl-up ctrl-up Moves the contents of the current cursor position up one line.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Relative Paths</title>
+      <link>/03-relative-paths/code-along-relative-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/code-along-relative-paths/</guid>
+      <description>Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page
+ 2) Add a link from the About page to the Homepage
+ 3) Add links from Homepage to index.html pages of the following sections:
+ Mammals Birds Reptiles  4) Add links from the Homepage to the index.</description>
     </item>
     
     <item>
@@ -316,7 +316,7 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
  Lesson 01 files (HTML Basics)
  Lesson 02 files (Git/Github): No files needed
  Lesson 03 files (Relative Paths)
- Lesson 04 files (CSS Basics): TBD
+ Lesson 04 files (CSS Basics)
  Lesson 05 files (CSS Selectors): TBD
  Lesson 06 files (CSS Box Model): TBD
  Lesson 07 files (Page Layout with Flexbox): TBD
@@ -391,7 +391,7 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
       
       <guid>/04-css-basics/code-along/</guid>
       <description> Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below
- Using Sublime, open the folder called about_me_and_portfolio files for this exercise can be found in your starter_code folder under the
+ Using Atom, open the folder called rocket_raccoon_about_me in your lesson_03_files folder. You will be using these files as starting off point.
   </description>
     </item>
     

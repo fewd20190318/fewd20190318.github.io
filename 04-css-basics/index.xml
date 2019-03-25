@@ -68,7 +68,7 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
       
       <guid>/04-css-basics/code-along/</guid>
       <description> Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below
- Using Sublime, open the folder called about_me_and_portfolio files for this exercise can be found in your starter_code folder under the
+ Using Atom, open the folder called rocket_raccoon_about_me in your lesson_03_files folder. You will be using these files as starting off point.
   </description>
     </item>
     
