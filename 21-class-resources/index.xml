@@ -37,10 +37,8 @@ Displaying indentation guides Setting wordwrap Wordwrap ensures that long lines 
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
       <guid>/21-class-resources/homework-submission-github-workflow/</guid>
-      <description>This guide details the steps students should take when s
-Before you start Ensure the following:
-Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
-Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.</description>
+      <description>Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
+Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com</description>
     </item>
     
   </channel>

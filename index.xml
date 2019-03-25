@@ -72,10 +72,10 @@
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
       
       <guid>/03-relative-paths/overview/</guid>
-      <description>Relative Paths  Relative URLs can be used when linking to pages and files within your own website.
+      <description> Relative Paths  Relative URLs can be used when linking to pages and files within your own website.
  Shorthand way of telling the browser where to find your files.
  Inform students that they have already seen this is use with the link tag when referencing a css file
-  Example Project with Multiple Folders/Files Navigating within the Same Folder Linking from music index page to the music reviews page</description>
+  </description>
     </item>
     
     <item>
@@ -118,6 +118,29 @@ Summary  Structure helps readers better understand all forms of documents
  Opening Tag
  comprised of character(s) surrounded by less than and equal than signs (brackets) characters within the brackets indicates the tags purpose  Closing Tag
  Same as opening tag except closing tag contains a forward slash which informs browser that element has ended   Terms “tags” and “elements” are often used interchangeably</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Relative Paths</title>
+      <link>/03-relative-paths/code-along-relative-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/code-along-relative-paths/</guid>
+      <description>Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page
+ 2) Add a link from the About page to the Homepage
+ 3) Add links from Homepage to index.html pages of the following sections:
+ Mammals Birds Reptiles  4) Add links from the Homepage to the index.</description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/03-relative-paths/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/example/</guid>
+      <description>Example Project with Multiple Folders/Files Navigating within the Same Folder Linking from music index page to the music reviews page
+&amp;lt;a href=&amp;quot;reviews.html&amp;quot;&amp;gt; Music Reviews &amp;lt;/a&amp;gt;  Navigating to a file in a Child Folder Linking from the homepage (top-level index.html) to the music listings page
+&amp;lt;a href=&amp;quot;music/listings.html&amp;quot;&amp;gt; Music Listings &amp;lt;/a&amp;gt;  Navigating to a file in a Grandchild Folder Linking from the homepage (top-level index.html) to the dvd reviews page</description>
     </item>
     
     <item>
@@ -183,6 +206,32 @@ Displaying indentation guides Setting wordwrap Wordwrap ensures that long lines 
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/05-css-selectors/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/05-css-selectors/agenda/</guid>
+      <description> Classes and IDs
+ CSS Selectors Overview
+ CSS Diner
+ Code Along: Tags &amp;amp; Boxes
+ Lab: Fashion Blog
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/04-css-basics/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/agenda/</guid>
+      <description> Thinking in boxes
+ What is CSS
+ Adding CSS to your websites
+  </description>
+    </item>
+    
+    <item>
       <title>Exercise: Working with Github</title>
       <link>/02-git-github/exercise-github-workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,10 +251,59 @@ Steps  1) Fork this repository located on Github.com
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
       <guid>/21-class-resources/homework-submission-github-workflow/</guid>
-      <description>This guide details the steps students should take when s
-Before you start Ensure the following:
-Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
-Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.</description>
+      <description>Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
+Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com</description>
+    </item>
+    
+    <item>
+      <title>Thinking in Boxes</title>
+      <link>/04-css-basics/thinking-in-boxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/thinking-in-boxes/</guid>
+      <description>Understanding the CSS Box Model is key to understanding how CSS works
+ Going forward, you should view every element as a box (because that&amp;rsquo;s how browsers view them)
+   Block elements in the image are outlined in red, while inline elements are outlined in green
+ Every element is a box, some boxes contain other boxes &amp;lt;body&amp;gt;, &amp;lt;div&amp;gt; or &amp;lt;article&amp;gt;
+ CSS allows you to create rules the control each individual box</description>
+    </item>
+    
+    <item>
+      <title>Intro to CSS</title>
+      <link>/04-css-basics/css-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/css-intro/</guid>
+      <description>What is CSS?  Stands for Cascading Style Sheet
+ Allows you to control design of page
+ With CSS allows you to create rules that specify how the content of an element should appear
+  p { color: gray; }  Applying the CSS rule above will result in text color of all &amp;lt;p&amp;gt; tags being changed to gray.
+Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>Adding CSS to your website</title>
+      <link>/04-css-basics/adding-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/adding-css/</guid>
+      <description>There are three ways to add css to your site  1) Inline (avoid!)
+ 2) Internal css using &amp;lt;style&amp;gt; tag (avoid!)
+ 3) External file (best practice)
+  Inline CSS (avoid!)  This method involves adding styles directly to html elements using a style attribute   &amp;lt;body style=&amp;quot;background-color: orange;&amp;quot;&amp;gt; &amp;lt;!-- other tags redacted for example --&amp;gt; &amp;lt;/body&amp;gt;  Internal CSS (avoid!)  This method involves adding styles directly to html elements using a &amp;lt;style&amp;gt; tag  &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Classes and Ids</title>
+      <link>/05-css-selectors/classes-and-ids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/classes-and-ids/</guid>
+      <description>Classes and Ids  Both are just HTML attributes
+ Should start with a letter or underscore
+ Can be applied to any html element
+ Important: Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved
+  Class Attribute  Is used to group elements together, therefore establishing them as different from other elements on the page</description>
     </item>
     
     <item>
@@ -216,9 +314,9 @@ Step 2: Log into to your Github account Ensure you are logged into your GitHub a
       <guid>/course-materials/lesson-files/</guid>
       <description>Lesson Files  Lesson 00 files (Course Intro &amp;amp; Tools) : No files needed
  Lesson 01 files (HTML Basics)
- Lesson 02 files (Git/Github): TBD
- Lesson 03 files (Relative Paths): TBD
- Lesson 04 files (Intro to CSS): TBD
+ Lesson 02 files (Git/Github): No files needed
+ Lesson 03 files (Relative Paths)
+ Lesson 04 files (CSS Basics): TBD
  Lesson 05 files (CSS Selectors): TBD
  Lesson 06 files (CSS Box Model): TBD
  Lesson 07 files (Page Layout with Flexbox): TBD
@@ -253,6 +351,29 @@ Step 2: Log into to your Github account Ensure you are logged into your GitHub a
     </item>
     
     <item>
+      <title>CSS Selectors</title>
+      <link>/05-css-selectors/css-selectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/css-selectors/</guid>
+      <description>CSS Selectors Overview  Many different types of selectors that allow you to target rules to specific elements in an HTML document
+ Selectors are case sensitive, must match element names and attributes exactly
+     Selector Meaning Example     Universal Selector Applies to all elements *{}   Type Selector Match elements names h1, h2, h3 {}   Class Selector Matches all elements with a class attribute value matching on specified after a period (.</description>
+    </item>
+    
+    <item>
+      <title>CSS Selectors Examples</title>
+      <link>/05-css-selectors/css-selectors-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/css-selectors-examples/</guid>
+      <description>CSS Selectors Examples Child Selector Child Selector Example on jsbin.com
+Descendent Selector Descendant Selector Example on jsbin.com
+Adjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com
+General Sibling Selector General Sibling Selector Example on jsbin.com</description>
+    </item>
+    
+    <item>
       <title>Code Along</title>
       <link>/01-html-basics/code-along/</link>
       <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
@@ -260,6 +381,29 @@ Step 2: Log into to your Github account Ensure you are logged into your GitHub a
       <guid>/01-html-basics/code-along/</guid>
       <description> Code Along: GA Press Release  As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release
  Using Sublime, open the folder called ga_press_release (found within the starter_code) folder
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>/04-css-basics/code-along/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/code-along/</guid>
+      <description> Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below
+ Using Sublime, open the folder called about_me_and_portfolio files for this exercise can be found in your starter_code folder under the
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>/04-css-basics/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/lab/</guid>
+      <description> Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
+ You will be adding a page to your existing about_me_and_portfolio project
+ The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url
   </description>
     </item>
     

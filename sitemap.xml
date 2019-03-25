@@ -55,6 +55,14 @@
   </url>
   
   <url>
+    <loc>/03-relative-paths/code-along-relative-paths/</loc>
+  </url>
+  
+  <url>
+    <loc>/03-relative-paths/example/</loc>
+  </url>
+  
+  <url>
     <loc>/02-git-github/git-overview/</loc>
   </url>
   
@@ -82,8 +90,17 @@
   </url>
   
   <url>
+    <loc>/05-css-selectors/agenda/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/tag-overview/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/agenda/</loc>
   </url>
   
   <url>
@@ -101,8 +118,24 @@
   </url>
   
   <url>
-    <loc>/04-intro-to-css/</loc>
+    <loc>/04-css-basics/thinking-in-boxes/</loc>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/css-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/adding-css/</loc>
+  </url>
+  
+  <url>
+    <loc>/05-css-selectors/classes-and-ids/</loc>
   </url>
   
   <url>
@@ -122,7 +155,15 @@
   
   <url>
     <loc>/05-css-selectors/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/05-css-selectors/css-selectors/</loc>
+  </url>
+  
+  <url>
+    <loc>/05-css-selectors/css-selectors-examples/</loc>
   </url>
   
   <url>
@@ -133,6 +174,14 @@
   <url>
     <loc>/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/code-along/</loc>
+  </url>
+  
+  <url>
+    <loc>/04-css-basics/lab/</loc>
   </url>
   
   <url>
