@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/21-class-resources/homework-submission-github-workflow/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -105,11 +110,6 @@
   
   <url>
     <loc>/02-git-github/exercise-github-workflow/</loc>
-  </url>
-  
-  <url>
-    <loc>/21-class-resources/homework-submission-github-workflow/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
