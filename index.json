@@ -109,7 +109,7 @@
 	"title": "Code Along - Relative Paths",
 	"tags": [],
 	"description": "",
-	"content": " Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page\n 2) Add a link from the About page to the Homepage\n 3) Add links from Homepage to index.html pages of the following sections:\n Mammals Birds Reptiles  4) Add links from the Homepage to the index.html pages of the following sections:\n Marsupials Placentals Monotremes  5) Add the associated images (from the provided image folder) to the index.html page of the following sections:\n Mammals Birds Reptiles  6) Add a link from the index.html pages of the Mammals, Reptiles and Birds section back to the Homepage\n 7) Add a link from the listing.html page of Monotremes back to the Homepage\n 8) Add a link from the listing.html page of the Marsupials section to the listing.html page of the Monotremes section\n 9) Add a link from the index.html page of the Placentals section to the index.html page of the Marsupials section\n 10) Add a link from the index.html page of the Reptiles section to the index.html page of the Mammals section\n  "
+	"content": " Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page\n 2) Add a link from the About page to the Homepage\n 3) Add links from Homepage to index.html pages of the following sections:\n Mammals Birds Reptiles  4) Add links from the Homepage to the index.html pages of the following sections:\n Marsupials Placentals Monotremes  5) Add the associated images (from the provided image folder) to the index.html page of the following sections:\n Mammals Birds Reptiles  6) Add a link from the index.html pages of the Mammals, Reptiles and Birds section back to the Homepage\n 7) Add a link from the listing.html page of Monotremes back to the Homepage\n 8) Add a link from the listing.html page of the Marsupials section to the listing.html page of the Monotremes section\n 9) Add a link from the index.html page of the Placentals section to the index.html page of the Marsupials section\n 10) Add a link from the index.html page of the Marsupials section back to the homepage\n  "
 },
 {
 	"uri": "/02-git-github/code-along-working-with-github/",
@@ -252,13 +252,6 @@
 	"content": " CSS Selectors Examples Child Selector Child Selector Example on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\n"
 },
 {
-	"uri": "/01-html-basics/code-along/",
-	"title": "Code Along",
-	"tags": [],
-	"description": "",
-	"content": " Code Along: GA Press Release  As a class, we\u0026rsquo;ll walk through using html to build out an html version of a press release\n Using Sublime, open the folder called ga_press_release (found within the starter_code) folder\n  "
-},
-{
 	"uri": "/06-css-box-model/",
 	"title": "CSS Box Model",
 	"tags": [],
@@ -267,21 +260,28 @@
 },
 {
 	"uri": "/04-css-basics/code-along/",
-	"title": "Code Along",
+	"title": "Code Along - About Me",
 	"tags": [],
 	"description": "",
-	"content": " Code Along: Building an \u0026ldquo;About Me\u0026rdquo; page  As a class, we\u0026rsquo;ll walk through using html and css to build the \u0026ldquo;About Me\u0026rdquo; page depicted in the image below\n Using Atom, open the folder called rocket_raccoon_about_me in your lesson_03_files folder. You will be using these files as starting off point.\n  "
+	"content": " Code Along: Building an \u0026ldquo;About Me\u0026rdquo; page  As a class, we\u0026rsquo;ll walk through using html and css to build the \u0026ldquo;About Me\u0026rdquo; page depicted in the image below   Using Atom, open the folder called rocket_raccoon_about_me in your lesson_04_files folder. You will be using these files as starting off point.\n When building websites it is a best practice to have a plan in place before starting out. One popular planning tool is called a wireframe.\n Wireframes are low fidelity drawings that help you visualize the layout of your pages. We\u0026rsquo;ll talk about wireframes more in depth throughout the course.\n For this exercise we\u0026rsquo;ll be using the wireframe below to help guide is build out the About Me page:\n  "
+},
+{
+	"uri": "/01-html-basics/code-along/",
+	"title": "Code Along - GA Press Release",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: GA Press Release  As a class, we\u0026rsquo;ll walk through using html to build out an html version of a press release\n Using Sublime, open the folder called ga_press_release (found within the starter_code) folder\n  "
 },
 {
 	"uri": "/04-css-basics/lab/",
-	"title": "Lab",
+	"title": "Lab - Portfolio page",
 	"tags": [],
 	"description": "",
-	"content": " Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer\u0026rsquo;s site by building our their portfolio page (depicted in the image below)\n You will be adding a page to your existing about_me_and_portfolio project\n The \u0026ldquo;About Me\u0026rdquo; and \u0026ldquo;Porfolio\u0026rdquo; pages should be linked using a relative url\n  "
+	"content": " Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer\u0026rsquo;s site by building our their portfolio page (depicted in the image below)\n You will be adding a Portfolio page to your existing rocket_raccoon_about_me project\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n The \u0026ldquo;About Me\u0026rdquo; and \u0026ldquo;Porfolio\u0026rdquo; pages should be linked using a relative url\n  "
 },
 {
 	"uri": "/01-html-basics/lab/",
-	"title": "Lab",
+	"title": "Lab - Cookie Recipe",
 	"tags": [],
 	"description": "",
 	"content": " Lab: Cookie Recipe  Work individually or in teams to create an html version of a Cookie recipe depicted in the images below\n Using Atom, open the folder called cookie_recipe in your lesson_01_files folder. You will be using these files as starting off point.\n Tips\n Focus on the content first, then the image then the CSS There will be some items that you will need to look up, CSS is one of them (don\u0026rsquo;t worry we will be going over this in the next class, but part of being a developer is being able to google your way to solutions)   "
@@ -305,7 +305,7 @@
 	"title": "Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",

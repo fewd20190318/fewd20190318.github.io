@@ -167,11 +167,6 @@
   </url>
   
   <url>
-    <loc>/01-html-basics/code-along/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -181,12 +176,15 @@
   </url>
   
   <url>
+    <loc>/01-html-basics/code-along/</loc>
+  </url>
+  
+  <url>
     <loc>/04-css-basics/lab/</loc>
   </url>
   
   <url>
     <loc>/01-html-basics/lab/</loc>
-    <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
   
   <url>

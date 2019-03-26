@@ -374,9 +374,19 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
     </item>
     
     <item>
-      <title>Code Along</title>
+      <title>Code Along - About Me</title>
+      <link>/04-css-basics/code-along/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/code-along/</guid>
+      <description>Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below   Using Atom, open the folder called rocket_raccoon_about_me in your lesson_04_files folder. You will be using these files as starting off point.
+ When building websites it is a best practice to have a plan in place before starting out.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - GA Press Release</title>
       <link>/01-html-basics/code-along/</link>
-      <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/01-html-basics/code-along/</guid>
       <description> Code Along: GA Press Release  As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release
@@ -385,32 +395,21 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
     </item>
     
     <item>
-      <title>Code Along</title>
-      <link>/04-css-basics/code-along/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/04-css-basics/code-along/</guid>
-      <description> Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below
- Using Atom, open the folder called rocket_raccoon_about_me in your lesson_03_files folder. You will be using these files as starting off point.
-  </description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
+      <title>Lab - Portfolio page</title>
       <link>/04-css-basics/lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/04-css-basics/lab/</guid>
-      <description> Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
- You will be adding a page to your existing about_me_and_portfolio project
- The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url
-  </description>
+      <description>Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
+ You will be adding a Portfolio page to your existing rocket_raccoon_about_me project
+ Before you start building: Draw a wireframe of the layout to help you plan your approach
+ The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url</description>
     </item>
     
     <item>
-      <title>Lab</title>
+      <title>Lab - Cookie Recipe</title>
       <link>/01-html-basics/lab/</link>
-      <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/01-html-basics/lab/</guid>
       <description> Lab: Cookie Recipe  Work individually or in teams to create an html version of a Cookie recipe depicted in the images below
@@ -426,7 +425,7 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  </description>
     </item>
     
     <item>
