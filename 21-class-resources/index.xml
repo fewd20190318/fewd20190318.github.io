@@ -22,6 +22,22 @@ Step 2: Log into to your Github account Ensure you are logged into your GitHub a
     </item>
     
     <item>
+      <title>Documentation</title>
+      <link>/21-class-resources/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/documentation/</guid>
+      <description>Referencing documentation is a core task for developers.
+ Documentation communicates how something (in our case programming languages, software libraries) works.
+ Good documentation reduces implementation time and increases predictability of our software programs.
+  We will be referring to the following list of the documentation resources frequently throughout the course:
+HTML MDN&amp;rsquo;s HTML Reference
+CSS MDN&amp;rsquo;s CSS Reference
+Javascript MDN&amp;rsquo;s Javascript Reference
+jQuery jQuery Documentation</description>
+    </item>
+    
+    <item>
       <title>Keyboard Shortcuts</title>
       <link>/21-class-resources/keyboard-shortcuts/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
