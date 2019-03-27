@@ -198,6 +198,14 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/</loc>
+  </url>
+  
+  <url>
     <loc>/course-materials/solutions/</loc>
     <lastmod>2019-03-17T14:08:08-04:00</lastmod>
   </url>
@@ -208,8 +216,28 @@
   </url>
   
   <url>
+    <loc>/11-variables-and-datatypes/</loc>
+  </url>
+  
+  <url>
+    <loc>/12-conditionals-and-loops/</loc>
+  </url>
+  
+  <url>
     <loc>/00-course-intro-and-tools/what-is-frontend-development/</loc>
     <lastmod>2019-03-16T19:57:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/13-arrays-and-objects/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-anonymous-functions-javascript-lab/</loc>
   </url>
   
   <url>
@@ -223,8 +251,20 @@
   </url>
   
   <url>
+    <loc>/16-responsive-design/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-responsive-design-lab/</loc>
+  </url>
+  
+  <url>
     <loc>/00-course-intro-and-tools/tools/</loc>
     <lastmod>2019-03-16T10:03:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/18-forms/</loc>
   </url>
   
   <url>

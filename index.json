@@ -301,6 +301,20 @@
 	"content": " Lesson 08 CSS Positioning \u0026amp; Colors "
 },
 {
+	"uri": "/09-intro-to-programming/",
+	"title": "Intro to Programming",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 09 Intro to Programming "
+},
+{
+	"uri": "/10-intro-to-jquery/",
+	"title": "Intro to jQuery",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 10 Intro to Programming "
+},
+{
 	"uri": "/course-materials/solutions/",
 	"title": "Solutions",
 	"tags": [],
@@ -315,11 +329,46 @@
 	"content": " HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n JS Bin on jsbin.com\nParagraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  JS Bin on jsbin.com\n"
 },
 {
+	"uri": "/11-variables-and-datatypes/",
+	"title": "Variables &amp; Datatypes",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 11 Variables \u0026amp; Datatypes "
+},
+{
+	"uri": "/12-conditionals-and-loops/",
+	"title": "Conditionals &amp; Loops",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 12 Conditionals \u0026amp; Loops "
+},
+{
 	"uri": "/00-course-intro-and-tools/what-is-frontend-development/",
 	"title": "What Is front-end Development?",
 	"tags": [],
 	"description": "",
 	"content": " Overview  Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.  What are the primary technologies associated with front-end development?  HTML\n CSS\n Javascript\n  How is front-end development differ from back-end development?  Backend development, is also known as server-side development and involves storing data on behalf of users or customers\n Example: Amazon, stores information about all it\u0026rsquo;s customers\u0026rsquo; order history in a database  Also where a company\u0026rsquo;s business logic lives\n Example: Amazon will only qualify non-prime customers for free shipping if they spend over $50  The programming languages used for back-end development includes (but is not limited to) Ruby, Python, Java, Go and Javascript (using a technology called NodeJS)\n  "
+},
+{
+	"uri": "/13-arrays-and-objects/",
+	"title": "Arrays &amp; Objects",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 13 Arrays \u0026amp; Objects "
+},
+{
+	"uri": "/14-functions/",
+	"title": "Functions",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 14 Functions "
+},
+{
+	"uri": "/15-anonymous-functions-javascript-lab/",
+	"title": "Anonymous Functions &amp; Javascript Lab",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 15 Anonymous Functions \u0026amp; Javascript "
 },
 {
 	"uri": "/00-course-intro-and-tools/class-logistics-materials/",
@@ -336,11 +385,32 @@
 	"content": " Lists  3 different types of lists:\n Unordered - lists start with a bullet point by default Ordered - numbered lists Definition - set of terms along with definition of those terms (not used often)  Both unordered and ordered lists contain list items\n list items elements are the items within list, they use opening and closing tag\n list item elements are indented by default\n list items elements are always a child a list element (in this case the “unordered list” or ul element.\n   Unordered List Example of an unordered list\nJS Bin on jsbin.com\nOrdered List Example of an ordered list\nJS Bin on jsbin.com\nDefinition List Example of a definition list\nJS Bin on jsbin.com\n"
 },
 {
+	"uri": "/16-responsive-design/",
+	"title": "Responsive Design",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 16 Responsive Design "
+},
+{
+	"uri": "/17-responsive-design-lab/",
+	"title": "Responsive Design Lab",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 17 Responsive Design Lab "
+},
+{
 	"uri": "/00-course-intro-and-tools/tools/",
 	"title": "Course Tools",
 	"tags": [],
 	"description": "",
 	"content": " Text Editor:\n Why?: Text editor is a program that developers use to create and edit a range of programming language files. We\u0026rsquo;ll be using Atom, because it\u0026rsquo;s open source (free) and really good.\n Download Atom\n  Browser:\n Why?: Google chrome is a robust browser with a variety of tools that are helpful to developers.\n Install Google Chrome\n  Github:\n Why?: Github (and Git) are tools/applications used to by developers to manage their code and work collaboratively with each other. You\u0026rsquo;ll be using Github/Git to submit our homework assignments. kj\n Create a Github Account\n Download the Github Desktop App\n  Slack:\n Why?: Is a popular chat application that we\u0026rsquo;ll be using as our primary method of communication both during and outside of class\n Join the GA NYC Part Time Students Slack Community slack channel\n You should have received an emailed invitation to join GA’s slack team\n Don’t see an invitation in your inbox? Check your spam folder - many of Slack’s invitation emails tend to end up there. Let me know if you weren’t sent an invite and we’ll get you sorted out.\n  Add yourself to the dedicated Slack Channel for our class named #fewd-3-18-19 (see instructions on how to join a Slack Channel here)\n  Wireframes:\n Why?: Wireframes are a planning tools that helps you visualize the layout and other aspects of your web projects before writing any code.\n Multiple options:\n Whimsical - free wireframing software\n Google Draw\n Pen \u0026amp; Paper\n  Example of a wireframe:\n   "
+},
+{
+	"uri": "/18-forms/",
+	"title": "Forms",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 18 Forms "
 },
 {
 	"uri": "/01-html-basics/tag-overview/links/",
