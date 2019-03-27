@@ -21,6 +21,13 @@
 	"content": " Lesson 00 Class Introduction \u0026amp; Tools "
 },
 {
+	"uri": "/06-css-box-model/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Discuss how CSS Cascades\n Box Model\n Code Along: Tags \u0026amp; Boxes\n Lab: Fashion Blog\n  "
+},
+{
 	"uri": "/03-relative-paths/objectives/",
 	"title": "Objectives",
 	"tags": [],
@@ -75,6 +82,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 01 HTML Basics "
+},
+{
+	"uri": "/06-css-box-model/css-cascading-guidelines/",
+	"title": "CSS Cascading Guidelines",
+	"tags": [],
+	"description": "",
+	"content": " How CSS Cascades There are guidelines that will determine which CSS rule takes precendent in the case of a conflict (when 2 or more css rules target the same selector)\n Last Rule\n Specificity\n Important\n Inheritance\n  Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt; Color will be green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here the \u0026lt;p\u0026gt; tag wil be green because the last conflicting rule took precedent\nSpecificity  If one selector is more specific than others, then the more specific rule takes precedent\n For example:\n h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   !important  You can override all the above rules by adding a “!important” after any property\n This should be used sparingly; excessive use of !important can cause confusion within your codebase\n  // in css #thing { color: green; } // add the !important option at the end of your declaration; p { color: red !important; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p id=\u0026quot;thing\u0026quot;\u0026gt;Will be RED and NOT Green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here we used the !important option in CSS to override the Specificity guideline that would have had the rule with the selector of #thing take precedence under normal circumstances\nInheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties\n However, properties such as background color or border properties are not inherited\n Click here to see a full list inherited and non-inherited CSS properties\n  "
 },
 {
 	"uri": "/01-html-basics/html-tag-anatomy/",
@@ -137,7 +151,7 @@
 	"title": "Agenda",
 	"tags": [],
 	"description": "",
-	"content": " Classes and IDs\n CSS Selectors Overview\n CSS Diner\n Code Along: Tags \u0026amp; Boxes\n Lab: Fashion Blog\n  "
+	"content": " Classes and IDs\n CSS Selectors Overview \u0026amp; Examples\n Exercise: CSS Diner\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/",
@@ -214,7 +228,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): TBD\n Lesson 06 files (CSS Box Model): TBD\n Lesson 07 files (Page Layout with Flexbox): TBD\n Lesson 08 files (CSS Positioning \u0026amp; Colors): TBD\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox): TBD\n Lesson 08 files (CSS Positioning \u0026amp; Colors): TBD\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -256,14 +270,14 @@
 	"title": "CSS Selectors",
 	"tags": [],
 	"description": "",
-	"content": " CSS Selectors Overview  Many different types of selectors that allow you to target rules to specific elements in an HTML document\n Selectors are case sensitive, must match element names and attributes exactly\n     Selector Meaning Example     Universal Selector Applies to all elements *{}   Type Selector Match elements names h1, h2, h3 {}   Class Selector Matches all elements with a class attribute value matching on specified after a period (.) .hint {}, p.hint {}   ID Selector Matches all elements with a id attribute value matching on specified after a hash (#) #offer {}   Child Selector Matches elements that are a direct child of another li \u0026gt; a {}   Descendant Selector Matches element that is a direct descendant of another (not just the child) p a {}   Adjacent Sibling Selector Matches first element that is a sibling of another h1+p {}   General Sibling Selector Matches all elements that is a sibling of another h1~p {}   Attribute Selector Attribute selectors select an element using the presence of a given attribute or attribute value input[type=\u0026quot;email\u0026quot;] {}    A complete list of all CSS Selectors can be found here\n "
+	"content": " CSS Selectors Overview  Many different types of selectors that allow you to target rules to specific elements in an HTML document\n Selectors are case sensitive, must match element names and attributes exactly\n     Selector Meaning Example     Universal Selector Applies to all elements *{}   Type Selector Match elements names h1, h2, h3 {}   Class Selector Matches all elements with a class attribute value matching on specified after a period (.) .hint {}, p.hint {}   ID Selector Matches all elements with a id attribute value matching on specified after a hash (#) #offer {}   Child Selector Matches elements that are a direct child of another li \u0026gt; a {}   Descendant Selector Matches element that is a direct descendant of another (not just the child) p a {}   Adjacent Sibling Selector Matches first element that is a sibling of another h1+p {}   General Sibling Selector Matches all elements that is a sibling of another h1~p {}   Attribute Selector Attribute selectors select an element using the presence of a given attribute or attribute value input[type=\u0026quot;email\u0026quot;] {}   Pseudo Class Selector Selector that specifies a special state of the selected element(s) a:visited   Pseudo Element Selector Selector that lets you style a specific part of the selected element(s) p:first-line    A complete list of all CSS Selectors can be found here\n "
 },
 {
 	"uri": "/05-css-selectors/css-selectors-examples/",
 	"title": "CSS Selectors Examples",
 	"tags": [],
 	"description": "",
-	"content": " CSS Selectors Examples Child Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\n"
+	"content": " CSS Selectors Examples Class Selector ID Selector Child Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\nPseudo Class Selector Pseudo Element Selector "
 },
 {
 	"uri": "/06-css-box-model/",
@@ -291,7 +305,21 @@
 	"title": "Lab - Portfolio page",
 	"tags": [],
 	"description": "",
-	"content": " Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer\u0026rsquo;s site by building our their portfolio page (depicted in the image below)\n You will be adding a Portfolio page to your existing rocket_raccoon_about_me project\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n The \u0026ldquo;About Me\u0026rdquo; and \u0026ldquo;Porfolio\u0026rdquo; pages should be linked using a relative url\n  "
+	"content": " Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer\u0026rsquo;s site by building our their portfolio page (depicted in the image below)\n You will be adding a Portfolio page to your existing rocket_raccoon_about_me project\n Timebox: 35 mins\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n The \u0026ldquo;About Me\u0026rdquo; and \u0026ldquo;Porfolio\u0026rdquo; pages should be linked using a relative url\n  "
+},
+{
+	"uri": "/06-css-box-model/box-model/",
+	"title": "CSS Box Model",
+	"tags": [],
+	"description": "",
+	"content": " CSS Box Model  Understanding the CSS Box Model is key to understanding how CSS works\n Going forward, you should view every element as a box (because that\u0026rsquo;s how browsers view them)\n   Block elements in the image are outlined in red, while inline elements are outlined in green\n Every element is a box, some boxes contain other boxes \u0026lt;body\u0026gt;, \u0026lt;div\u0026gt; or \u0026lt;article\u0026gt;\n CSS allows you to create rules the control each individual box\n   tags are examples of block elements-- , , , -- Box Model consists of:  Margin\n Padding\n Border\n  Margin  Margins sit outside the edge of your border\n Create a gap between the edges of two adjacent boxes\n  [Add Example]\nPadding  Padding is the space between the border of a box and any content contained within it.\n Adding padding helps to increase readability of a box’s content\n  [Add Example]\nBorder  Every box has a border, even if it is invisible (0 pixels wide)\n Borders separates the edge of one box from another\n  [Add Example]\n"
+},
+{
+	"uri": "/05-css-selectors/exercise-css-diner/",
+	"title": "Exercise - CSS Diner",
+	"tags": [],
+	"description": "",
+	"content": " Exercise: CSS Diner During this exercise, you\u0026rsquo;ll go through an interactive tutorial focused on learning the different CSS Selectors\n Complete the interactive tutorial found here\n Timebox: 25 mins\n  "
 },
 {
 	"uri": "/01-html-basics/lab/",
@@ -306,6 +334,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 07 Page Layout with Flexbox "
+},
+{
+	"uri": "/06-css-box-model/code-along-tags-and-boxes/",
+	"title": "Code Along - Tags and Boxes",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Tags \u0026amp; Boxes  Using Atom, open the folder called relative_paths_exercise in your lesson_04_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll walk through seeing examples of the box model in action\n  "
 },
 {
 	"uri": "/21-class-resources/atom-editor-settings/",
@@ -348,6 +383,13 @@
 	"tags": [],
 	"description": "",
 	"content": " HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n JS Bin on jsbin.com\nParagraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/06-css-box-model/lab-fashion-blog/",
+	"title": "Lab - Portfolio page",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Fashion Blog  Individually or in teams to finishing the fictional developer\u0026rsquo;s site by building our their portfolio page (depicted in the image below)\n Timebox: 40 mins\n   Using Atom, open the folder called fashion-blog in your lesson_06_files folder. You will be using these files as starting off point.\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n  "
 },
 {
 	"uri": "/21-class-resources/atom-themes/",

@@ -33,6 +33,19 @@ Step 2: Log into to your Github account Ensure you are logged into your GitHub a
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/06-css-box-model/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/agenda/</guid>
+      <description> Discuss how CSS Cascades
+ Box Model
+ Code Along: Tags &amp;amp; Boxes
+ Lab: Fashion Blog
+  </description>
+    </item>
+    
+    <item>
       <title>Objectives</title>
       <link>/03-relative-paths/objectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,6 +129,20 @@ Summary  Structure helps readers better understand all forms of documents
  Documents leverage hierarchy, size and font weight to emphasize importance
  HTML pages are another type documents
   </description>
+    </item>
+    
+    <item>
+      <title>CSS Cascading Guidelines</title>
+      <link>/06-css-box-model/css-cascading-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/css-cascading-guidelines/</guid>
+      <description>How CSS Cascades There are guidelines that will determine which CSS rule takes precendent in the case of a conflict (when 2 or more css rules target the same selector)
+ Last Rule
+ Specificity
+ Important
+ Inheritance
+  Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  &amp;lt;!</description>
     </item>
     
     <item>
@@ -218,10 +245,8 @@ jQuery jQuery Documentation</description>
       
       <guid>/05-css-selectors/agenda/</guid>
       <description> Classes and IDs
- CSS Selectors Overview
- CSS Diner
- Code Along: Tags &amp;amp; Boxes
- Lab: Fashion Blog
+ CSS Selectors Overview &amp;amp; Examples
+ Exercise: CSS Diner
   </description>
     </item>
     
@@ -313,8 +338,8 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
  Lesson 02 files (Git/Github): No files needed
  Lesson 03 files (Relative Paths)
  Lesson 04 files (CSS Basics)
- Lesson 05 files (CSS Selectors): TBD
- Lesson 06 files (CSS Box Model): TBD
+ Lesson 05 files (CSS Selectors): No files needed
+ Lesson 06 files (CSS Box Model)
  Lesson 07 files (Page Layout with Flexbox): TBD
  Lesson 08 files (CSS Positioning &amp;amp; Colors): TBD</description>
     </item>
@@ -387,10 +412,11 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/05-css-selectors/css-selectors-examples/</guid>
-      <description>CSS Selectors Examples Child Selector JS Bin on jsbin.com
+      <description> CSS Selectors Examples Class Selector ID Selector Child Selector JS Bin on jsbin.com
 Descendent Selector Descendant Selector Example on jsbin.com
 Adjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com
-General Sibling Selector General Sibling Selector Example on jsbin.com</description>
+General Sibling Selector General Sibling Selector Example on jsbin.com
+Pseudo Class Selector Pseudo Element Selector </description>
     </item>
     
     <item>
@@ -422,8 +448,34 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
       <guid>/04-css-basics/lab/</guid>
       <description>Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
  You will be adding a Portfolio page to your existing rocket_raccoon_about_me project
+ Timebox: 35 mins
  Before you start building: Draw a wireframe of the layout to help you plan your approach
  The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url</description>
+    </item>
+    
+    <item>
+      <title>CSS Box Model</title>
+      <link>/06-css-box-model/box-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/box-model/</guid>
+      <description>CSS Box Model  Understanding the CSS Box Model is key to understanding how CSS works
+ Going forward, you should view every element as a box (because that&amp;rsquo;s how browsers view them)
+   Block elements in the image are outlined in red, while inline elements are outlined in green
+ Every element is a box, some boxes contain other boxes &amp;lt;body&amp;gt;, &amp;lt;div&amp;gt; or &amp;lt;article&amp;gt;
+ CSS allows you to create rules the control each individual box</description>
+    </item>
+    
+    <item>
+      <title>Exercise - CSS Diner</title>
+      <link>/05-css-selectors/exercise-css-diner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/exercise-css-diner/</guid>
+      <description> Exercise: CSS Diner During this exercise, you&amp;rsquo;ll go through an interactive tutorial focused on learning the different CSS Selectors
+ Complete the interactive tutorial found here
+ Timebox: 25 mins
+  </description>
     </item>
     
     <item>
@@ -436,6 +488,17 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
  Using Atom, open the folder called cookie_recipe in your lesson_01_files folder. You will be using these files as starting off point.
  Tips
  Focus on the content first, then the image then the CSS There will be some items that you will need to look up, CSS is one of them (don&amp;rsquo;t worry we will be going over this in the next class, but part of being a developer is being able to google your way to solutions)   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Tags and Boxes</title>
+      <link>/06-css-box-model/code-along-tags-and-boxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/code-along-tags-and-boxes/</guid>
+      <description> Code Along: Tags &amp;amp; Boxes  Using Atom, open the folder called relative_paths_exercise in your lesson_04_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll walk through seeing examples of the box model in action
+  </description>
     </item>
     
     <item>
@@ -468,6 +531,18 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
  JS Bin on jsbin.com
 Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
  By default, browser displays each paragraph on a new line</description>
+    </item>
+    
+    <item>
+      <title>Lab - Portfolio page</title>
+      <link>/06-css-box-model/lab-fashion-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/lab-fashion-blog/</guid>
+      <description>Lab: Fashion Blog  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
+ Timebox: 40 mins
+   Using Atom, open the folder called fashion-blog in your lesson_06_files folder. You will be using these files as starting off point.
+ Before you start building: Draw a wireframe of the layout to help you plan your approach</description>
     </item>
     
     <item>

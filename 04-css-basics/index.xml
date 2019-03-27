@@ -79,6 +79,7 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
       <guid>/04-css-basics/lab/</guid>
       <description>Lab: Start/Complete Portfolio Page  Individually or in teams to finishing the fictional developer&amp;rsquo;s site by building our their portfolio page (depicted in the image below)
  You will be adding a Portfolio page to your existing rocket_raccoon_about_me project
+ Timebox: 35 mins
  Before you start building: Draw a wireframe of the layout to help you plan your approach
  The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url</description>
     </item>
