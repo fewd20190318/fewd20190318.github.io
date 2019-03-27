@@ -57,7 +57,7 @@
       
       <guid>/02-git-github/code-along-working-with-github/</guid>
       <description>During this exercise, we will be walking through the process of working with Git and Github.
-The steps for submitting your assignments are detailed here&amp;rdquo;submitting your assignments are detailed here&amp;ldquo;
+The steps for submitting your assignments using Git &amp;amp; Github are detailed here
 Steps  1) Fork this US states repository located on Github.com
  2) Clone the Repository using Github Desktop
  3) Save the local copy of the repository in your FEWD/github folder

@@ -188,7 +188,7 @@ Summary  Structure helps readers better understand all forms of documents
       
       <guid>/02-git-github/code-along-working-with-github/</guid>
       <description>During this exercise, we will be walking through the process of working with Git and Github.
-The steps for submitting your assignments are detailed here&amp;rdquo;submitting your assignments are detailed here&amp;ldquo;
+The steps for submitting your assignments using Git &amp;amp; Github are detailed here
 Steps  1) Fork this US states repository located on Github.com
  2) Clone the Repository using Github Desktop
  3) Save the local copy of the repository in your FEWD/github folder
@@ -353,6 +353,21 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
  Introduce tools you will be using throughout the class
  Cover class logistics, structure &amp;amp; keys to success
   </description>
+    </item>
+    
+    <item>
+      <title>HW #1 - Online Travel Guide</title>
+      <link>/homework-assignments/assignments/hw-01-online-travel-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-01-online-travel-guide/</guid>
+      <description>Homework #1: Online Travel Guide Create an online travel guide for a travel destination of your choice
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-01-online-travel-guide
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
     </item>
     
     <item>

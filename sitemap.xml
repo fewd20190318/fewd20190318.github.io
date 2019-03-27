@@ -104,6 +104,10 @@
   </url>
   
   <url>
+    <loc>/homework-assignments/assignments/</loc>
+  </url>
+  
+  <url>
     <loc>/02-git-github/exercise-github-workflow/</loc>
   </url>
   
@@ -151,6 +155,10 @@
   <url>
     <loc>/00-course-intro-and-tools/objectives/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homework-assignments/assignments/hw-01-online-travel-guide/</loc>
   </url>
   
   <url>
@@ -318,6 +326,11 @@
   <url>
     <loc>/course-materials/</loc>
     <lastmod>2019-03-17T13:44:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homework-assignments/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>

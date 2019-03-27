@@ -116,7 +116,7 @@
 	"title": "Code Along: Working with Github",
 	"tags": [],
 	"description": "",
-	"content": " During this exercise, we will be walking through the process of working with Git and Github.\nThe steps for submitting your assignments are detailed here\u0026rdquo;submitting your assignments are detailed here\u0026ldquo;\nSteps  1) Fork this US states repository located on Github.com\n 2) Clone the Repository using Github Desktop\n 3) Save the local copy of the repository in your FEWD/github folder\n 4) Open the project in Atom and fix the spelling errors found in index.html; save your work.\n 5) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Fixed spelling errors\u0026rdquo;\n 6) Push your changes to Github using Github Desktop\n 7) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 8) The states should be in alphabetical order. Go back to your project in Atom and ensure the state names are listed alphabetically. Save your work.\n 9) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Ordered state names alphabetically\u0026rdquo;.\n 10) Push your changes to Github using Github Desktop\n 11) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 12) Next you will be submitting your work comments, make Pull Request, the title of the pull request should be \u0026ldquo;Fixed issues spelling and order issues\u0026rdquo;\n 13) You just found out that you also need to add the 5 U.S. territories to the list (why didn\u0026rsquo;t these idiots tell me this the first time?? 😒 )\n Go back to your project in Atom and add the 5 U.S. territories. Save your work.\n 15) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Added 5 U.S. territories\u0026rdquo;.\n 16) Push your changes to Github using Github Desktop\n 17) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 18) Observe, that you do not need to submit another Pull Request since your current Pull request is still \u0026ldquo;Open\u0026rdquo;.\n  Any commits pushed to a remote repository after a Pull Request has been made will be added to the existing Pull Request as long as it is still in an Open state\n "
+	"content": " During this exercise, we will be walking through the process of working with Git and Github.\nThe steps for submitting your assignments using Git \u0026amp; Github are detailed here\nSteps  1) Fork this US states repository located on Github.com\n 2) Clone the Repository using Github Desktop\n 3) Save the local copy of the repository in your FEWD/github folder\n 4) Open the project in Atom and fix the spelling errors found in index.html; save your work.\n 5) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Fixed spelling errors\u0026rdquo;\n 6) Push your changes to Github using Github Desktop\n 7) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 8) The states should be in alphabetical order. Go back to your project in Atom and ensure the state names are listed alphabetically. Save your work.\n 9) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Ordered state names alphabetically\u0026rdquo;.\n 10) Push your changes to Github using Github Desktop\n 11) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 12) Next you will be submitting your work comments, make Pull Request, the title of the pull request should be \u0026ldquo;Fixed issues spelling and order issues\u0026rdquo;\n 13) You just found out that you also need to add the 5 U.S. territories to the list (why didn\u0026rsquo;t these idiots tell me this the first time?? 😒 )\n Go back to your project in Atom and add the 5 U.S. territories. Save your work.\n 15) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Added 5 U.S. territories\u0026rdquo;.\n 16) Push your changes to Github using Github Desktop\n 17) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 18) Observe, that you do not need to submit another Pull Request since your current Pull request is still \u0026ldquo;Open\u0026rdquo;.\n  Any commits pushed to a remote repository after a Pull Request has been made will be added to the existing Pull Request as long as it is still in an Open state\n "
 },
 {
 	"uri": "/21-class-resources/documentation/",
@@ -152,6 +152,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Thinking in boxes\n What is CSS\n Adding CSS to your websites\n  "
+},
+{
+	"uri": "/homework-assignments/assignments/",
+	"title": "Assignments",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/02-git-github/exercise-github-workflow/",
@@ -229,6 +236,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Understand what the term \u0026ldquo;front-end Development\u0026rdquo; means\n Introduce tools you will be using throughout the class\n Cover class logistics, structure \u0026amp; keys to success\n  "
+},
+{
+	"uri": "/homework-assignments/assignments/hw-01-online-travel-guide/",
+	"title": "HW #1 - Online Travel Guide",
+	"tags": [],
+	"description": "",
+	"content": " Homework #1: Online Travel Guide Create an online travel guide for a travel destination of your choice\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-01-online-travel-guide\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
 },
 {
 	"uri": "/05-css-selectors/",
@@ -340,7 +354,7 @@
 	"title": "Working with Atom Themes",
 	"tags": [],
 	"description": "",
-	"content": " Changing Themes Atom allows you to easily switch between your installed themes by doing the following:\n Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom\n Installing New Themes Atom allows you to install themes created by developers who participate in Atom\u0026rsquo;s vibrant community. Atom has a dedication section on their official site for the discovery of these themes (Atom Themes)\nHere are steps involved in adding a new Atom theme:\n Visit https://atom.io/themes Find a theme that you\u0026rsquo;d like to install Press the install button on the theme\u0026rsquo;s page An alert will be displayed asking you if you would like to open Atom - select the option labeled Open Atom While in Atom Settings, press the button labeled Install to install the new theme Select Themes in the left-hand menu of Atom Settings Select the dropdown menu labeled Syntax Themes Select the newly installed theme from the dropdown menu to apply the new theme to Atom  "
+	"content": " Changing Themes Atom allows you to easily switch between your installed themes by doing the following:\n Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom\n Installing New Themes Atom allows you to install themes created by developers who participate in Atom\u0026rsquo;s vibrant community. Atom has a dedication section on their official site for the discovery of these themes (Atom Themes)\nHere are steps involved in adding a new Atom theme:\n Visit https://atom.io/themes Find a theme that you\u0026rsquo;d like to install Press the install button on the theme\u0026rsquo;s page An alert will be displayed asking you if you would like to open Atom - select the option labeled Open Atom While in Atom Settings, press the button labeled Install to install the new theme Select Themes in the left-hand menu of Atom Settings Select the dropdown menu labeled Syntax Themes Select the newly installed theme from the dropdown menu to apply the new theme to Atom  Here\u0026rsquo;s an example of the installation of an Atom theme named Atom Material\n"
 },
 {
 	"uri": "/11-variables-and-datatypes/",
@@ -488,6 +502,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Chapter X Course Materials "
+},
+{
+	"uri": "/homework-assignments/",
+	"title": "Homework Assignments",
+	"tags": [],
+	"description": "",
+	"content": " Homework Assignments "
 },
 {
 	"uri": "/21-class-resources/",
