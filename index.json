@@ -277,7 +277,7 @@
 	"title": "CSS Selectors Examples",
 	"tags": [],
 	"description": "",
-	"content": " CSS Selectors Examples Class Selector ID Selector Child Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\nPseudo Class Selector Pseudo Element Selector "
+	"content": " CSS Selectors Examples Class Selector JS Bin on jsbin.com\nID Selector JS Bin on jsbin.com\nChild Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\nPseudo Class Selector JS Bin on jsbin.com\nPseudo Element Selector JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/06-css-box-model/",
