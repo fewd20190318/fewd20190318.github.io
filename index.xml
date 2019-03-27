@@ -372,7 +372,7 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/05-css-selectors/css-selectors-examples/</guid>
-      <description>CSS Selectors Examples Child Selector Child Selector Example on jsbin.com
+      <description>CSS Selectors Examples Child Selector JS Bin on jsbin.com
 Descendent Selector Descendant Selector Example on jsbin.com
 Adjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com
 General Sibling Selector General Sibling Selector Example on jsbin.com</description>
@@ -453,6 +453,16 @@ General Sibling Selector General Sibling Selector Example on jsbin.com</descript
  JS Bin on jsbin.com
 Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
  By default, browser displays each paragraph on a new line</description>
+    </item>
+    
+    <item>
+      <title>Working with Atom Themes</title>
+      <link>/21-class-resources/atom-themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/atom-themes/</guid>
+      <description>Changing Themes Atom allows you to easily switch between your installed themes by doing the following:
+ Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
     </item>
     
     <item>

@@ -195,7 +195,7 @@ p {
     font-size: 28px;
 }
 
-#body-inner ul li {
+#body-inner ul li, #body-inner ol li {
   font-size: 28px !important;
 }
 

@@ -249,7 +249,7 @@
 	"title": "CSS Selectors Examples",
 	"tags": [],
 	"description": "",
-	"content": " CSS Selectors Examples Child Selector Child Selector Example on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\n"
+	"content": " CSS Selectors Examples Child Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\n"
 },
 {
 	"uri": "/06-css-box-model/",
@@ -334,6 +334,13 @@
 	"tags": [],
 	"description": "",
 	"content": " HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n JS Bin on jsbin.com\nParagraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/21-class-resources/atom-themes/",
+	"title": "Working with Atom Themes",
+	"tags": [],
+	"description": "",
+	"content": " Changing Themes Atom allows you to easily switch between your installed themes by doing the following:\n Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom\n Installing New Themes Atom allows you to install themes created by developers who participate in Atom\u0026rsquo;s vibrant community. Atom has a dedication section on their official site for the discovery of these themes (Atom Themes)\nHere are steps involved in adding a new Atom theme:\n Visit https://atom.io/themes Find a theme that you\u0026rsquo;d like to install Press the install button on the theme\u0026rsquo;s page An alert will be displayed asking you if you would like to open Atom - select the option labeled Open Atom While in Atom Settings, press the button labeled Install to install the new theme Select Themes in the left-hand menu of Atom Settings Select the dropdown menu labeled Syntax Themes Select the newly installed theme from the dropdown menu to apply the new theme to Atom  "
 },
 {
 	"uri": "/11-variables-and-datatypes/",
