@@ -25,45 +25,18 @@
     </item>
     
     <item>
-      <title>CSS Cascading Guidelines</title>
-      <link>/06-css-box-model/css-cascading-guidelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/06-css-box-model/css-cascading-guidelines/</guid>
-      <description>How CSS Cascades There are guidelines that will determine which CSS rule takes precendent in the case of a conflict (when 2 or more css rules target the same selector)
- Last Rule
- Specificity
- Important
- Inheritance
-  Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  &amp;lt;!</description>
-    </item>
-    
-    <item>
-      <title>CSS Box Model</title>
-      <link>/06-css-box-model/box-model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/06-css-box-model/box-model/</guid>
-      <description>CSS Box Model  Understanding the CSS Box Model is key to understanding how CSS works
- Going forward, you should view every element as a box (because that&amp;rsquo;s how browsers view them)
-   Block elements in the image are outlined in red, while inline elements are outlined in green
- Every element is a box, some boxes contain other boxes &amp;lt;body&amp;gt;, &amp;lt;div&amp;gt; or &amp;lt;article&amp;gt;
- CSS allows you to create rules the control each individual box</description>
-    </item>
-    
-    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/06-css-box-model/code-along-tags-and-boxes/</guid>
-      <description> Code Along: Tags &amp;amp; Boxes  Using Atom, open the folder called relative_paths_exercise in your lesson_04_files folder. You will be using these files as starting off point.
+      <description> Code Along: Tags &amp;amp; Boxes  Using Atom, open the folder called tags_boxes in your lesson_06_files folder. You will be using these files as starting off point.
  As a class, we&amp;rsquo;ll walk through seeing examples of the box model in action
   </description>
     </item>
     
     <item>
-      <title>Lab - Portfolio page</title>
+      <title>Lab - Fashion Blog</title>
       <link>/06-css-box-model/lab-fashion-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

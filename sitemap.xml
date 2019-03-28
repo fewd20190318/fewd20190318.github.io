@@ -35,6 +35,10 @@
   </url>
   
   <url>
+    <loc>/06-css-box-model/box-model-overview/margin/</loc>
+  </url>
+  
+  <url>
     <loc>/02-git-github/objectives/</loc>
   </url>
   
@@ -63,6 +67,14 @@
   </url>
   
   <url>
+    <loc>/06-css-box-model/css-cascading-guidelines/last-rule/</loc>
+  </url>
+  
+  <url>
+    <loc>/06-css-box-model/box-model-overview/padding/</loc>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/html-tag-anatomy/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -81,6 +93,10 @@
   </url>
   
   <url>
+    <loc>/06-css-box-model/box-model-overview/border/</loc>
+  </url>
+  
+  <url>
     <loc>/03-relative-paths/code-along-relative-paths/</loc>
   </url>
   
@@ -95,6 +111,10 @@
   <url>
     <loc>/02-git-github/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/06-css-box-model/css-cascading-guidelines/specificity/</loc>
   </url>
   
   <url>
@@ -125,6 +145,10 @@
   </url>
   
   <url>
+    <loc>/06-css-box-model/css-cascading-guidelines/important/</loc>
+  </url>
+  
+  <url>
     <loc>/04-css-basics/thinking-in-boxes/</loc>
   </url>
   
@@ -143,6 +167,10 @@
   
   <url>
     <loc>/05-css-selectors/classes-and-ids/</loc>
+  </url>
+  
+  <url>
+    <loc>/06-css-box-model/css-cascading-guidelines/inheritance/</loc>
   </url>
   
   <url>
@@ -200,7 +228,7 @@
   </url>
   
   <url>
-    <loc>/06-css-box-model/box-model/</loc>
+    <loc>/06-css-box-model/box-model-overview/</loc>
   </url>
   
   <url>
