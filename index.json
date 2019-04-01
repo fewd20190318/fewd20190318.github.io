@@ -102,7 +102,7 @@
 	"title": "Last Rule",
 	"tags": [],
 	"description": "",
-	"content": " Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt; Color will be green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here the \u0026lt;p\u0026gt; tag will be green because the last conflicting rule took precedent\n"
+	"content": " Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt; Color will be green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here the \u0026lt;p\u0026gt; tag will be green because the last conflicting rule took precedent\nLive Example\nJS Bin on jsbin.com\nIn the example above, we have identical selectors .box where each has a different property for background-color. In this case, the last rule law will apply and the background-color of the element will be red since it is listed last (in the css file) among the conflicting selectors.\n"
 },
 {
 	"uri": "/06-css-box-model/box-model-overview/padding/",
@@ -200,7 +200,7 @@
 	"title": "Specificity",
 	"tags": [],
 	"description": "",
-	"content": " Specificity  If one selector is more specific than others, then the more specific rule takes precedent\n For example:\n h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   "
+	"content": " Specificity  If one selector is more specific than others, then the more specific rule takes precedent\n For example:\n h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   Live Example\nJS Bin on jsbin.com\nIn the example above #featured is more specific than .box so the background-color of the element will be red even though .box is listed after #featured\n"
 },
 {
 	"uri": "/05-css-selectors/agenda/",
@@ -249,7 +249,7 @@
 	"title": "!important",
 	"tags": [],
 	"description": "",
-	"content": " !important  You can override all the above rules by adding a “!important” after any property\n This should be used sparingly; excessive use of !important can cause confusion within your codebase\n  // in css #thing { color: green; } // add the !important option at the end of your declaration; p { color: red !important; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p id=\u0026quot;thing\u0026quot;\u0026gt;Will be RED and NOT Green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here we used the !important option in CSS to override the Specificity guideline that would have had the rule with the selector of #thing take precedence under normal circumstances\n"
+	"content": " !important  You can override all the above rules by adding a “!important” after any property\n This should be used sparingly; excessive use of !important can cause confusion within your codebase\n  // in css #thing { color: green; } // add the !important option at the end of your declaration; p { color: red !important; }  \u0026lt;!-- in html --\u0026gt; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p id=\u0026quot;thing\u0026quot;\u0026gt;Will be RED and NOT Green\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Here we used the !important option in CSS to override the Specificity guideline that would have had the rule with the selector of #thing take precedence under normal circumstances\nLive Example\nJS Bin on jsbin.com\nIn the example above, the background-color of the element is blue despite that fact that of the conflicting styles #featured is more specific than .box. This is because we used the !important flag on the background-color property inside of the .box style which will override normal cascading rules.\n"
 },
 {
 	"uri": "/04-css-basics/thinking-in-boxes/",
@@ -291,7 +291,7 @@
 	"title": "Inheritance",
 	"tags": [],
 	"description": "",
-	"content": " Inheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties\n However, properties such as background color or border properties are not inherited\n Click here to see a full list inherited and non-inherited CSS properties\n  "
+	"content": " Inheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties\n However, properties such as background color or border properties are not inherited\n Click here to see a full list inherited and non-inherited CSS properties\n  Live Example\nJS Bin on jsbin.com\nIn the example, the p element will automatically inherit the font color property from its ancestor (body) since color is a css property that can be inherited. These inherited styles can easily be overridden if you create css rules that are more specific that change the same property. This was done in the style for p.main where we specified a color property instead of inheriting it from the body element.\n"
 },
 {
 	"uri": "/course-materials/lesson-files/",

@@ -318,9 +318,11 @@ jQuery jQuery Documentation</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/06-css-box-model/css-cascading-guidelines/specificity/</guid>
-      <description> Specificity  If one selector is more specific than others, then the more specific rule takes precedent
+      <description>Specificity  If one selector is more specific than others, then the more specific rule takes precedent
  For example:
- h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   </description>
+ h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   Live Example
+JS Bin on jsbin.com
+In the example above #featured is more specific than .box so the background-color of the element will be red even though .box is listed after #featured</description>
     </item>
     
     <item>
@@ -429,10 +431,12 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/06-css-box-model/css-cascading-guidelines/inheritance/</guid>
-      <description> Inheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties
+      <description>Inheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties
  However, properties such as background color or border properties are not inherited
  Click here to see a full list inherited and non-inherited CSS properties
-  </description>
+  Live Example
+JS Bin on jsbin.com
+In the example, the p element will automatically inherit the font color property from its ancestor (body) since color is a css property that can be inherited.</description>
     </item>
     
     <item>
