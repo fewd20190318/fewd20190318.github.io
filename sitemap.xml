@@ -80,6 +80,10 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/03-relative-paths/example/</loc>
   </url>
   
@@ -88,8 +92,18 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/block-inline-elements/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/html-attributes/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flexbox-terminology/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
@@ -194,6 +208,15 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/containing-elements/</loc>
+  </url>
+  
+  <url>
     <loc>/homework-assignments/assignments/hw-01-online-travel-guide/</loc>
   </url>
   
@@ -240,6 +263,11 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -250,6 +278,14 @@
   
   <url>
     <loc>/21-class-resources/atom-editor-settings/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/semantic-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>/06-css-box-model/code-along-notifications/</loc>
   </url>
   
   <url>
@@ -273,6 +309,11 @@
   <url>
     <loc>/01-html-basics/tag-overview/text/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
@@ -301,6 +342,10 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/exercise/</loc>
+  </url>
+  
+  <url>
     <loc>/14-functions/</loc>
   </url>
   
@@ -319,6 +364,10 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/code-along/</loc>
+  </url>
+  
+  <url>
     <loc>/16-responsive-design/</loc>
   </url>
   
@@ -333,6 +382,10 @@
   
   <url>
     <loc>/18-forms/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/lab/</loc>
   </url>
   
   <url>
