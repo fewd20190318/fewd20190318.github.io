@@ -208,12 +208,19 @@
   </url>
   
   <url>
-    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</loc>
   </url>
   
   <url>
     <loc>/07-page-layout-flexbox/containing-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/display/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/</loc>
   </url>
   
   <url>
@@ -263,11 +270,6 @@
   </url>
   
   <url>
-    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/07-page-layout-flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -277,7 +279,19 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-direction/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/</loc>
+  </url>
+  
+  <url>
     <loc>/homework-assignments/assignments/hw-02-relaxr-project/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</loc>
   </url>
   
   <url>
@@ -316,8 +330,20 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-basis/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-wrap/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flexbox-tips/</loc>
   </url>
   
   <url>
@@ -350,6 +376,14 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-flow-shorthand/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-grow/</loc>
+  </url>
+  
+  <url>
     <loc>/14-functions/</loc>
   </url>
   
@@ -372,6 +406,14 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/</loc>
+  </url>
+  
+  <url>
     <loc>/16-responsive-design/</loc>
   </url>
   
@@ -385,6 +427,14 @@
   </url>
   
   <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shorthand/</loc>
+  </url>
+  
+  <url>
     <loc>/18-forms/</loc>
   </url>
   
@@ -395,6 +445,14 @@
   <url>
     <loc>/01-html-basics/tag-overview/links/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</loc>
+  </url>
+  
+  <url>
+    <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</loc>
   </url>
   
   <url>

@@ -97,11 +97,11 @@ Full list of block level elements can be found here
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/lab/</guid>
-      <description>Lab: Layout Challenge  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
+      <description> Lab: Layout Challenge  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
  Work in teams to use flexbox to recreate the remaining layouts depicted in layout_challenge/layouts.pdf file
  Before you start building:
- Draw a wireframe of the layout Identify your flex containers  Tips
- Use the &amp;ldquo;guideline&amp;rdquo; css style (provided at the top of your css files) to help you visually identify your containers Have the name of all of your flex containers end in &amp;ldquo;-container&amp;rdquo; for example (.</description>
+ Draw a wireframe of the layout Identify your flex containers Idenitfy your nested flex containers  Timebox: 45 mins
+  </description>
     </item>
     
   </channel>

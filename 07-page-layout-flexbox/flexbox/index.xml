@@ -26,25 +26,16 @@
     </item>
     
     <item>
-      <title>Flex Container Properties</title>
-      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/</link>
-      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      <title>Flexbox Tips</title>
+      <link>/07-page-layout-flexbox/flexbox/flexbox-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/</guid>
-      <description>The upcoming (and awesome) gifs were graciously borrowed from this insightful blog post that covers flexbox
- display  Defines a flex container
- inline or block depending on the given value
-  .container { display: flex; /* or inline-flex */ }  flex direction  Establishes the main-axis and defines the direction flex items are placed in the flex container
- Determines whether the flex items are layed out as either horizontal rows or vertical columns</description>
-    </item>
-    
-    <item>
-      <title>Flex Items Properties</title>
-      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/</link>
-      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
-      
-      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/</guid>
-      <description>align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; }  Order  controls the order in which flex-items appear in the flex container   .item { order: &amp;lt;integer&amp;gt;; }  flex-grow  defines the ability for a flex item to grow if necessary</description>
+      <guid>/07-page-layout-flexbox/flexbox/flexbox-tips/</guid>
+      <description>Flexbox Tips  Use wireframes to plan out all of your flex containers
+ Identify which flex containers will have a row direction and which will have a column direction?
+ Identify where you will have nested flex containers (i.e. containers in containers)
+  Keep is simple, use divs for all of your flex containers
+ Technically any element can be used as a flex  Use classes to name your flex containers</description>
     </item>
     
   </channel>
