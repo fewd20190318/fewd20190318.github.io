@@ -25,5 +25,20 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
  Submit your assignment using a Pull Request</description>
     </item>
     
+    <item>
+      <title>HW #2 - Relaxr Project</title>
+      <link>/homework-assignments/assignments/hw-02-relaxr-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-02-relaxr-project/</guid>
+      <description>Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-02-relaxr-project
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
   </channel>
 </rss>

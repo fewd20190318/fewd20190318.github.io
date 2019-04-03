@@ -434,6 +434,13 @@
 	"content": " Code Along: Tags \u0026amp; Boxes  Using Atom, open the folder called tags_boxes in your lesson_06_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll walk through seeing examples of the box model in action\n  "
 },
 {
+	"uri": "/homework-assignments/assignments/hw-02-relaxr-project/",
+	"title": "HW #2 - Relaxr Project",
+	"tags": [],
+	"description": "",
+	"content": " Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-02-relaxr-project\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
+},
+{
 	"uri": "/21-class-resources/atom-editor-settings/",
 	"title": "Recommended Atom Editor Settings",
 	"tags": [],
@@ -445,7 +452,7 @@
 	"title": "Semantic Elements",
 	"tags": [],
 	"description": "",
-	"content": " Structure using Semantic tags  Similar to \u0026lt;div\u0026gt;s, semantic tags are container elements\n HTML5 introduced semantic tags that directly communicate type of content the container element contains\n Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  Make sure you distinguish between \u0026lt;head\u0026gt; and \u0026lt;header\u0026gt;, they are not the same\n "
+	"content": " Structure using Semantic tags  Similar to \u0026lt;div\u0026gt;s, semantic tags are container elements\n HTML5 introduced semantic tags that directly communicate type of content the container element contains\n Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)\n There are rougly 100 semantic elements\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  Make sure you distinguish between \u0026lt;head\u0026gt; and \u0026lt;header\u0026gt;, they are not the same\n Benefits of Using Semantic Elements  Search engines will consider its contents as important keywords to influence the page\u0026rsquo;s search rankings (see SEO)\n Screen readers can use it as a signpost to help visually impaired users navigate a page\n Finding blocks of meaningful code is significantly easier than searching though endless divs with or without semantic or namespaced classes\n Suggests to the developer the type of data that will be populated Semantic naming mirrors proper custom element/component naming\n  This blog post does a good job describing Semantic Elements.\n "
 },
 {
 	"uri": "/06-css-box-model/code-along-notifications/",
@@ -480,7 +487,7 @@
 	"title": "Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",

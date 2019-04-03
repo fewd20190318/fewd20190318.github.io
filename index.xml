@@ -640,6 +640,21 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>HW #2 - Relaxr Project</title>
+      <link>/homework-assignments/assignments/hw-02-relaxr-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-02-relaxr-project/</guid>
+      <description>Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-02-relaxr-project
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
       <title>Recommended Atom Editor Settings</title>
       <link>/21-class-resources/atom-editor-settings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -658,6 +673,7 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
       <description>Structure using Semantic tags  Similar to &amp;lt;div&amp;gt;s, semantic tags are container elements
  HTML5 introduced semantic tags that directly communicate type of content the container element contains
  Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)
+ There are rougly 100 semantic elements
  Above picture is just an example! This structure is not set in stone, use what makes sense for your project</description>
     </item>
     
@@ -679,7 +695,7 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  </description>
     </item>
     
     <item>
