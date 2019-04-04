@@ -326,7 +326,7 @@
 	"title": "Align Self",
 	"tags": [],
 	"description": "",
-	"content": " align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; }  "
+	"content": " align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; } --- Live Example  JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/containing-elements/",
@@ -466,7 +466,7 @@
 	"title": "Order",
 	"tags": [],
 	"description": "",
-	"content": " controls the order in which flex-items appear in the flex container   .item { order: \u0026lt;integer\u0026gt;; }  "
+	"content": " controls the order in which flex-items appear in the flex container   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/21-class-resources/atom-editor-settings/",
@@ -508,7 +508,7 @@
 	"title": "Intro to jQuery",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 10 Intro to Programming "
+	"content": " Lesson 10 Intro to jQuery "
 },
 {
 	"uri": "/course-materials/solutions/",
@@ -732,7 +732,7 @@
 	"title": "Flex Property Examples",
 	"tags": [],
 	"description": "",
-	"content": "Using the jsbin below, change the following properties and observe the result:\n Change the value of flex-direction property of the .container selector to the each of the following and observe the result:\n column row-reverse column-reverse  With the flex-direction set to row, change the value of justify-content property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center space-between space-around  Follow all of the steps laid out in #2 above but this time set the flex-direction set to column and observe the changes\n With the flex-direction set to row, change the value of align-items property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center space-between space-around stretch  Follow all of the steps laid out in #5 above but this time set the flex-direction set to column and observe the changes\n Spend 5 minutes changing both the values of flex-direction, justify-content and align-items and observe the result\n  JS Bin on jsbin.com\n"
+	"content": "Using the jsbin below, change the following properties and observe the result:\n Change the value of flex-direction property of the .container selector to the each of the following and observe the result:\n column row-reverse column-reverse  With the flex-direction set to row, change the value of justify-content property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center space-between space-around  Follow all of the steps laid out in #2 above but this time set the flex-direction set to column and observe the changes\n With the flex-direction set to row, change the value of align-items property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center stretch baseline  Follow all of the steps laid out in #5 above but this time set the flex-direction set to column and observe the changes\n Spend 5 minutes changing both the values of flex-direction, justify-content and align-items and observe the result\n  JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/00-course-intro-and-tools/folder-structure/",

@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</guid>
-      <description> align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; }  </description>
+      <description>align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; } --- Live Example  JS Bin on jsbin.com</description>
     </item>
     
     <item>
@@ -25,7 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</guid>
-      <description> controls the order in which flex-items appear in the flex container   .item { order: &amp;lt;integer&amp;gt;; }  </description>
+      <description>controls the order in which flex-items appear in the flex container   .item { order: &amp;lt;integer&amp;gt;; }  Live Example
+JS Bin on jsbin.com</description>
     </item>
     
     <item>
