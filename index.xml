@@ -669,7 +669,10 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</guid>
-      <description>controls the order in which flex-items appear in the flex container   .item { order: &amp;lt;integer&amp;gt;; }  Live Example
+      <description>Controls the order in which flex-items appear in the flex container
+ Lower values are listed first (-1 will be listed before 2)
+ If no order is set on a flex-item it will have a default value of 0
+   .item { order: &amp;lt;integer&amp;gt;; }  Live Example
 JS Bin on jsbin.com</description>
     </item>
     
@@ -735,8 +738,9 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-basis/</guid>
-      <description> flex-basis  Controls the default size of an element, before it is manipulated by other Flexbox properties
+      <description> flex-basis  Controls the initial size of an element, before it is manipulated by other Flexbox properties
  It can be a length (e.g. pixels, percentages, etc) or auto
+ Values for flex-basis will take precedent over the values of width or height (in the case of flex-direction: column)
   .item { flex-basis: &amp;lt;length&amp;gt; | auto; /* default auto */ }  </description>
     </item>
     

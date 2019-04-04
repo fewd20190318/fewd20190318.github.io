@@ -466,7 +466,7 @@
 	"title": "Order",
 	"tags": [],
 	"description": "",
-	"content": " controls the order in which flex-items appear in the flex container   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\n"
+	"content": " Controls the order in which flex-items appear in the flex container\n Lower values are listed first (-1 will be listed before 2)\n If no order is set on a flex-item it will have a default value of 0\n   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/21-class-resources/atom-editor-settings/",
@@ -529,7 +529,7 @@
 	"title": "Flex Basis",
 	"tags": [],
 	"description": "",
-	"content": " flex-basis  Controls the default size of an element, before it is manipulated by other Flexbox properties\n It can be a length (e.g. pixels, percentages, etc) or auto\n  .item { flex-basis: \u0026lt;length\u0026gt; | auto; /* default auto */ }  "
+	"content": " flex-basis  Controls the initial size of an element, before it is manipulated by other Flexbox properties\n It can be a length (e.g. pixels, percentages, etc) or auto\n Values for flex-basis will take precedent over the values of width or height (in the case of flex-direction: column)\n  .item { flex-basis: \u0026lt;length\u0026gt; | auto; /* default auto */ }  "
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-container-properties/flex-wrap/",
