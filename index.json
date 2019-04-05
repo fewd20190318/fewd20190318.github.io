@@ -466,7 +466,7 @@
 	"title": "Order",
 	"tags": [],
 	"description": "",
-	"content": " Controls the order in which flex-items appear in the flex container\n Lower values are listed first (-1 will be listed before 2)\n If no order is set on a flex-item it will have a default value of 0\n   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\n"
+	"content": " Controls the order in which flex-items appear in the flex container\n Lower values are listed first (-1 will be listed before 2)\n If no order is set on a flex-item it will have a default value of 0\n   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\nIn the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.\n"
 },
 {
 	"uri": "/21-class-resources/atom-editor-settings/",
@@ -536,7 +536,7 @@
 	"title": "Flex Wrap",
 	"tags": [],
 	"description": "",
-	"content": " flex-wrap allows developers to change that and allow the items to wrap as needed with this property  By default, flex items will all try to fit onto one line\n .container { flex-wrap: nowrap | wrap | wrap-reverse; }  "
+	"content": " flex-wrap allows developers to change that and allow the items to wrap as needed with this property  By default, flex items will all try to fit onto one line\n .container { flex-wrap: nowrap | wrap | wrap-reverse; }  Live Example\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/",
@@ -725,7 +725,7 @@
 	"title": "Align Content",
 	"tags": [],
 	"description": "",
-	"content": " Align Content  aligns a flex container\u0026rsquo;s lines within when there is extra space in the cross-axis\n align-content only applies when there are mutiple lines of flex items\n  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  "
+	"content": " Align Content  aligns a flex container\u0026rsquo;s lines within when there is extra space in the cross-axis\n align-content only applies when there are mutiple lines of flex items\n  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example\nJS Bin on jsbin.com\nIn the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/",

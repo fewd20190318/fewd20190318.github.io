@@ -29,7 +29,8 @@
  Lower values are listed first (-1 will be listed before 2)
  If no order is set on a flex-item it will have a default value of 0
    .item { order: &amp;lt;integer&amp;gt;; }  Live Example
-JS Bin on jsbin.com</description>
+JS Bin on jsbin.com
+In the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.</description>
     </item>
     
     <item>

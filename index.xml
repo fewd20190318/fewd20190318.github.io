@@ -673,7 +673,8 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
  Lower values are listed first (-1 will be listed before 2)
  If no order is set on a flex-item it will have a default value of 0
    .item { order: &amp;lt;integer&amp;gt;; }  Live Example
-JS Bin on jsbin.com</description>
+JS Bin on jsbin.com
+In the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.</description>
     </item>
     
     <item>
@@ -750,8 +751,9 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-wrap/</guid>
-      <description> flex-wrap allows developers to change that and allow the items to wrap as needed with this property  By default, flex items will all try to fit onto one line
- .container { flex-wrap: nowrap | wrap | wrap-reverse; }  </description>
+      <description>flex-wrap allows developers to change that and allow the items to wrap as needed with this property  By default, flex items will all try to fit onto one line
+ .container { flex-wrap: nowrap | wrap | wrap-reverse; }  Live Example
+JS Bin on jsbin.com</description>
     </item>
     
     <item>
@@ -958,9 +960,11 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</guid>
-      <description> Align Content  aligns a flex container&amp;rsquo;s lines within when there is extra space in the cross-axis
+      <description>Align Content  aligns a flex container&amp;rsquo;s lines within when there is extra space in the cross-axis
  align-content only applies when there are mutiple lines of flex items
-  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  </description>
+  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example
+JS Bin on jsbin.com
+In the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis</description>
     </item>
     
     <item>
