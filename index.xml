@@ -229,6 +229,23 @@ Full list of block level elements can be found here
     </item>
     
     <item>
+      <title>Git Tutorial</title>
+      <link>/00-dev-tools-github-depr/github-tutorial/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/00-dev-tools-github-depr/github-tutorial/</guid>
+      <description>Initial Setup Step 1: Create a Github Account* *one-time step
+&amp;nbsp;
+Step 2: Download Github Desktop software* *one-time step
+&amp;nbsp;
+Step 3: Sign in to Github Account through the Github Desktop application  Github Desktop -&amp;gt; Preferences -&amp;gt; Accounts  *one-time step / Use your Github account username &amp;amp; password
+&amp;nbsp;
+Step 4: Create a folder named github in your &amp;ldquo;class&amp;rdquo; folder* *one-time step
+&amp;nbsp;
+Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Instructor repository will be provided to you  &amp;nbsp;</description>
+    </item>
+    
+    <item>
       <title>HTML Attributes</title>
       <link>/01-html-basics/html-attributes/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -253,6 +270,18 @@ Full list of block level elements can be found here
  inline-flex: will make the flex-container an inline element
    Flex Item  Children of a flex container  Main Axis  The axis along which the flex items follow each other
  flex-direction property determines the main axis</description>
+    </item>
+    
+    <item>
+      <title>Background Image</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image/</guid>
+      <description>background-image Property  background-image property allows you to place an image behind any HTML element
+ Image can be &amp;ldquo;behind&amp;rdquo; the entire page or part of a page
+ By default a background image will repeat to fill an entire box
+  body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); } .hero-section { /* this image will be applied to container with a &amp;quot;hero-section&amp;quot; class attribute */ background-image: url(&amp;quot;images/another-cool-background-image.</description>
     </item>
     
     <item>
@@ -297,6 +326,15 @@ Steps  1) Fork this US states repository located on Github.com
     </item>
     
     <item>
+      <title>Color Names</title>
+      <link>/08-css-positioning-and-colors/css-colors/color-names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/color-names/</guid>
+      <description> Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green }  </description>
+    </item>
+    
+    <item>
       <title>Documentation</title>
       <link>/21-class-resources/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -326,6 +364,19 @@ In the example above #featured is more specific than .box so the background-colo
     </item>
     
     <item>
+      <title>Static Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/normal-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/normal-flow/</guid>
+      <description>Static Positioning (Normal Flow)  Default way browser handles block and inline elements
+ Each block-level element sits on top of the next one
+ Inline elements will share line/row with other inline elements (space permitting)
+ If developers want to explicitly specify static positioning, they can do so using CSS:
+  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default</description>
+    </item>
+    
+    <item>
       <title>Agenda</title>
       <link>/05-css-selectors/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -346,6 +397,19 @@ In the example above #featured is more specific than .box so the background-colo
       <description> Thinking in boxes
  What is CSS
  Adding CSS to your websites
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/08-css-positioning-and-colors/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/agenda/</guid>
+      <description> CSS Colors
+ CSS Positioning
+ Background Images
+ Lab: Fashion Blog - Pt 2
   </description>
     </item>
     
@@ -453,7 +517,7 @@ In the example, the p element will automatically inherit the font color property
  Lesson 05 files (CSS Selectors): No files needed
  Lesson 06 files (CSS Box Model)
  Lesson 07 files (Page Layout with Flexbox)
- Lesson 08 files (CSS Positioning &amp;amp; Colors): TBD</description>
+ Lesson 08 files (CSS Positioning, Colors &amp;amp; Background Images)</description>
     </item>
     
     <item>
@@ -502,6 +566,20 @@ In the example, the p element will automatically inherit the font color property
     </item>
     
     <item>
+      <title>Background Repeat</title>
+      <link>/08-css-positioning-and-colors/background-images/background-repeat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-repeat/</guid>
+      <description> background-repeat Property  background-repeat allows you to control how an background image is repeated
+ repeat: image is repeated both horizontally and vertically (default behavior)
+ repeat-x: image is only repeated horizontally
+ repeat-y: image is only repeated vertically
+ no-repeat: image is only shown once and not repeated
+   </description>
+    </item>
+    
+    <item>
       <title>Containing Elements</title>
       <link>/07-page-layout-flexbox/containing-elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -539,6 +617,27 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
  Clone the assignment repository down to your computer
  Work on your assignment and regularly commit your work
  Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>Hex codes</title>
+      <link>/08-css-positioning-and-colors/css-colors/hex-codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hex-codes/</guid>
+      <description> Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa }  </description>
+    </item>
+    
+    <item>
+      <title>Relative Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/relative-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/relative-positioning/</guid>
+      <description>Relative Positioning  Moves element in relation to where it would have been in normal flow
+ Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow
+ Usually accompanied by box offsets: top, right, bottom, left.
+ It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions</description>
     </item>
     
     <item>
@@ -627,6 +726,33 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Absolute Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</guid>
+      <description>Absolute Positioning  This type of positioning takes box out of normal flow
+ Other elements act as if the absolutely positioned element is not longer there
+ Box offset properties (top or bottom and left or right) are used to position the element
+ Elements positioned absolutely will be positioned relative to the nearest positioned parent element
+  Remember that these values will be relative to the next parent element with relative (or absolute) positioning.</description>
+    </item>
+    
+    <item>
+      <title>Background Position</title>
+      <link>/08-css-positioning-and-colors/background-images/background-position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-position/</guid>
+      <description>background-position Property  Used to position an image when it is not being repeated
+ This property has two values
+ horizontal position
+ vertical position
+   body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center
+ You can also you pixels or percentages</description>
+    </item>
+    
+    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -664,6 +790,17 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Lab - Fashion Blog II</title>
+      <link>/08-css-positioning-and-colors/lab-fashion-blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/lab-fashion-blog-2/</guid>
+      <description>Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.
+ Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:
+ We have provided you with a finished version of Fashion Blog part I, please use these files for the lab</description>
+    </item>
+    
+    <item>
       <title>Order</title>
       <link>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -675,6 +812,15 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
    .item { order: &amp;lt;integer&amp;gt;; }  Live Example
 JS Bin on jsbin.com
 In the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.</description>
+    </item>
+    
+    <item>
+      <title>RGB</title>
+      <link>/08-css-positioning-and-colors/css-colors/rgb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/rgb/</guid>
+      <description> RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170) }  </description>
     </item>
     
     <item>
@@ -712,6 +858,17 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
+      <title>z-index</title>
+      <link>/08-css-positioning-and-colors/css-positioning/z-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/z-index/</guid>
+      <description>Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page
+ Z-index allows you to control which elements appear on top when elements overlap
+  .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example</description>
+    </item>
+    
+    <item>
       <title>Solutions</title>
       <link>/course-materials/solutions/</link>
       <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
@@ -731,6 +888,30 @@ In the example above we are applying order: -1 to the red box (.three) which res
  JS Bin on jsbin.com
 Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
  By default, browser displays each paragraph on a new line</description>
+    </item>
+    
+    <item>
+      <title>Background Image Examples</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image-examples/</guid>
+      <description> Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files
+ We walk through live examples of background image in action
+  </description>
+    </item>
+    
+    <item>
+      <title>Fixed Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</guid>
+      <description>Fixed Positioning  Positions the element in relation to the browser window (not its containing element)
+ Fixed positioned element stays in place even if user scrolls down the page
+ Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
+ Fixed positioning commonl used to create a fixed navbar
+  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
     </item>
     
     <item>
@@ -779,6 +960,15 @@ JS Bin on jsbin.com</description>
  Timebox: 40 mins
    Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.
  Before you start building: Draw a wireframe of the layout to help you plan your approach</description>
+    </item>
+    
+    <item>
+      <title>RGBa</title>
+      <link>/08-css-positioning-and-colors/css-colors/rgba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/rgba/</guid>
+      <description> RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25) }  </description>
     </item>
     
     <item>
@@ -885,6 +1075,20 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>HSL</title>
+      <link>/08-css-positioning-and-colors/css-colors/hsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hsl/</guid>
+      <description> HSL  Introduced with CSS3
+ Provides an alternative way to express colors based on:
+ Hue (expressed as an angle between 0 and 360 degrees)
+ Saturation (expressed as a percentage)
+ Lightness (expressed as a percentage 0% =&amp;gt; white, 50% =&amp;gt; normal &amp;amp; 100% =&amp;gt; black)
+   body { background-color: hsl(0, 0%, 78%); }  </description>
+    </item>
+    
+    <item>
       <title>Justify Content</title>
       <link>/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -927,6 +1131,17 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       
       <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shorthand/</guid>
       <description> flex shorthand  allows developers to specify a flex-item&amp;rsquo;s flex-grow, flex-shrink and flex-basis all at the same time   .item { flex: none | [ &amp;lt;&#39;flex-grow&#39;&amp;gt; &amp;lt;&#39;flex-shrink&#39;&amp;gt;? || &amp;lt;&#39;flex-basis&#39;&amp;gt; ] }  </description>
+    </item>
+    
+    <item>
+      <title>HSLa</title>
+      <link>/08-css-positioning-and-colors/css-colors/hsla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hsla/</guid>
+      <description> HSLa  Just like HSL but adds the ability to specify opacity using an alpha value
+ alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)
+  body { background-color: hsla(0, 100%, 75%, 0.5); }  </description>
     </item>
     
     <item>

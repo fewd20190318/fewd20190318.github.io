@@ -4,7 +4,7 @@
 	"title": "Github HW Submission Instructions",
 	"tags": [],
 	"description": "",
-	"content": " Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.\nStep 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com\nStep 3: Log into your Github Desktop application Ensure You have installed the Github Desktop Application on your computer and you have logged in the application using your GitHub username and password\nForking the Assignment Repository Step 4: Navigate to the HW Repository on Github.com The instructor will provide you with a link to the repository that houses the HW assignment on Github.com. Click on that link and you should be navigated to the repository page for the assignment located on Github.com.\nStep 5: Fork the HW Repository to create a copy under your account Next we will fork the repository that contains the homework assignment. Remember, forking a repository copies a repository and places it under your account.\nFork the repository by pressing the Fork button in the upper right hand corner:\nIf you have more than one Github account associated with your email address, you will be asked to pick one. I recommended that you select the account associated with your personal account (this is most likely listed first in the list).\n Step 6: Confirm fork was successful Confirm that the fork was successful by observing that a copy of the repository has been placed under your account.\nIn the example above, the github account named kareemgrant successfully forked (i.e. copied) the HW assignment repository (sample-hw-assignment) that is owned by an account named fewd20190318\nCloning the forked repository Congrats! You have forked the HW assignment repository to your account. However, you\u0026rsquo;re still not able to work on it, since the forked repository lives in the cloud on Github (another way to say this is that your repository is a remote repository) and you need a copy of the repository on your computer so you can work on it.\n The process of creating a local copy (i.e. on your computer) of a remote repository is called cloning. Cloning also allows both local and remote copies of a repository to stay in sync.\n We\u0026rsquo;ll be using the Github Desktop Application to clone our remote repositories. Make sure you have Github Desktop open on your computer. Also make sure you are signed in.\n  Step 7: Clone the forked repository Clone the repository by pressing on the button labeled Clone or download and then press the button labeled Open in Desktop. This action will open the Github Desktop application located on your computer.\nStep 8: Place the cloned repo into your FEWD/github folder While in Github Desktop navigate to your github folder located inside your FEWD folder (see Step 1)\nStep 9: Confirm clone was successfully placed in your FEWD/github folder On your computer, navigate to your FEWD/github folder and confirm the existences of a folder that has name that matches the name of your remote repository\nWorking on your assignment If you\u0026rsquo;ve made it this far you have successfully cloned your assignment repository and now you\u0026rsquo;re ready to start coding! Going forward, all of your work on this particular assignment will live in your FEWD/github/{name-of-your-assignment-repository} folder\nStep 10: Open the repository folder in your text editor Using Atom, open the project folder for your assignment repository (FEWD/github/{name-of-your-assignment-repository})\nYou should always open the top-level folder for your project with your text editor (Atom) and not individually project files. This will help you stay organized and help you keep your sanity.\n One way to confirm that you\u0026rsquo;ve opened the \u0026ldquo;top-level\u0026rdquo; folder of a project is to confirm that you can see only one project and all of its child files/folders in the Tree View located in the left pane. Use cmd + \\ (mac) or ctrl+\\ (pc) to toggle the Tree View\nStep 11: Work on your assignment You are going to work on your assignment the way your normally would. Ensuring that you constantly save your work (cmd+s - mac / ctrl+s - pc ) along the way.\n(Git) Commit your work While you work on your assignment it is highly recommended that you periodically Commit your code.\nCommitting is Git\u0026rsquo;s way of saving the history of the changes you\u0026rsquo;ve made on the assignment (much like the \u0026ldquo;Track Changes\u0026rdquo; feature of word processors). A commit takes a \u0026ldquo;snapshot\u0026rdquo; of your project\u0026rsquo;s entire codebase. This is extremely powerful as it allows you to \u0026ldquo;time travel\u0026rdquo; throughout your code.\nIt is a best practice to commit your code once you\u0026rsquo;ve finished a \u0026ldquo;unit\u0026rdquo; of work.\nIf you approach your assignments by breaking them up in parts or tasks, then a unit would represent that task.\nFor example: If you were tasked with building a portfolio site for a client the project could be broken into a series of small tasks such as:\n implement design layout\n add css styles\n add portfolio images\n etc\n  If you were using git, it would be a best practice to have a commit for each one of the tasks above.\nWhy? Because if something breaks and is beyond repair, you can easily revert to a past commit that you know works.\nGit requires that you submit a message with each commit. This message is used to communicate the unit of work that was done.\nStep 12: Make a commit using Github Desktop After you\u0026rsquo;ve made changes associated with a \u0026ldquo;unit\u0026rdquo; of work, you\u0026rsquo;re ready to commit.\nOpen Github Desktop and ensure that you have selected the correct project (in Github Desktop)\nAfter you commit you can go back to working on your \u0026ldquo;next unit of work\u0026rdquo; or step.\nYou aren\u0026rsquo;t required to take this approach of breaking up your assignment into tasks (or units of work) but it is highly recommended.\n (Git) Push your work to Github to keep your work synced You have been committing your code periodically and now you\u0026rsquo;d like to see your changes reflected on Github.com (i.e. the remote repository). However, after navigating to remote repository on Github.com you find that none of your recent changes are being reflected.\nThe reason you don\u0026rsquo;t see anything is because you haven\u0026rsquo;t pushed your code back up to the remote repository on Github. Pushing your code keeps your local repository and its associated remote repository in sync.\nStep 13: Push your code back to the remote repository on Github.com In Github Desktop (after you have committed all your changes) press the button labeled Push Origin to push your changes to Github.\nStep 14: Confirm your commits were successfully \u0026ldquo;pushed\u0026rdquo; back to Github.com Navigate to remote repository for the assignment on Github.com (i.e. the assignment repository that is located under your Github account).\nConfirm that the changes you made are displayed in the commit history of the remote repository.\nIn this example we see that the changes made locally (on your computers) are now reflected (aka they were synced) with the associated remote repository!\nSubmit your homework by making a Pull Request You\u0026rsquo;ve made all our commits and you\u0026rsquo;ve finished the assignment. Now you are ready to submit your homework for feedback.\nStep 15: Make a pull request While in your repository press the link labeled Pull Requests to submit your homework. See gif below for more information.\nWhen naming our pull request use the following format: HW Submission from [Your Full Name]\n"
+	"content": " Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.\nStep 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com\nStep 3: Log into your Github Desktop application Ensure You have installed the Github Desktop Application on your computer and you have logged in the application using your GitHub username and password\nForking the Assignment Repository Step 4: Navigate to the HW Repository on Github.com The instructor will provide you with a link to the repository that houses the HW assignment on Github.com. Click on that link and you should be navigated to the repository page for the assignment located on Github.com.\nStep 5: Fork the HW Repository to create a copy under your account Next we will fork the repository that contains the homework assignment. Remember, forking a repository copies a repository and places it under your account.\nFork the repository by pressing the Fork button in the upper right hand corner:\nIf you have more than one Github account associated with your email address, you will be asked to pick one. I recommended that you select the account associated with your personal account (this is most likely listed first in the list).\n Step 6: Confirm fork was successful Confirm that the fork was successful by observing that a copy of the repository has been placed under your account.\nIn the example above, the github account named kareemgrant successfully forked (i.e. copied) the HW assignment repository (sample-hw-assignment) that is owned by an account named fewd20190318\nCloning the forked repository Congrats! You have forked the HW assignment repository to your account. However, you\u0026rsquo;re still not able to work on it, since the forked repository lives in the cloud on Github (another way to say this is that your repository is a remote repository) and you need a copy of the repository on your computer so you can work on it.\n The process of creating a local copy (i.e. on your computer) of a remote repository is called cloning. Cloning also allows both local and remote copies of a repository to stay in sync.\n We\u0026rsquo;ll be using the Github Desktop Application to clone our remote repositories. Make sure you have Github Desktop open on your computer. Also make sure you are signed in.\n  Step 7: Clone the forked repository Clone the repository by pressing on the button labeled Clone or download and then press the button labeled Open in Desktop. This action will open the Github Desktop application located on your computer.\nStep 8: Place the cloned repo into your FEWD/github folder While in Github Desktop navigate to your github folder located inside your FEWD folder (see Step 1)\nStep 9: Confirm clone was successfully placed in your FEWD/github folder On your computer, navigate to your FEWD/github folder and confirm the existences of a folder that has name that matches the name of your remote repository\nWorking on your assignment If you\u0026rsquo;ve made it this far you have successfully cloned your assignment repository and now you\u0026rsquo;re ready to start coding! Going forward, all of your work on this particular assignment will live in your FEWD/github/{name-of-your-assignment-repository} folder\nStep 10: Open the repository folder in your text editor Using Atom, open the project folder for your assignment repository (FEWD/github/{name-of-your-assignment-repository})\nYou should always open the top-level folder for your project with your text editor (Atom) and not individually project files. This will help you stay organized and help you keep your sanity.\n One way to confirm that you\u0026rsquo;ve opened the \u0026ldquo;top-level\u0026rdquo; folder of a project is to confirm that you can see only one project and all of its child files/folders in the Tree View located in the left pane. Use cmd + \\ (mac) or ctrl+\\ (pc) to toggle the Tree View\nStep 11: Work on your assignment You are going to work on your assignment the way your normally would. Ensuring that you constantly save your work (cmd+s - mac / ctrl+s - pc ) along the way.\n(Git) Commit your work While you work on your assignment it is highly recommended that you periodically Commit your code.\nCommitting is Git\u0026rsquo;s way of saving the history of the changes you\u0026rsquo;ve made on the assignment (much like the \u0026ldquo;Track Changes\u0026rdquo; feature of word processors). A commit takes a \u0026ldquo;snapshot\u0026rdquo; of your project\u0026rsquo;s entire codebase. This is extremely powerful as it allows you to \u0026ldquo;time travel\u0026rdquo; throughout your code.\nIt is a best practice to commit your code once you\u0026rsquo;ve finished a \u0026ldquo;unit\u0026rdquo; of work.\nIf you approach your assignments by breaking them up in parts or tasks, then a unit would represent that task.\nFor example: If you were tasked with building a portfolio site for a client the project could be broken into a series of small tasks such as:\n implement design layout\n add css styles\n add portfolio images\n etc\n  If you were using git, it would be a best practice to have a commit for each one of the tasks above.\nWhy? Because if something breaks and is beyond repair, you can easily revert to a past commit that you know works.\nGit requires that you submit a message with each commit. This message is used to communicate the unit of work that was done.\nStep 12: Make a commit using Github Desktop After you\u0026rsquo;ve made changes associated with a \u0026ldquo;unit\u0026rdquo; of work, you\u0026rsquo;re ready to commit.\nOpen Github Desktop and ensure that you have selected the correct project (in Github Desktop)\nAfter you commit you can go back to working on your \u0026ldquo;next unit of work\u0026rdquo; or step.\nYou aren\u0026rsquo;t required to take this approach of breaking up your assignment into tasks (or units of work) but it is highly recommended.\n (Git) Push your work to Github to keep your work synced You have been committing your code periodically and now you\u0026rsquo;d like to see your changes reflected on Github.com (i.e. the remote repository). However, after navigating to remote repository on Github.com you find that none of your recent changes are being reflected.\nThe reason you don\u0026rsquo;t see anything is because you haven\u0026rsquo;t pushed your code back up to the remote repository on Github. Pushing your code keeps your local repository and its associated remote repository in sync.\nStep 13: Push your code back to the remote repository on Github.com In Github Desktop (after you have committed all your changes) press the button labeled Push Origin to push your changes to Github.\nStep 14: Confirm your commits were successfully \u0026ldquo;pushed\u0026rdquo; back to Github.com Navigate to remote repository for the assignment on Github.com (i.e. the assignment repository that is located under your Github account).\nConfirm that the changes you made are displayed in the commit history of the remote repository.\nIn this example we see that the changes made locally (on your computers) are now reflected (aka they were synced) with the associated remote repository!\nSubmit your homework by making a Pull Request You\u0026rsquo;ve made all our commits and you\u0026rsquo;ve finished the assignment. Now you are ready to submit your homework for feedback.\nStep 15: Make a pull request  While in your repository press the link labeled Pull requests to submit your homework. See gif below for more information.\n Press the green button labeled New pull request\n You will be taken to the \u0026ldquo;Open a pull request\u0026rdquo; screen that contains some dropdowns, these dropdowns do not need to be changed.  Then press the green button labeled Create pull request\n In the title field of the pull request, name your pull request using the following format: HW Submission by [Your Full Name]\n Finally, press the green button labeled Create pull request to complete the process of submitting your homework\n  See the example below:\n"
 },
 {
 	"uri": "/01-html-basics/objectives/",
@@ -147,6 +147,13 @@
 	"content": " Block Level Elements  Always appear on a new line or row\n By default, block elements take up an entire row regardless of the width of their content\n Example block elements: \u0026lt;p\u0026gt;, \u0026lt;h1\u0026gt;, \u0026lt;div\u0026gt;\n  JS Bin on jsbin.com\nFull list of block level elements can be found here\n Inline Elements  Sit within a block level element and do not start on a new line\n By default, inline elements only occupy the horizontal space needed to fit its content\n The height and width properties of an inline element will not be recognized\n Example inline elements: \u0026lt;a\u0026gt;, \u0026lt;img\u0026gt;, \u0026lt;span\u0026gt;\n  JS Bin on jsbin.com\nFull list of inline elements can be found here\n Inline-Block  Allows you make an element inline while also allowing the element to recognize height and width properties\n inline-block is set as a value of the display property in CSS\n  JS Bin on jsbin.com\nChanging Default Layout Behavior of Elements  The default layout behavior of elements can be overriden using the display property in CSS  // in css p.customer-logos { display: inline; }  In the example above, we are using CSS to change the matching \u0026lt;p\u0026gt; elements (with a class of customer-logos) to display inline instead of its default display layout behavior of block\nFor more information about the display property click here\n "
 },
 {
+	"uri": "/00-dev-tools-github-depr/github-tutorial/",
+	"title": "Git Tutorial",
+	"tags": [],
+	"description": "",
+	"content": " Initial Setup Step 1: Create a Github Account* *one-time step\n\u0026nbsp;\nStep 2: Download Github Desktop software* *one-time step\n\u0026nbsp;\nStep 3: Sign in to Github Account through the Github Desktop application  Github Desktop -\u0026gt; Preferences -\u0026gt; Accounts  *one-time step / Use your Github account username \u0026amp; password\n\u0026nbsp;\nStep 4: Create a folder named github in your \u0026ldquo;class\u0026rdquo; folder* *one-time step\n\u0026nbsp;\nStarting an Assignment Step 5a: Fork Instructor Repository  The link for the Instructor repository will be provided to you  \u0026nbsp;\nStep 5b: Fork Instructor Repository  Github will create a copy of the repo under your account  \u0026nbsp;\nStep 6: Confirm Repository was Successfully Forked \u0026nbsp;\nStep 7a: Clone Repository in Github \u0026nbsp;\nStep 7b: Click \u0026ldquo;Launch Application\u0026rdquo; button  This opens your Github Desktop application  \u0026nbsp;\nStep 7c: Select your \u0026ldquo;github\u0026rdquo; folder and click \u0026ldquo;clone\u0026rdquo;  This is where the project folder will live  \u0026nbsp;\nStep 8: Confirm Repo was created in Github Desktop \u0026nbsp;\nStep 9: Confirm project folder was created in \u0026ldquo;github\u0026rdquo; folder \u0026nbsp;\nStep 10a: Open project folder with sublime and add code (as you normally would) \u0026nbsp;\nStep 10b: View changes in Github Desktop \u0026nbsp;\nStep 11: Commit Your Changes \u0026nbsp;\nStep 12: Push your changes to Github.com \u0026nbsp;\nRepeat Steps 10 through 12 - as many times as needed\n \u0026nbsp;\nSubmitting Your Assignment Step 13a: Create a Pull Request in Github Desktop \u0026nbsp;\nStep 13b: Create a Pull Request in Github Desktop  Important: Pull request should be named: HW Submission from [Your Name]  \u0026nbsp;\nStep 13c: Create a Pull Request in Github Desktop \u0026nbsp;\nStep 14a: Confirm Creation of Pull Request on Github \u0026nbsp;\nStep 14b: Confirm Creation of Pull Request on Github \u0026nbsp;\nStep 14c: Confirm Creation of Pull Request on Github \u0026nbsp;\nReceive Feedback from Instructors Step 15a: Instructors will leave feedback and let you know what needs to be fixed  Hammer emojis indicate something that needs to be fixed  \u0026nbsp;\nStep 15b: Students can add comments of their own to get clarification \u0026nbsp;\nStep 16: Student Fixes Any Outstanding Issues (Hammer emojis) Repeat Steps 10 through 12\n Make your changes in sublime\n Commit your changes\n Push your changes\n  Do Not create a new Pull Request Your existing Pull Request will automatically be updated\n \u0026nbsp;\nStep 17: Instructor Reviews Changes  Instruction team will receive an email notification letting them know your Pull Request was updated Instruction team will confirm that \u0026ldquo;hammers\u0026rdquo; were addressed  \u0026nbsp;\nStep 18: Instructor Approves Your Assignment  Student will receive a \u0026ldquo;Thumbs Up\u0026rdquo; emoji indicating that the assignment was approved  "
+},
+{
 	"uri": "/01-html-basics/html-attributes/",
 	"title": "HTML Attributes",
 	"tags": [],
@@ -159,6 +166,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Flex Container  The parent element in which flex items are contained\n Defined using the flex or inline-flex values of the display property\n flex: will make the flex-container a block-level element\n inline-flex: will make the flex-container an inline element\n   Flex Item  Children of a flex container  Main Axis  The axis along which the flex items follow each other\n flex-direction property determines the main axis\n  Cross Axis  The axis perpendicular to the main axis  Main Axis and Cross Axis changes with Flex Direction  If the flex-direction is row or row-reverse then the main axis will be along the horizontal plane and the cross axis will be along the vertical plane\n If the flex-direction is column or column-reverse then the main axis will be along the vertical plane and the cross axis will be along the horizontal plane\n  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/background-images/background-image/",
+	"title": "Background Image",
+	"tags": [],
+	"description": "",
+	"content": " background-image Property  background-image property allows you to place an image behind any HTML element\n Image can be \u0026ldquo;behind\u0026rdquo; the entire page or part of a page\n By default a background image will repeat to fill an entire box\n  body { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/cool-background-image.gif\u0026quot;); } .hero-section { /* this image will be applied to container with a \u0026quot;hero-section\u0026quot; class attribute */ background-image: url(\u0026quot;images/another-cool-background-image.gif\u0026quot;); }  "
 },
 {
 	"uri": "/06-css-box-model/box-model-overview/border/",
@@ -182,6 +196,13 @@
 	"content": " During this exercise, we will be walking through the process of working with Git and Github.\nThe steps for submitting your assignments using Git \u0026amp; Github are detailed here\nSteps  1) Fork this US states repository located on Github.com\n 2) Clone the Repository using Github Desktop\n 3) Save the local copy of the repository in your FEWD/github folder\n 4) Open the project in Atom and fix the spelling errors found in index.html; save your work.\n 5) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Fixed spelling errors\u0026rdquo;\n 6) Push your changes to Github using Github Desktop\n 7) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 8) The states should be in alphabetical order. Go back to your project in Atom and ensure the state names are listed alphabetically. Save your work.\n 9) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Ordered state names alphabetically\u0026rdquo;.\n 10) Push your changes to Github using Github Desktop\n 11) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 12) Next you will be submitting your work comments, make Pull Request, the title of the pull request should be \u0026ldquo;Fixed issues spelling and order issues\u0026rdquo;\n 13) You just found out that you also need to add the 5 U.S. territories to the list (why didn\u0026rsquo;t these idiots tell me this the first time?? 😒 )\n Go back to your project in Atom and add the 5 U.S. territories. Save your work.\n 15) Commit your changes using Github Desktop. Use the following commit message: \u0026ldquo;Added 5 U.S. territories\u0026rdquo;.\n 16) Push your changes to Github using Github Desktop\n 17) Confirm that your changes were pushed by viewing your repository\u0026rsquo;s \u0026ldquo;commit history\u0026rdquo; on Github.\n 18) Observe, that you do not need to submit another Pull Request since your current Pull request is still \u0026ldquo;Open\u0026rdquo;.\n  Any commits pushed to a remote repository after a Pull Request has been made will be added to the existing Pull Request as long as it is still in an Open state\n "
 },
 {
+	"uri": "/08-css-positioning-and-colors/css-colors/color-names/",
+	"title": "Color Names",
+	"tags": [],
+	"description": "",
+	"content": " Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green }  "
+},
+{
 	"uri": "/21-class-resources/documentation/",
 	"title": "Documentation",
 	"tags": [],
@@ -203,6 +224,13 @@
 	"content": " Specificity  If one selector is more specific than others, then the more specific rule takes precedent\n For example:\n h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   Live Example\nJS Bin on jsbin.com\nIn the example above #featured is more specific than .box so the background-color of the element will be red even though .box is listed after #featured\n"
 },
 {
+	"uri": "/08-css-positioning-and-colors/css-positioning/normal-flow/",
+	"title": "Static Positioning",
+	"tags": [],
+	"description": "",
+	"content": " Static Positioning (Normal Flow)  Default way browser handles block and inline elements\n Each block-level element sits on top of the next one\n Inline elements will share line/row with other inline elements (space permitting)\n If developers want to explicitly specify static positioning, they can do so using CSS:\n  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default\nJS Bin on jsbin.com\n"
+},
+{
 	"uri": "/05-css-selectors/agenda/",
 	"title": "Agenda",
 	"tags": [],
@@ -222,6 +250,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Thinking in boxes\n What is CSS\n Adding CSS to your websites\n  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " CSS Colors\n CSS Positioning\n Background Images\n Lab: Fashion Blog - Pt 2\n  "
 },
 {
 	"uri": "/homework-assignments/assignments/",
@@ -298,7 +333,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning \u0026amp; Colors): TBD\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -329,6 +364,13 @@
 	"content": " align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; } --- Live Example  JS Bin on jsbin.com\n"
 },
 {
+	"uri": "/08-css-positioning-and-colors/background-images/background-repeat/",
+	"title": "Background Repeat",
+	"tags": [],
+	"description": "",
+	"content": " background-repeat Property  background-repeat allows you to control how an background image is repeated\n repeat: image is repeated both horizontally and vertically (default behavior)\n repeat-x: image is only repeated horizontally\n repeat-y: image is only repeated vertically\n no-repeat: image is only shown once and not repeated\n   "
+},
+{
 	"uri": "/07-page-layout-flexbox/containing-elements/",
 	"title": "Containing Elements",
 	"tags": [],
@@ -357,6 +399,27 @@
 	"content": " Homework #1: Online Travel Guide Create an online travel guide for a travel destination of your choice\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-01-online-travel-guide\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
 },
 {
+	"uri": "/08-css-positioning-and-colors/css-colors/hex-codes/",
+	"title": "Hex codes",
+	"tags": [],
+	"description": "",
+	"content": " Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa }  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-positioning/relative-positioning/",
+	"title": "Relative Positioning",
+	"tags": [],
+	"description": "",
+	"content": " Relative Positioning  Moves element in relation to where it would have been in normal flow\n Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow\n Usually accompanied by box offsets: top, right, bottom, left.\n It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions\n  If you set position: relative; on an element but no offset attributes (top, left, bottom or right), it will have no effect on it\u0026rsquo;s positioning at all, it will be exactly as it would be if you left it as position: static; But if you DO give it some other positioning attribute, say, top: 10px;, it will shift it\u0026rsquo;s position 10 pixels DOWN from where it would NORMALLY be\n Live Example\nJS Bin on jsbin.com\nAnother Live Example\nJS Bin on jsbin.com\n"
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-colors/",
+	"title": "CSS Colors",
+	"tags": [],
+	"description": "",
+	"content": " Specifying Colors in CSS Several ways to express colors in CSS\n Color Names Hex Codes RGB RGBa HSL HSLa  "
+},
+{
 	"uri": "/05-css-selectors/",
 	"title": "CSS Selectors",
 	"tags": [],
@@ -383,6 +446,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 06 CSS Box Model "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-positioning/",
+	"title": "CSS Positioning",
+	"tags": [],
+	"description": "",
+	"content": " CSS Positioning Positioning allows you to take elements out of the normal document layout flow, and make them behave differently; for example sitting on top of one another, or always remaining in the same place inside the browser viewport\nWe\u0026rsquo;ll discuss the following positioning types:\n Normal Flow Relative Positioning Absolute Positioning Fixed Positioning  "
 },
 {
 	"uri": "/04-css-basics/code-along/",
@@ -434,6 +504,27 @@
 	"content": " Lesson 07 Page Layout with Flexbox "
 },
 {
+	"uri": "/08-css-positioning-and-colors/css-positioning/absolute-positioning/",
+	"title": "Absolute Positioning",
+	"tags": [],
+	"description": "",
+	"content": " Absolute Positioning  This type of positioning takes box out of normal flow\n Other elements act as if the absolutely positioned element is not longer there\n Box offset properties (top or bottom and left or right) are used to position the element\n Elements positioned absolutely will be positioned relative to the nearest positioned parent element\n  Remember that these values will be relative to the next parent element with relative (or absolute) positioning. If there is no such parent, it will default all the way back up to the  element itself meaning it will be placed relatively to the page itself.\n Live Example - Containing element is \u0026ldquo;positioned\u0026rdquo;\nJS Bin on jsbin.com\nIn the example above, the containing element (box with blue border) is considered positioned because it has the following style applied to it: position: relative. This means that the absolutely positioned box (red box) will be absolutely positioned relative to the bounds of the containing element (box with blue border)\nAnother Live Example - Containing element is NOT \u0026ldquo;positioned\u0026rdquo;\nJS Bin on jsbin.com\nIn the example above, the containing element (box with blue border) is NOT positioned because it does not have a position property set (we commented. When this is the case, the absolutely positioned box (red box) will be absolutely positioned relative to the bounds of the entire page (or the screen). This is why the red box is no longer bounder to the containing element (box with blue border).\n"
+},
+{
+	"uri": "/08-css-positioning-and-colors/background-images/",
+	"title": "Background Images",
+	"tags": [],
+	"description": "",
+	"content": "Properties of Background of Image\n background-image Property background-repeat Property background-position Property  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/background-images/background-position/",
+	"title": "Background Position",
+	"tags": [],
+	"description": "",
+	"content": " background-position Property  Used to position an image when it is not being repeated\n This property has two values\n horizontal position\n vertical position\n   body { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/cool-background-image.gif\u0026quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center\n You can also you pixels or percentages\n They will represent the distance from teh top left corner of the window (or the containing box) top left corner is 0% 0%\n  "
+},
+{
 	"uri": "/06-css-box-model/code-along-tags-and-boxes/",
 	"title": "Code Along - Tags and Boxes",
 	"tags": [],
@@ -462,11 +553,25 @@
 	"content": " Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-02-relaxr-project\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
 },
 {
+	"uri": "/08-css-positioning-and-colors/lab-fashion-blog-2/",
+	"title": "Lab - Fashion Blog II",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.\n Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:\n We have provided you with a finished version of Fashion Blog part I, please use these files for the lab\n   Before you start building:\n Draw a wireframe of the layout Identify your flex containers Idenitfy your nested flex containers  Timebox: 35 mins\n  "
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/order/",
 	"title": "Order",
 	"tags": [],
 	"description": "",
 	"content": " Controls the order in which flex-items appear in the flex container\n Lower values are listed first (-1 will be listed before 2)\n If no order is set on a flex-item it will have a default value of 0\n   .item { order: \u0026lt;integer\u0026gt;; }  Live Example\nJS Bin on jsbin.com\nIn the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.\n"
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-colors/rgb/",
+	"title": "RGB",
+	"tags": [],
+	"description": "",
+	"content": " RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170) }  "
 },
 {
 	"uri": "/21-class-resources/atom-editor-settings/",
@@ -491,10 +596,10 @@
 },
 {
 	"uri": "/08-css-positioning-and-colors/",
-	"title": "CSS Positioning &amp; Colors",
+	"title": "CSS Positioning, Colors, Background Images",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 08 CSS Positioning \u0026amp; Colors "
+	"content": " Lesson 08 CSS Positioning, Colors \u0026amp; Background Images "
 },
 {
 	"uri": "/09-intro-to-programming/",
@@ -502,6 +607,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 09 Intro to Programming "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-positioning/z-index/",
+	"title": "z-index",
+	"tags": [],
+	"description": "",
+	"content": " Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page\n Z-index allows you to control which elements appear on top when elements overlap\n  .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/10-intro-to-jquery/",
@@ -523,6 +635,20 @@
 	"tags": [],
 	"description": "",
 	"content": " HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2\n JS Bin on jsbin.com\nParagraphs  Use \u0026lt;p\u0026gt; element to display paragraphs\n By default, browser displays each paragraph on a new line\n  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/08-css-positioning-and-colors/background-images/background-image-examples/",
+	"title": "Background Image Examples",
+	"tags": [],
+	"description": "",
+	"content": " Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files\n We walk through live examples of background image in action\n  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-positioning/fixed-positioning/",
+	"title": "Fixed Positioning",
+	"tags": [],
+	"description": "",
+	"content": " Fixed Positioning  Positions the element in relation to the browser window (not its containing element)\n Fixed positioned element stays in place even if user scrolls down the page\n Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window\n Fixed positioning commonl used to create a fixed navbar\n  A fixed position element is positioned relative to the viewport, or the browser window itself. The viewport doesn\u0026rsquo;t change when the window is scrolled.\n Live Example\nFixed Positioning Example on jsbin.com\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/flex-basis/",
@@ -558,6 +684,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lab: Fashion Blog  Work in teams to finish the fictional developer\u0026rsquo;s site by building out their portfolio page (depicted in the image below)\n Timebox: 40 mins\n   Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n  "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-colors/rgba/",
+	"title": "RGBa",
+	"tags": [],
+	"description": "",
+	"content": " RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25) }  "
 },
 {
 	"uri": "/21-class-resources/atom-themes/",
@@ -658,6 +791,13 @@
 	"content": " flex-shrink  defines the ability for a flex item to shrink if necessary.\n a unitless measure that respresents a proportion or ratio (similar to flex-grow)\n  "
 },
 {
+	"uri": "/08-css-positioning-and-colors/css-colors/hsl/",
+	"title": "HSL",
+	"tags": [],
+	"description": "",
+	"content": " HSL  Introduced with CSS3\n Provides an alternative way to express colors based on:\n Hue (expressed as an angle between 0 and 360 degrees)\n Saturation (expressed as a percentage)\n Lightness (expressed as a percentage 0% =\u0026gt; white, 50% =\u0026gt; normal \u0026amp; 100% =\u0026gt; black)\n   body { background-color: hsl(0, 0%, 78%); }  "
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/",
 	"title": "Justify Content",
 	"tags": [],
@@ -705,6 +845,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 18 Forms "
+},
+{
+	"uri": "/08-css-positioning-and-colors/css-colors/hsla/",
+	"title": "HSLa",
+	"tags": [],
+	"description": "",
+	"content": " HSLa  Just like HSL but adds the ability to specify opacity using an alpha value\n alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)\n  body { background-color: hsla(0, 100%, 75%, 0.5); }  "
 },
 {
 	"uri": "/07-page-layout-flexbox/lab/",
@@ -782,6 +929,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Many more tags There are many other tags available to developers such as:\n \u0026lt;b\u0026gt; Makes text bold\u0026lt;/b\u0026gt; \u0026lt;i\u0026gt; Italic text \u0026lt;/i\u0026gt; \u0026lt;br/\u0026gt; Used to break text within a paragraph \u0026lt;hr /\u0026gt; Used to add a horizontal line to visually break up text  JS Bin on jsbin.com\nMDN (Mozilla Developer Network) is an excellent resource for all things HTML, CSS and Javascript. For a complete list of all tags avaiable click here\n "
+},
+{
+	"uri": "/00-dev-tools-github-depr/",
+	"title": "Dev Tools, Git &amp; Github",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 00 Dev Tools, Git \u0026amp; Github "
 },
 {
 	"uri": "/course-materials/",

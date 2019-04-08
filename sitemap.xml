@@ -97,6 +97,11 @@
   </url>
   
   <url>
+    <loc>/00-dev-tools-github-depr/github-tutorial/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/html-attributes/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -104,6 +109,10 @@
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flexbox-terminology/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
   <url>
@@ -116,6 +125,10 @@
   
   <url>
     <loc>/02-git-github/code-along-working-with-github/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/color-names/</loc>
   </url>
   
   <url>
@@ -132,6 +145,10 @@
   </url>
   
   <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/normal-flow/</loc>
+  </url>
+  
+  <url>
     <loc>/05-css-selectors/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -143,6 +160,10 @@
   
   <url>
     <loc>/04-css-basics/agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/agenda/</loc>
   </url>
   
   <url>
@@ -212,6 +233,10 @@
   </url>
   
   <url>
+    <loc>/08-css-positioning-and-colors/background-images/background-repeat/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/containing-elements/</loc>
   </url>
   
@@ -225,6 +250,18 @@
   
   <url>
     <loc>/homework-assignments/assignments/hw-01-online-travel-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/hex-codes/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/relative-positioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/</loc>
   </url>
   
   <url>
@@ -243,6 +280,10 @@
   <url>
     <loc>/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/</loc>
   </url>
   
   <url>
@@ -275,6 +316,18 @@
   </url>
   
   <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/background-images/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/background-images/background-position/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-tags-and-boxes/</loc>
   </url>
   
@@ -291,7 +344,15 @@
   </url>
   
   <url>
+    <loc>/08-css-positioning-and-colors/lab-fashion-blog-2/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/rgb/</loc>
   </url>
   
   <url>
@@ -308,11 +369,14 @@
   
   <url>
     <loc>/08-css-positioning-and-colors/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>/09-intro-to-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/z-index/</loc>
   </url>
   
   <url>
@@ -327,6 +391,14 @@
   <url>
     <loc>/01-html-basics/tag-overview/text/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/background-images/background-image-examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</loc>
   </url>
   
   <url>
@@ -348,6 +420,10 @@
   
   <url>
     <loc>/06-css-box-model/lab-fashion-blog/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/rgba/</loc>
   </url>
   
   <url>
@@ -410,6 +486,10 @@
   </url>
   
   <url>
+    <loc>/08-css-positioning-and-colors/css-colors/hsl/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/</loc>
   </url>
   
@@ -436,6 +516,10 @@
   
   <url>
     <loc>/18-forms/</loc>
+  </url>
+  
+  <url>
+    <loc>/08-css-positioning-and-colors/css-colors/hsla/</loc>
   </url>
   
   <url>
@@ -488,6 +572,11 @@
   <url>
     <loc>/01-html-basics/tag-overview/other-tags/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/00-dev-tools-github-depr/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
