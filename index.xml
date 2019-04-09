@@ -331,7 +331,7 @@ Steps  1) Fork this US states repository located on Github.com
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/08-css-positioning-and-colors/css-colors/color-names/</guid>
-      <description> Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green }  </description>
+      <description> Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green; }  </description>
     </item>
     
     <item>
@@ -625,7 +625,7 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/08-css-positioning-and-colors/css-colors/hex-codes/</guid>
-      <description> Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa }  </description>
+      <description> Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa; }  </description>
     </item>
     
     <item>
@@ -820,7 +820,7 @@ In the example above we are applying order: -1 to the red box (.three) which res
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/08-css-positioning-and-colors/css-colors/rgb/</guid>
-      <description> RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170) }  </description>
+      <description> RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170); }  </description>
     </item>
     
     <item>
@@ -910,8 +910,8 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <description>Fixed Positioning  Positions the element in relation to the browser window (not its containing element)
  Fixed positioned element stays in place even if user scrolls down the page
  Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
- Fixed positioning commonl used to create a fixed navbar
-  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
+ Fixed positioning commonly used to create a fixed navbar
+  .navbar { position: fixed; }  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
     </item>
     
     <item>
@@ -968,7 +968,7 @@ JS Bin on jsbin.com</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/08-css-positioning-and-colors/css-colors/rgba/</guid>
-      <description> RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25) }  </description>
+      <description> RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25); }  </description>
     </item>
     
     <item>

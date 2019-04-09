@@ -68,8 +68,8 @@
       <description>Fixed Positioning  Positions the element in relation to the browser window (not its containing element)
  Fixed positioned element stays in place even if user scrolls down the page
  Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
- Fixed positioning commonl used to create a fixed navbar
-  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
+ Fixed positioning commonly used to create a fixed navbar
+  .navbar { position: fixed; }  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
     </item>
     
   </channel>
