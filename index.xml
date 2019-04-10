@@ -273,6 +273,22 @@ Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Ins
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/09-intro-to-programming/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/agenda/</guid>
+      <description> What is Programming?
+ Pseudocode
+ Class Exercise: Thermostat
+ Group Exercise: Rock, Paper, Scissors
+ What is Javascript?
+ Code Along: Color Scheme Switcher
+ Lab: Traffic Light
+  </description>
+    </item>
+    
+    <item>
       <title>Background Image</title>
       <link>/08-css-positioning-and-colors/background-images/background-image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -667,6 +683,18 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>What is Programming?</title>
+      <link>/09-intro-to-programming/what-is-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-programming/</guid>
+      <description> What is Programming?  List of instructions that a computer needs in order to complete a task
+ Instructions are provided in a programming language that the computer understands
+ These set of instructions are commonly referred as source code or a program
+  </description>
+    </item>
+    
+    <item>
       <title>CSS Selectors</title>
       <link>/05-css-selectors/css-selectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -851,6 +879,19 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
+      <title>Pseudocode</title>
+      <link>/09-intro-to-programming/pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/pseudocode/</guid>
+      <description> Pseudocode  Process of writing a program without using the syntax of a programming language
+ Mixture of natural language and high-level programming concepts
+ There is no standard way to write pseudocode, use langauge that can be understood by technical and non-technical people
+ Use pseudocode as an &amp;ldquo;outline&amp;rdquo; for your real code
+  </description>
+    </item>
+    
+    <item>
       <title>RGB</title>
       <link>/08-css-positioning-and-colors/css-colors/rgb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -934,6 +975,18 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <guid>/08-css-positioning-and-colors/background-images/background-image-examples/</guid>
       <description> Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files
  We walk through live examples of background image in action
+  </description>
+    </item>
+    
+    <item>
+      <title>Class Exercise - Smart Thermostat Pseudocode</title>
+      <link>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</guid>
+      <description> Class Exercise: Thermostat logic in pseudocode We&amp;rsquo;re going to use pseudocode to describe the basic functionality of a smart thermostat
+ As as class we are going to write some pseudocode for a program for a smart thermostat
+ We’ll focus on coming up with the logic that will help the thermostat know when to turn the heat on and off
   </description>
     </item>
     
@@ -1086,6 +1139,15 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>Group Exercise - Rock, Paper, Scissors</title>
+      <link>/09-intro-to-programming/group-exercise-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/group-exercise-rock-paper-scissors/</guid>
+      <description>Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors</description>
+    </item>
+    
+    <item>
       <title>Class Logistics &amp; Materials</title>
       <link>/00-course-intro-and-tools/class-logistics-materials/</link>
       <pubDate>Sat, 16 Mar 2019 10:04:07 -0400</pubDate>
@@ -1168,6 +1230,21 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>What is Javascript?</title>
+      <link>/09-intro-to-programming/what-is-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-javascript/</guid>
+      <description> What is Javascript?  programming language created in 1995 by Netscape (now Mozilla)
+ It was created in 10 days
+ Not the same as java
+  What does Javascript do?  Adds interactivity to your websites
+ Makes web based software feel more like desktop software
+ Improves user experience
+  Why teach javascript in front-end web development?  Javascript is the only programming language that all web browsers understand  </description>
+    </item>
+    
+    <item>
       <title>Course Tools</title>
       <link>/00-course-intro-and-tools/tools/</link>
       <pubDate>Sat, 16 Mar 2019 10:03:50 -0400</pubDate>
@@ -1190,6 +1267,21 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       
       <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</guid>
       <description> Align Items  defines the default behaviour for how flex items are laid out along the cross axis on the current line  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Color Scheme Switcher</title>
+      <link>/09-intro-to-programming/code-along-color-scheme-switcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/code-along-color-scheme-switcher/</guid>
+      <description> Code Along: Color Scheme Switcher  Using Atom, open the folder called color_scheme_switcher in your lesson_09_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ Walk through an actual javascript code step-by-step
+ Introduce variables, functions, listeners
+ Talk about how Javascript finding the elements to control
+ Make some small changes and examine the results.
+   </description>
     </item>
     
     <item>
@@ -1258,6 +1350,19 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
   .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example
 JS Bin on jsbin.com
 In the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis</description>
+    </item>
+    
+    <item>
+      <title>Lab - Traffic Light</title>
+      <link>/09-intro-to-programming/lab-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/lab-traffic-light/</guid>
+      <description>Lab: Traffic Light  Using Atom, open the folder called traffic_light in your lesson_09_files folder. You will be using these files as starting off point.
+ DurigThe yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.
+ Instructions
+ Work in pairs
+ Use &amp;ldquo;pattern matching&amp;rdquo; to identify what needs to fix the broken code</description>
     </item>
     
     <item>

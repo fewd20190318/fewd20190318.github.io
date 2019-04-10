@@ -112,6 +112,10 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -273,6 +277,10 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/what-is-programming/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-colors/</loc>
   </url>
   
@@ -368,6 +376,10 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/pseudocode/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-colors/rgb/</loc>
   </url>
   
@@ -411,6 +423,10 @@
   
   <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image-examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</loc>
   </url>
   
   <url>
@@ -484,6 +500,10 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/group-exercise-rock-paper-scissors/</loc>
+  </url>
+  
+  <url>
     <loc>/14-functions/</loc>
   </url>
   
@@ -522,6 +542,10 @@
   </url>
   
   <url>
+    <loc>/09-intro-to-programming/what-is-javascript/</loc>
+  </url>
+  
+  <url>
     <loc>/16-responsive-design/</loc>
   </url>
   
@@ -536,6 +560,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</loc>
+  </url>
+  
+  <url>
+    <loc>/09-intro-to-programming/code-along-color-scheme-switcher/</loc>
   </url>
   
   <url>
@@ -565,6 +593,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</loc>
+  </url>
+  
+  <url>
+    <loc>/09-intro-to-programming/lab-traffic-light/</loc>
   </url>
   
   <url>
