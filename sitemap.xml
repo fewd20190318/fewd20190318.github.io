@@ -141,6 +141,10 @@
   </url>
   
   <url>
+    <loc>/final-projects/overview-requirements/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/css-cascading-guidelines/specificity/</loc>
   </url>
   
@@ -257,7 +261,15 @@
   </url>
   
   <url>
+    <loc>/final-projects/milestones-due-dates/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-positioning/relative-positioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/final-projects/milestones-due-dates/submit-project-ideas/</loc>
   </url>
   
   <url>
@@ -340,6 +352,10 @@
   </url>
   
   <url>
+    <loc>/final-projects/milestones-due-dates/get-idea-approved/</loc>
+  </url>
+  
+  <url>
     <loc>/homework-assignments/assignments/hw-02-relaxr-project/</loc>
   </url>
   
@@ -398,6 +414,10 @@
   </url>
   
   <url>
+    <loc>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</loc>
   </url>
   
@@ -448,6 +468,10 @@
   </url>
   
   <url>
+    <loc>/final-projects/milestones-due-dates/create-submit-wireframes/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/exercise/</loc>
   </url>
   
@@ -479,6 +503,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/code-along/</loc>
+  </url>
+  
+  <url>
+    <loc>/final-projects/milestones-due-dates/create-project-plan/</loc>
   </url>
   
   <url>
@@ -523,6 +551,10 @@
   </url>
   
   <url>
+    <loc>/final-projects/milestones-due-dates/host-final-project-on-github-pages/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/lab/</loc>
   </url>
   
@@ -537,6 +569,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/final-projects/milestones-due-dates/submit-final-project/</loc>
   </url>
   
   <url>
@@ -586,12 +622,15 @@
   
   <url>
     <loc>/homework-assignments/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/final-projects/</loc>
   </url>
   
   <url>
     <loc>/21-class-resources/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>

@@ -351,6 +351,19 @@ jQuery jQuery Documentation</description>
     </item>
     
     <item>
+      <title>Overview &amp; Requirements</title>
+      <link>/final-projects/overview-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/overview-requirements/</guid>
+      <description>Overview  Final Projects are a requirement of &amp;ldquo;course completion&amp;rdquo;
+ Project should be something that you are passionate about
+ We&amp;rsquo;ve established some milestones (and due dates) that will help you stay on track to complete your projects on time
+ Each milestone will include a deliverable  Instruction team will actively work with you to help you manage scope and come up with a project plan
+ Click here for examples of what other GA FEWD students have built</description>
+    </item>
+    
+    <item>
       <title>Specificity</title>
       <link>/06-css-box-model/css-cascading-guidelines/specificity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -641,6 +654,19 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Submit Project Ideas</title>
+      <link>/final-projects/milestones-due-dates/submit-project-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/submit-project-ideas/</guid>
+      <description> Milestone I: Submit Project Ideas  Submit a least 3 ideas for your final project
+ Deliverable: Use this form to submit your final project ideas
+ Due Date: Monday, April 15th
+ After which, I&amp;rsquo;ll schedule some time to meet with you to discuss your ideas
+  </description>
+    </item>
+    
+    <item>
       <title>CSS Selectors</title>
       <link>/05-css-selectors/css-selectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -775,6 +801,16 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Get Idea Approved</title>
+      <link>/final-projects/milestones-due-dates/get-idea-approved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/get-idea-approved/</guid>
+      <description> Milestone II: Get Final Project Idea Approved Details TBD
+ Due Date: Monday, April 22nd  </description>
+    </item>
+    
+    <item>
       <title>HW #2 - Relaxr Project</title>
       <link>/homework-assignments/assignments/hw-02-relaxr-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -875,7 +911,7 @@ In the example above we are applying order: -1 to the red box (.three) which res
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  </description>
     </item>
     
     <item>
@@ -899,6 +935,17 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <description> Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files
  We walk through live examples of background image in action
   </description>
+    </item>
+    
+    <item>
+      <title>Create Github Repository for Final Project</title>
+      <link>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</guid>
+      <description> Milestone III: Create Github Repository for Final Project Details TBD
+ Due Date: Wednesday, April 24th  Do not include spaces in your github repository names
+ - **Deliverable**: Submit a link to your github repo here -- </description>
     </item>
     
     <item>
@@ -994,6 +1041,16 @@ JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Create &amp; Submit Wireframes</title>
+      <link>/final-projects/milestones-due-dates/create-submit-wireframes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-submit-wireframes/</guid>
+      <description> Milestone IV: Create and Submit Wireframes Details TBD
+ Due Date: Monday, April 29nd  </description>
+    </item>
+    
+    <item>
       <title>Exercise - Flexbox Froggy</title>
       <link>/07-page-layout-flexbox/exercise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1061,6 +1118,17 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       <description> Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
  As a class, we&amp;rsquo;ll use flexbox to create the following page layouts (depicted in the images below)
   </description>
+    </item>
+    
+    <item>
+      <title>Create Project Plan</title>
+      <link>/final-projects/milestones-due-dates/create-project-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-project-plan/</guid>
+      <description> Milestone V: Create Project Plan Details TBD
+ Due Date: Monday, April 29th  Trello is a free project management tool that uses the kanban approach to track tasks
+ - You will share (i.e. add us as team members) your trello board with the instruction team - **Deliverable**: Provide link to your Trello board here -- </description>
     </item>
     
     <item>
@@ -1145,6 +1213,16 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>Host Final Project using Github Pages</title>
+      <link>/final-projects/milestones-due-dates/host-final-project-on-github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/host-final-project-on-github-pages/</guid>
+      <description> Milestone VI: Host Final Project using Github Pages Details TBD
+ Due Date: Monday, May 13th  </description>
+    </item>
+    
+    <item>
       <title>Lab - Layout Challenge</title>
       <link>/07-page-layout-flexbox/lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1192,6 +1270,16 @@ In the example above we are using align-content: center to align the 2 wrapped r
  Change the value of flex-direction property of the .container selector to the each of the following and observe the result:
  column row-reverse column-reverse  With the flex-direction set to row, change the value of justify-content property of the .container selector to the each of the following and observe the result:
  flex-start flex-end center space-between space-around  Follow all of the steps laid out in #2 above but this time set the flex-direction set to column and observe the changes</description>
+    </item>
+    
+    <item>
+      <title>Submit Final Project</title>
+      <link>/final-projects/milestones-due-dates/submit-final-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/submit-final-project/</guid>
+      <description> Milestone VII: Submit Final Project Details TBD
+ Due Date: Monday, May 20th  </description>
     </item>
     
     <item>

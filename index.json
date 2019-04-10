@@ -217,6 +217,13 @@
 	"content": " Lesson 02 Git \u0026amp; Github "
 },
 {
+	"uri": "/final-projects/overview-requirements/",
+	"title": "Overview &amp; Requirements",
+	"tags": [],
+	"description": "",
+	"content": " Overview  Final Projects are a requirement of \u0026ldquo;course completion\u0026rdquo;\n Project should be something that you are passionate about\n We\u0026rsquo;ve established some milestones (and due dates) that will help you stay on track to complete your projects on time\n Each milestone will include a deliverable  Instruction team will actively work with you to help you manage scope and come up with a project plan\n Click here for examples of what other GA FEWD students have built\n  Requirements Your final projects must make use of the following:\n HTML\n CSS\n \u0026ldquo;some\u0026rdquo; javascript\n Good indentation\n Follow best practices for file/folder structure\n  "
+},
+{
 	"uri": "/06-css-box-model/css-cascading-guidelines/specificity/",
 	"title": "Specificity",
 	"tags": [],
@@ -406,11 +413,25 @@
 	"content": " Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa; }  "
 },
 {
+	"uri": "/final-projects/milestones-due-dates/",
+	"title": "Milestones &amp; Due Dates",
+	"tags": [],
+	"description": "",
+	"content": " Throughout the course you will be providing deliverables that will help keep your final projects on track to be completed on time.\nMilestones    Milestone Due Date     Submit minimum 3 of project ideas Mon, Apr 15th   Get your project idea approved Mon, Apr 22nd   Create github repository for your final project Wed, Apr 24th   Create and submit wireframes Mon, Apr 29th   Provide a project plan for your final project Mon, Apr 29th   Host your project on Github pages Mon, May 13th   Submit your final project Mon, May 20th    "
+},
+{
 	"uri": "/08-css-positioning-and-colors/css-positioning/relative-positioning/",
 	"title": "Relative Positioning",
 	"tags": [],
 	"description": "",
 	"content": " Relative Positioning  Moves element in relation to where it would have been in normal flow\n Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow\n Usually accompanied by box offsets: top, right, bottom, left.\n It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions\n  If you set position: relative; on an element but no offset attributes (top, left, bottom or right), it will have no effect on it\u0026rsquo;s positioning at all, it will be exactly as it would be if you left it as position: static; But if you DO give it some other positioning attribute, say, top: 10px;, it will shift it\u0026rsquo;s position 10 pixels DOWN from where it would NORMALLY be\n Live Example\nJS Bin on jsbin.com\n"
+},
+{
+	"uri": "/final-projects/milestones-due-dates/submit-project-ideas/",
+	"title": "Submit Project Ideas",
+	"tags": [],
+	"description": "",
+	"content": " Milestone I: Submit Project Ideas  Submit a least 3 ideas for your final project\n Deliverable: Use this form to submit your final project ideas\n Due Date: Monday, April 15th\n After which, I\u0026rsquo;ll schedule some time to meet with you to discuss your ideas\n  "
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-colors/",
@@ -546,6 +567,13 @@
 	"content": " Flex Item Properties  align-self\n order\n flex-wrap\n flex-basis\n flex-grow\n flex-shrink\n flex shorthand\n  "
 },
 {
+	"uri": "/final-projects/milestones-due-dates/get-idea-approved/",
+	"title": "Get Idea Approved",
+	"tags": [],
+	"description": "",
+	"content": " Milestone II: Get Final Project Idea Approved Details TBD\n Due Date: Monday, April 22nd  "
+},
+{
 	"uri": "/homework-assignments/assignments/hw-02-relaxr-project/",
 	"title": "HW #2 - Relaxr Project",
 	"tags": [],
@@ -627,7 +655,7 @@
 	"title": "Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",
@@ -642,6 +670,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files\n We walk through live examples of background image in action\n  "
+},
+{
+	"uri": "/final-projects/milestones-due-dates/create-github-repository-for-final-project/",
+	"title": "Create Github Repository for Final Project",
+	"tags": [],
+	"description": "",
+	"content": " Milestone III: Create Github Repository for Final Project Details TBD\n Due Date: Wednesday, April 24th  Do not include spaces in your github repository names\n - **Deliverable**: Submit a link to your github repo here -- "
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-positioning/fixed-positioning/",
@@ -728,6 +763,13 @@
 	"content": " Lesson 13 Arrays \u0026amp; Objects "
 },
 {
+	"uri": "/final-projects/milestones-due-dates/create-submit-wireframes/",
+	"title": "Create &amp; Submit Wireframes",
+	"tags": [],
+	"description": "",
+	"content": " Milestone IV: Create and Submit Wireframes Details TBD\n Due Date: Monday, April 29nd  "
+},
+{
 	"uri": "/07-page-layout-flexbox/exercise/",
 	"title": "Exercise - Flexbox Froggy",
 	"tags": [],
@@ -782,6 +824,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll use flexbox to create the following page layouts (depicted in the images below)\n  "
+},
+{
+	"uri": "/final-projects/milestones-due-dates/create-project-plan/",
+	"title": "Create Project Plan",
+	"tags": [],
+	"description": "",
+	"content": " Milestone V: Create Project Plan Details TBD\n Due Date: Monday, April 29th  Trello is a free project management tool that uses the kanban approach to track tasks\n - You will share (i.e. add us as team members) your trello board with the instruction team - **Deliverable**: Provide link to your Trello board here -- "
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/",
@@ -854,6 +903,13 @@
 	"content": " HSLa  Just like HSL but adds the ability to specify opacity using an alpha value\n alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)\n  body { background-color: hsla(0, 100%, 75%, 0.5); }  "
 },
 {
+	"uri": "/final-projects/milestones-due-dates/host-final-project-on-github-pages/",
+	"title": "Host Final Project using Github Pages",
+	"tags": [],
+	"description": "",
+	"content": " Milestone VI: Host Final Project using Github Pages Details TBD\n Due Date: Monday, May 13th  "
+},
+{
 	"uri": "/07-page-layout-flexbox/lab/",
 	"title": "Lab - Layout Challenge",
 	"tags": [],
@@ -880,6 +936,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Using the jsbin below, change the following properties and observe the result:\n Change the value of flex-direction property of the .container selector to the each of the following and observe the result:\n column row-reverse column-reverse  With the flex-direction set to row, change the value of justify-content property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center space-between space-around  Follow all of the steps laid out in #2 above but this time set the flex-direction set to column and observe the changes\n With the flex-direction set to row, change the value of align-items property of the .container selector to the each of the following and observe the result:\n flex-start flex-end center stretch baseline  Follow all of the steps laid out in #5 above but this time set the flex-direction set to column and observe the changes\n Spend 5 minutes changing both the values of flex-direction, justify-content and align-items and observe the result\n  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/final-projects/milestones-due-dates/submit-final-project/",
+	"title": "Submit Final Project",
+	"tags": [],
+	"description": "",
+	"content": " Milestone VII: Submit Final Project Details TBD\n Due Date: Monday, May 20th  "
 },
 {
 	"uri": "/00-course-intro-and-tools/folder-structure/",
@@ -950,6 +1013,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Homework Assignments "
+},
+{
+	"uri": "/final-projects/",
+	"title": "Final Projects",
+	"tags": [],
+	"description": "",
+	"content": " Final Projects "
 },
 {
 	"uri": "/21-class-resources/",
