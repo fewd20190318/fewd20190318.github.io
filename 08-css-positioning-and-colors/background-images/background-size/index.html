@@ -9,22 +9,22 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>Forms :: FEWD</title>
+    <title>Background Size :: FEWD</title>
 
     
-    <link href="/css/nucleus.css?1554989443" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1554989443" rel="stylesheet">
-    <link href="/css/hybrid.css?1554989443" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1554989443" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1554989443" rel="stylesheet">
-    <link href="/css/auto-complete.css?1554989443" rel="stylesheet">
-    <link href="/css/theme.css?1554989443" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1554989443" rel="stylesheet">
+    <link href="/css/nucleus.css?1554989442" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1554989442" rel="stylesheet">
+    <link href="/css/hybrid.css?1554989442" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1554989442" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1554989442" rel="stylesheet">
+    <link href="/css/auto-complete.css?1554989442" rel="stylesheet">
+    <link href="/css/theme.css?1554989442" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1554989442" rel="stylesheet">
     
-      <link href="/css/theme-blue.css?1554989443" rel="stylesheet">
+      <link href="/css/theme-blue.css?1554989442" rel="stylesheet">
     
 
-    <script src="/js/jquery-2.x.min.js?1554989443"></script>
+    <script src="/js/jquery-2.x.min.js?1554989442"></script>
 
     <style type="text/css">
       :root #header + #content > #left > #rlblock_left{
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/18-forms/">
+  <body class="" data-url="/08-css-positioning-and-colors/background-images/background-size/">
     <nav id="sidebar" class="">
 
 
@@ -87,14 +87,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1554989443"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1554989443"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1554989442"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1554989442"></script>
 <script type="text/javascript">
     
         var baseurl = "\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1554989443"></script>
+<script type="text/javascript" src="/js/search.js?1554989442"></script>
 
     
   </div>
@@ -2061,7 +2061,7 @@
   
     
     <li data-nav-id="/08-css-positioning-and-colors/" title="CSS Positioning, Colors, Background Images" class="dd-item
-        
+        parent
         
         
         ">
@@ -2384,7 +2384,7 @@
   
     
     <li data-nav-id="/08-css-positioning-and-colors/background-images/" title="Background Images" class="dd-item
-        
+        parent
         
         
         ">
@@ -2484,7 +2484,7 @@
  
   
     
-      <li data-nav-id="/08-css-positioning-and-colors/background-images/background-size/" title="Background Size" class="dd-item ">
+      <li data-nav-id="/08-css-positioning-and-colors/background-images/background-size/" title="Background Size" class="dd-item active">
         <a href="/08-css-positioning-and-colors/background-images/background-size/">
         Background Size
         
@@ -2899,8 +2899,8 @@
   
     
     <li data-nav-id="/18-forms/" title="Forms" class="dd-item
-        parent
-        active
+        
+        
         
         ">
       <a href="/18-forms/">
@@ -3518,6 +3518,8 @@
                         </a>
                     </span>
                   
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
                   <span class="links">
                  
                  
@@ -3528,7 +3530,19 @@
             
           
           
-            <a href='/'>FEWD</a> > Forms
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>FEWD</a> > <a href='/08-css-positioning-and-colors/'>CSS Positioning, Colors, Background Images</a> > <a href='/08-css-positioning-and-colors/background-images/'>Background Images</a> > Background Size
+          
+         
+          
+         
           
          
           
@@ -3537,14 +3551,34 @@
                   </span>
                 </div>
                 
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#background-size-property">&lsquo;background-size&rsquo; property</a>
+<ul>
+<li><a href="#values">values</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
               </div>
             </div>
             
 
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>Background Size</h1>
           
 
         
@@ -3552,17 +3586,62 @@
 
 
 
-<h3 id="lesson-18">Lesson 18</h3>
+<h3 id="background-size-property">&lsquo;background-size&rsquo; property</h3>
 
-<h1 id="forms">Forms</h1>
+<ul>
+<li><p>Used to set the size of the element&rsquo;s background image</p></li>
+
+<li><p>The image can be left to its natural size, stretched, or constrained to fit the available space</p></li>
+</ul>
+
+<h4 id="values">values</h4>
+
+<ul>
+<li><p>contain</p>
+
+<ul>
+<li>Scales the image as large as possible without cropping or stretching the image.</li>
+</ul></li>
+
+<li><p>cover</p>
+
+<ul>
+<li>Scales the image as large as possible without stretching the image. If the proportions of the image differ from the element, it is cropped either vertically or horizontally so that no empty space remains.</li>
+</ul></li>
+
+<li><p>auto</p>
+
+<ul>
+<li>Scales the background image in the corresponding direction such that its intrinsic proportions are maintained.</li>
+</ul></li>
+
+<li><p>length</p>
+
+<ul>
+<li><p>Stretches the image in the corresponding dimension to the specified length.</p></li>
+
+<li><p>Accepts an integer (number); negative values are not allowed.</p></li>
+</ul></li>
+
+<li><p>percentage</p>
+
+<ul>
+<li>Stretches the image in the corresponding dimension to the specified percentage of the background positioning area</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<p>Live Example</p>
+
+<p><a class="jsbin-embed" href="https://jsbin.com/tigizij/embed?css,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?4.1.7"></script></p>
 
 
 <footer class=" footline" >
 	
 </footer>
 
-        
-            </div> 
+
         
         </div> 
         
@@ -5077,6 +5156,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -5091,6 +5171,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -5316,120 +5399,6 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -5443,6 +5412,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -5508,6 +5480,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -5515,6 +5488,31 @@
                     
                     
 
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
                     
             
         
@@ -5531,44 +5529,6 @@
                     
                     
 
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
                     
                         
             
@@ -5698,11 +5658,13 @@
             
         
                     
+            
+        
+                    
                         
             
             
                 
-                    
                     
                 
                 
@@ -5720,8 +5682,133 @@
             
                 
                     
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
                     
                 
                 
@@ -6131,10 +6218,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/17-responsive-design-lab/" title="Responsive Design Lab"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/08-css-positioning-and-colors/background-images/background-image-examples/" title="Background Image Examples"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/00-dev-tools-github-depr/" title="Dev Tools, Git &amp; Github" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/08-css-positioning-and-colors/lab-fashion-blog-2/" title="Lab - Fashion Blog II" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -6144,20 +6231,20 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1554989443"></script>
-    <script src="/js/perfect-scrollbar.min.js?1554989443"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1554989443"></script>
-    <script src="/js/jquery.sticky.js?1554989443"></script>
-    <script src="/js/featherlight.min.js?1554989443"></script>
-    <script src="/js/html5shiv-printshiv.min.js?1554989443"></script>
-    <script src="/js/highlight.pack.js?1554989443"></script>
+    <script src="/js/clipboard.min.js?1554989442"></script>
+    <script src="/js/perfect-scrollbar.min.js?1554989442"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1554989442"></script>
+    <script src="/js/jquery.sticky.js?1554989442"></script>
+    <script src="/js/featherlight.min.js?1554989442"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1554989442"></script>
+    <script src="/js/highlight.pack.js?1554989442"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom.71422.js?1554989443"></script>
-    <script src="/js/learn.js?1554989443"></script>
-    <script src="/js/hugo-learn.js?1554989443"></script>
+    <script src="/js/modernizr.custom.71422.js?1554989442"></script>
+    <script src="/js/learn.js?1554989442"></script>
+    <script src="/js/hugo-learn.js?1554989442"></script>
 
-    <link href="/mermaid/mermaid.css?1554989443" type="text/css" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1554989443"></script>
+    <link href="/mermaid/mermaid.css?1554989442" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1554989442"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
@@ -6165,3 +6252,4 @@
 
   </body>
 </html>
+
