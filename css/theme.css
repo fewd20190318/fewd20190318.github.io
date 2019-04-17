@@ -487,6 +487,7 @@ div.notices p {
     margin-top: 0rem;
     margin-bottom: 0rem;
     color: #666;
+    font-size: 20px !important;
 }
 div.notices p:first-child:before {
     position: absolute;
@@ -654,7 +655,7 @@ pre code {
     border: 0;
     padding: 0;
     margin: 0;
-    font-size: 15px;
+    font-size: 18px;
 }
 hr {
     border-bottom: 4px solid #F0F2F4;

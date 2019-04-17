@@ -40,5 +40,20 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
  Submit your assignment using a Pull Request</description>
     </item>
     
+    <item>
+      <title>HW #3 - jQuery Traffic Light</title>
+      <link>/homework-assignments/assignments/hw-03-jquery-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-03-jquery-traffic-light/</guid>
+      <description>Homework #3: jQuery Traffic Light Use jQuery to making the Traffic Light application fully functional
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-03-jquery-traffic-light
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
   </channel>
 </rss>

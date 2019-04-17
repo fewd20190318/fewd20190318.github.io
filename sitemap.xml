@@ -116,6 +116,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -149,11 +153,19 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/selecting-elements/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/css-cascading-guidelines/specificity/</loc>
   </url>
   
   <url>
     <loc>/08-css-positioning-and-colors/css-positioning/static-positioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/jquery-overview/what-is-jquery/</loc>
   </url>
   
   <url>
@@ -245,6 +257,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/containing-elements/</loc>
   </url>
   
@@ -269,6 +285,14 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/programming-protips/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-positioning/relative-positioning/</loc>
   </url>
   
@@ -278,6 +302,10 @@
   
   <url>
     <loc>/09-intro-to-programming/what-is-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/jquery-overview/adding-jquery/</loc>
   </url>
   
   <url>
@@ -298,6 +326,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-overview/jquery-syntax/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -312,6 +344,10 @@
   
   <url>
     <loc>/01-html-basics/code-along/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/jquery-overview/document-ready/</loc>
   </url>
   
   <url>
@@ -349,6 +385,10 @@
   
   <url>
     <loc>/06-css-box-model/code-along-tags-and-boxes/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/dom-intro/</loc>
   </url>
   
   <url>
@@ -422,6 +462,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/adding-new-elements/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image-examples/</loc>
   </url>
   
@@ -459,6 +503,10 @@
   </url>
   
   <url>
+    <loc>/homework-assignments/assignments/hw-03-jquery-traffic-light/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/lab-fashion-blog/</loc>
   </url>
   
@@ -468,6 +516,10 @@
   
   <url>
     <loc>/21-class-resources/atom-themes/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/jquery-overview/</loc>
   </url>
   
   <url>
@@ -508,6 +560,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/</loc>
+  </url>
+  
+  <url>
     <loc>/14-functions/</loc>
   </url>
   
@@ -523,6 +579,10 @@
   <url>
     <loc>/01-html-basics/tag-overview/lists/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/code-along-color-scheme-switcher-jquery/</loc>
   </url>
   
   <url>
@@ -588,6 +648,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</loc>
   </url>
   
   <url>
