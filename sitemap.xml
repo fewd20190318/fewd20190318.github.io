@@ -120,6 +120,10 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -162,6 +166,14 @@
   
   <url>
     <loc>/08-css-positioning-and-colors/css-positioning/static-positioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/strings/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</loc>
   </url>
   
   <url>
@@ -261,7 +273,15 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/code-along-faq/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/containing-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</loc>
   </url>
   
   <url>
@@ -282,6 +302,10 @@
   
   <url>
     <loc>/final-projects/milestones-due-dates/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/numbers/</loc>
   </url>
   
   <url>
@@ -384,6 +408,10 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/booleans/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-tags-and-boxes/</loc>
   </url>
   
@@ -432,6 +460,14 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/updating-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-notifications/</loc>
   </url>
   
@@ -466,6 +502,10 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/arrays/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image-examples/</loc>
   </url>
   
@@ -479,6 +519,10 @@
   
   <url>
     <loc>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/</loc>
   </url>
   
   <url>
@@ -511,6 +555,14 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/naming-rules/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/data-types/objects/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-colors/rgba/</loc>
   </url>
   
@@ -523,7 +575,7 @@
   </url>
   
   <url>
-    <loc>/11-variables-and-datatypes/</loc>
+    <loc>/11-javascript-fundamentals-pt-1/</loc>
   </url>
   
   <url>
@@ -533,6 +585,10 @@
   <url>
     <loc>/00-course-intro-and-tools/what-is-frontend-development/</loc>
     <lastmod>2019-03-16T19:57:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/arithmetic-operators/</loc>
   </url>
   
   <url>
@@ -568,6 +624,10 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</loc>
+  </url>
+  
+  <url>
     <loc>/14-functions/</loc>
   </url>
   
@@ -594,6 +654,10 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</loc>
+  </url>
+  
+  <url>
     <loc>/final-projects/milestones-due-dates/create-project-plan/</loc>
   </url>
   
@@ -611,6 +675,10 @@
   
   <url>
     <loc>/09-intro-to-programming/what-is-javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/variables/const/</loc>
   </url>
   
   <url>
@@ -632,6 +700,10 @@
   
   <url>
     <loc>/09-intro-to-programming/code-along-color-scheme-switcher/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/comparison-operators/</loc>
   </url>
   
   <url>
@@ -672,6 +744,14 @@
   </url>
   
   <url>
+    <loc>/11-javascript-fundamentals-pt-1/logical-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/conditionals/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</loc>
   </url>
   
@@ -687,6 +767,14 @@
   <url>
     <loc>/01-html-basics/tag-overview/images/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/code-along-compare-that/</loc>
+  </url>
+  
+  <url>
+    <loc>/11-javascript-fundamentals-pt-1/code-along-blackout/</loc>
   </url>
   
   <url>

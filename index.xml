@@ -303,6 +303,24 @@ Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Ins
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/11-javascript-fundamentals-pt-1/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/agenda/</guid>
+      <description> Code Along: FAQ
+ Console Log
+ Variables
+ Data Types
+ Arithmetic Operators
+ Code Along: Score Keeper
+ Comparison &amp;amp; Logical Operators
+ Conditionals
+ Code Alongs: Compare That &amp;amp; Blackout
+  </description>
+    </item>
+    
+    <item>
       <title>Background Image</title>
       <link>/08-css-positioning-and-colors/background-images/background-image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -429,6 +447,32 @@ In the example above #featured is more specific than .box so the background-colo
  Inline elements will share line/row with other inline elements (space permitting)
  If developers want to explicitly specify static positioning, they can do so using CSS:
   .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default</description>
+    </item>
+    
+    <item>
+      <title>Strings</title>
+      <link>/11-javascript-fundamentals-pt-1/data-types/strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/data-types/strings/</guid>
+      <description>Strings  Strings can consist of letters and other characters
+ They are surrounded by either double quotes or single quotes (this is how you recognize you are working with a string)
+ Concatenation allows you to combine strings
+  // declare a variable called color and store a string let color = &amp;quot;green&amp;quot;;  Single or double quotes can be used for strings, but the opening quote must match the closing quote</description>
+    </item>
+    
+    <item>
+      <title>What are Variables</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</guid>
+      <description>What are variables?  Allows us to store values and so our programs can keep track of Data
+ Similar to algebra
+ Helps you represent data or values
+ Used to help your program “remember” values
+ Can be thought of as a “box” that we put values in
+ In programming, you store values in variables if you plan on referencing that value at a later time</description>
     </item>
     
     <item>
@@ -660,6 +704,17 @@ In the example, the p element will automatically inherit the font color property
     </item>
     
     <item>
+      <title>Code Along - FAQ</title>
+      <link>/11-javascript-fundamentals-pt-1/code-along-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/code-along-faq/</guid>
+      <description> Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery implement a FAQ. found on a company&amp;rsquo;s support page   </description>
+    </item>
+    
+    <item>
       <title>Containing Elements</title>
       <link>/07-page-layout-flexbox/containing-elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -671,6 +726,19 @@ In the example, the p element will automatically inherit the font color property
   In example the above example, orange lines represent &amp;lt;div&amp;gt; tags
 &amp;lt;div&amp;gt;  Used to group a set of elements together in one block-level box
  &amp;lt;div&amp;gt; element are block-level elements which means they will start on a new line</description>
+    </item>
+    
+    <item>
+      <title>Declaring Variables</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</guid>
+      <description> Declaring Variables  Variables are created by declaring them
+ Use the let keyword to declare a variable
+ If you declare a variable without assigning it an initial value, the value of that variable will be undefined
+  // declaring a variable let firstName;  Variables only need to be declared once
+ </description>
     </item>
     
     <item>
@@ -706,6 +774,21 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       
       <guid>/08-css-positioning-and-colors/css-colors/hex-codes/</guid>
       <description> Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa; }  </description>
+    </item>
+    
+    <item>
+      <title>Numbers</title>
+      <link>/11-javascript-fundamentals-pt-1/data-types/numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/data-types/numbers/</guid>
+      <description>Numbers  Used for tasks involving counting or calculating sums
+ Whole numbers (integers) or decimals (floats)
+ Numbers can be negative or positive
+ Numbers do not have quotes around them
+  There are no commas used when expressing numbers, for example the number 1,750 is expressed as 1750 in Javascript
+ JS Bin on jsbin.com
+Converting Strings to Numbers  Sometimes you will find yourself in a position where you need to convert a string to a number</description>
     </item>
     
     <item>
@@ -915,6 +998,17 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Booleans</title>
+      <link>/11-javascript-fundamentals-pt-1/data-types/booleans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/data-types/booleans/</guid>
+      <description>Booleans  Can only have a value of true or false
+ true/false are special keywords in javascript and do not have quotes around them
+  // declare a variable called isOn and assign a value of true let isOn = true; // declare a variable called isWarm let isWarm; // assign a value of false to isWarm isWarm = false;   Booleans are useful for helping our programs make decisions (when used with conditionals, comparison &amp;amp; logical operators)</description>
+    </item>
+    
+    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1045,6 +1139,18 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
+      <title>Updating Variables</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/updating-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/updating-variables/</guid>
+      <description>Updating Variables  We can provide variables with a value by updating a value to the variable
+ An = (equal sign) is used to assign a value to variable
+ This process of updating/changing variable&amp;rsquo;s value is also referred to as assigning a value to a variable
+  // declaring a variable let firstName; // assigning a value to the variable firstName = &amp;quot;Cletus&amp;quot;;  Declaring &amp;amp; Assigning Variables in one step  We can both declare and assign variables in one step</description>
+    </item>
+    
+    <item>
       <title>Code Along - Notifications</title>
       <link>/06-css-box-model/code-along-notifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1096,6 +1202,19 @@ Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
       <guid>/10-intro-to-jquery/jquery-in-action/adding-new-elements/</guid>
       <description>Adding New Elements using append() and prepend() Using methods like .prepend() and .append() you can dynamically add elements to html to your pages
 JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/11-javascript-fundamentals-pt-1/data-types/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/data-types/arrays/</guid>
+      <description>Arrays  Used to when you are working with a list of values that are related to each other
+ Use square brackets to create an array (this is also how you quickly recognize arrays)
+ Values in an array are separated by commas
+  Creating an Array  We can store variables just like any other data type
+ You can create that doesn&amp;rsquo;t initially contain any values, this is called an empty array</description>
     </item>
     
     <item>
@@ -1222,6 +1341,27 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Naming Rules for Variables</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/naming-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/naming-rules/</guid>
+      <description>Naming Rules for Variables    Do Don&amp;rsquo;t     Use variable names that start with a letter, $, or _ Use variable names that start with a number   Use variable names that include letters, numbers, $ or _ Create variable names that include a &amp;ldquo;-&amp;rdquo;, &amp;ldquo;.&amp;rdquo; or space   Use &amp;ldquo;lower camel case&amp;rdquo; when creating variable names made up of more than one word, for example: firstName Create variable names that use reserved Javascript keywords such as let, var, function or switch    Variables names should describe the kind of information the variable stores</description>
+    </item>
+    
+    <item>
+      <title>Objects</title>
+      <link>/11-javascript-fundamentals-pt-1/data-types/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/data-types/objects/</guid>
+      <description>Objects  Objects are used to represent real world objects in programming
+ Within an object, variables are known as properties and functions are known as methods
+ Curly braces are a means of identifying if a variable is an object
+  // create an object that represents a dog let myDog = { name: &amp;quot;Fido&amp;quot;, age: 4, speak: function() { console.log(&#39;Woof woof&#39;); } }   In the example above, we created an object and stored it in a variable called myDog</description>
+    </item>
+    
+    <item>
       <title>RGBa</title>
       <link>/08-css-positioning-and-colors/css-colors/rgba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1250,6 +1390,15 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
  CSS
  Javascript
   How is front-end development differ from back-end development?  Backend development, is also known as server-side development and involves storing data on behalf of users or customers</description>
+    </item>
+    
+    <item>
+      <title>Arithmetic Operators</title>
+      <link>/11-javascript-fundamentals-pt-1/arithmetic-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/arithmetic-operators/</guid>
+      <description>Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples</description>
     </item>
     
     <item>
@@ -1317,6 +1466,18 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>let vs var</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</guid>
+      <description>let vs var  In recent past var was the only way to declare variables
+ While var worked it a lot of confusing issues that came along with it
+ let was introduced in the latest release of Javascript, ES6 to address these issues
+ While var is still in use for legacy codebases, it is a recommended best practice to use let instead of var going forward</description>
+    </item>
+    
+    <item>
       <title>Class Logistics &amp; Materials</title>
       <link>/00-course-intro-and-tools/class-logistics-materials/</link>
       <pubDate>Sat, 16 Mar 2019 10:04:07 -0400</pubDate>
@@ -1360,6 +1521,17 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       <description> Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
  As a class, we&amp;rsquo;ll use flexbox to create the following page layouts (depicted in the images below)
   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Score Keeper</title>
+      <link>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</guid>
+      <description> Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to keep track of a game&amp;rsquo;s score   </description>
     </item>
     
     <item>
@@ -1425,6 +1597,18 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>const</title>
+      <link>/11-javascript-fundamentals-pt-1/variables/const/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/variables/const/</guid>
+      <description>const  Stands for constant
+ These are variables for which its value does not change after it has been assigned an initial value
+ This help make your code easier to debug and protects certain values from accidentally being overridden in your codebase
+  Declaring a constant const are the same as let but with one key difference, values can only be assigned once to a const variable</description>
+    </item>
+    
+    <item>
       <title>Course Tools</title>
       <link>/00-course-intro-and-tools/tools/</link>
       <pubDate>Sat, 16 Mar 2019 10:03:50 -0400</pubDate>
@@ -1462,6 +1646,15 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
  Talk about how Javascript finding the elements to control
  Make some small changes and examine the results.
    </description>
+    </item>
+    
+    <item>
+      <title>Comparison Operators</title>
+      <link>/11-javascript-fundamentals-pt-1/comparison-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/comparison-operators/</guid>
+      <description>Comparison Operators  Compares operands (the things on either side of the operator) and returns true or false (boolean) based one the comparison     Operator Description Example (all return true)     Equal (==) Returns true if the operands are equal 3 == &amp;ldquo;3&amp;rdquo; (uhmm yes this is actually true)   Not equal (!=) Returns true if the operands are not equal. (4 + 1) !</description>
     </item>
     
     <item>
@@ -1557,6 +1750,32 @@ In the example above we are using align-content: center to align the 2 wrapped r
     </item>
     
     <item>
+      <title>Logical Operators</title>
+      <link>/11-javascript-fundamentals-pt-1/logical-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/logical-operators/</guid>
+      <description>Logical Operators  Evaluates between two conditions/expressions and returns true or false
+ with &amp;amp;&amp;amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true
+ with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false
+     Operator Description Example (all return true)     Logical AND (&amp;amp;&amp;amp;) expr1 &amp;amp;&amp;amp; expr2 (3 &amp;gt; 1) &amp;amp;&amp;amp; &amp;ldquo;cat&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Conditionals</title>
+      <link>/11-javascript-fundamentals-pt-1/conditionals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/conditionals/</guid>
+      <description>What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
+ if statements are the most common form of conditionals
+ There are two types of if statements
+ (if else) statements
+ (if else if) statements
+   (if / else) statements  when evaluating between just two choices, use if/else</description>
+    </item>
+    
+    <item>
       <title>Flex Property Examples</title>
       <link>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1601,6 +1820,28 @@ In the example above we are using align-content: center to align the 2 wrapped r
    &amp;lt;img src=&amp;quot;images/team_hands&amp;quot; alt=&amp;quot;a group of people touching hands in a star formation&amp;quot; title=&amp;quot;teamwork is awesome&amp;quot;&amp;gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)
  alt - Provides description of image for people who cannot see the image (accessibility)
  title - Used to provide additional information about the image.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Compare That</title>
+      <link>/11-javascript-fundamentals-pt-1/code-along-compare-that/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/code-along-compare-that/</guid>
+      <description> Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to compare two numbers   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Blackout</title>
+      <link>/11-javascript-fundamentals-pt-1/code-along-blackout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals-pt-1/code-along-blackout/</guid>
+      <description> Code Along: Blackout  Using Atom, open the folder called blackout in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application imitate a light switch   </description>
     </item>
     
     <item>

@@ -182,6 +182,13 @@
 	"content": " Programming protips\n jQuery Overview\n See jQuery in Action (Code Examples)\n Code Along: Color Scheme Switcher (with jQuery)\n Lab: jQuery DOM Selector Practice\n  "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: FAQ\n Console Log\n Variables\n Data Types\n Arithmetic Operators\n Code Along: Score Keeper\n Comparison \u0026amp; Logical Operators\n Conditionals\n Code Alongs: Compare That \u0026amp; Blackout\n  "
+},
+{
 	"uri": "/08-css-positioning-and-colors/background-images/background-image/",
 	"title": "Background Image",
 	"tags": [],
@@ -257,6 +264,20 @@
 	"tags": [],
 	"description": "",
 	"content": " Static Positioning (Normal Flow)  Default way browser handles block and inline elements\n Each block-level element sits on top of the next one\n Inline elements will share line/row with other inline elements (space permitting)\n If developers want to explicitly specify static positioning, they can do so using CSS:\n  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default\nJS Bin on jsbin.com\n"
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/strings/",
+	"title": "Strings",
+	"tags": [],
+	"description": "",
+	"content": " Strings  Strings can consist of letters and other characters\n They are surrounded by either double quotes or single quotes (this is how you recognize you are working with a string)\n Concatenation allows you to combine strings\n  // declare a variable called color and store a string let color = \u0026quot;green\u0026quot;;  Single or double quotes can be used for strings, but the opening quote must match the closing quote\n String Methods  Javascript has some built-in methods that allow developers to work with strings\n For example: if you wanted to know how many characters were in a string, you would use the .length method\n Here are some example of other methods you can use on strings\n  JS Bin on jsbin.com\nClick here for complete list of all the String methods\n "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/variables/what-are-variables/",
+	"title": "What are Variables",
+	"tags": [],
+	"description": "",
+	"content": " What are variables?  Allows us to store values and so our programs can keep track of Data\n Similar to algebra\n Helps you represent data or values\n Used to help your program “remember” values\n Can be thought of as a “box” that we put values in\n In programming, you store values in variables if you plan on referencing that value at a later time\n  "
 },
 {
 	"uri": "/10-intro-to-jquery/jquery-overview/what-is-jquery/",
@@ -368,7 +389,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals Pt 1)\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -413,11 +434,25 @@
 	"content": " Benefits of jQuery?  Uses CSS selectors to help us grab or select elements programmatically (i.e. in our code)\n Accomplishes more with less code vs using native Javascript\n  CSS selectors means less code Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using native Javascript\n// selecting an element using native Javascript document.getElementById('flavors').onClick = doSomething();  Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('#flavors').click(doSomething);  In this code snippet above you can see jQuery allows us to use CSS selectors to programmatically select elements on our page\nThe ability to use CSS selectors to programmatically select elements is the main reason jQuery is so popular today\n Another Example Here\u0026rsquo;s another example of how jQuery results in much more clear and readable DOM manipulation logic\nIn this code snippet, we are using native Javascript to programmatically select the \u0026lt;body\u0026gt; element and then change the background color to white\n// selecting an element using native Javascript document.getElementsByTagName('body')[0].style.backgroundColor = 'white';  Compare the snippet above with the following snippet that accomplishes the same result using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('body').css('backgroundColor', 'white');  Note: best practice is to use camel case when referencing css properties that have multiple words i.e. \u0026lsquo;backgroundColor\u0026rsquo; instead of \u0026lsquo;background-color\u0026rsquo;\n "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/code-along-faq/",
+	"title": "Code Along - FAQ",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use jQuery implement a FAQ. found on a company\u0026rsquo;s support page   "
+},
+{
 	"uri": "/07-page-layout-flexbox/containing-elements/",
 	"title": "Containing Elements",
 	"tags": [],
 	"description": "",
 	"content": " Containing Elements  Elements that contain groups of elements\n For example, grouping all of the elements associated with the header in a \u0026lt;div\u0026gt;\n \u0026lt;div\u0026gt; tags are commonly used as containing elements\n  In example the above example, orange lines represent \u0026lt;div\u0026gt; tags\n\u0026lt;div\u0026gt;  Used to group a set of elements together in one block-level box\n \u0026lt;div\u0026gt; element are block-level elements which means they will start on a new line\n  \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;link rel=\u0026quot;stylesheet\u0026quot; type=\u0026quot;text/css\u0026quot; href=\u0026quot;css/styles.css\u0026quot;\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;!-- start of header div --\u0026gt; \u0026lt;div id=\u0026quot;header\u0026quot;\u0026gt; \u0026lt;img src=\u0026quot;images/logo.gif\u0026quot; alt=\u0026quot;Anish Kapoor\u0026quot; /\u0026gt; \u0026lt;ul\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;index.html\u0026quot;\u0026gt;Home\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;biography.html\u0026quot;\u0026gt;Biography\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;works.html\u0026quot;\u0026gt;Works\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;contact.html\u0026quot;\u0026gt;Contact\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;/ul\u0026gt; \u0026lt;/div\u0026gt; \u0026lt;!-- end of header div --\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Structure using \u0026lt;div\u0026gt;s  Prior to HTML5, the divs have been the most common way to structure content on page\n Usual ids/classes are used to provide each div with context regarding the type of content div contains\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  \u0026lt;div\u0026gt;s are used to structure pages in logical sections/groups based on your site\u0026rsquo;s layout\n "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/variables/declaring-variables/",
+	"title": "Declaring Variables",
+	"tags": [],
+	"description": "",
+	"content": " Declaring Variables  Variables are created by declaring them\n Use the let keyword to declare a variable\n If you declare a variable without assigning it an initial value, the value of that variable will be undefined\n  // declaring a variable let firstName;  Variables only need to be declared once\n "
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-container-properties/display/",
@@ -453,6 +488,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Throughout the course you will be providing deliverables that will help keep your final projects on track to be completed on time.\nMilestones    Milestone Due Date     Submit three (3) of project ideas Mon, Apr 15th   Get your project idea approved Mon, Apr 22nd   Create github repository for your final project Wed, Apr 24th   Create and submit wireframes Mon, Apr 29th   Provide a project plan for your final project Mon, Apr 29th   Host your project on Github pages Mon, May 13th   Submit your final project Mon, May 20th    "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/numbers/",
+	"title": "Numbers",
+	"tags": [],
+	"description": "",
+	"content": " Numbers  Used for tasks involving counting or calculating sums\n Whole numbers (integers) or decimals (floats)\n Numbers can be negative or positive\n Numbers do not have quotes around them\n  There are no commas used when expressing numbers, for example the number 1,750 is expressed as 1750 in Javascript\n JS Bin on jsbin.com\nConverting Strings to Numbers  Sometimes you will find yourself in a position where you need to convert a string to a number\n This happens when you attempt to read numeric values from html (html displays everything as a string)\n Use the parseInt() or parseFloat() methods to accomplish this\n  JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/10-intro-to-jquery/programming-protips/",
@@ -623,6 +665,13 @@
 	"content": " background-position Property  Used to position an image\n This property has two values\n horizontal position\n vertical position\n   body { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/cool-background-image.gif\u0026quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center\n You can also you pixels or percentages\n They will represent the distance from the top left corner of the window (or the containing box) top left corner is 0% 0%\n   .container { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/some-other-image.png\u0026quot;); background-repeat: no-repeat; background-position: 10px 30px; }  Live Example\nJS Bin on jsbin.com\n"
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/booleans/",
+	"title": "Booleans",
+	"tags": [],
+	"description": "",
+	"content": " Booleans  Can only have a value of true or false\n true/false are special keywords in javascript and do not have quotes around them\n  // declare a variable called isOn and assign a value of true let isOn = true; // declare a variable called isWarm let isWarm; // assign a value of false to isWarm isWarm = false;   Booleans are useful for helping our programs make decisions (when used with conditionals, comparison \u0026amp; logical operators)\n Booleans also helps a program known when it should stop/start looping\n  "
+},
+{
 	"uri": "/06-css-box-model/code-along-tags-and-boxes/",
 	"title": "Code Along - Tags and Boxes",
 	"tags": [],
@@ -707,6 +756,20 @@
 	"content": " Structure using Semantic tags  Similar to \u0026lt;div\u0026gt;s, semantic tags are container elements\n HTML5 introduced semantic tags that directly communicate type of content the container element contains\n Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)\n There are rougly 100 semantic elements\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  Make sure you distinguish between \u0026lt;head\u0026gt; and \u0026lt;header\u0026gt;, they are not the same\n Benefits of Using Semantic Elements  Search engines will consider its contents as important keywords to influence the page\u0026rsquo;s search rankings (see SEO)\n Screen readers can use it as a signpost to help visually impaired users navigate a page\n Finding blocks of meaningful code is significantly easier than searching though endless divs with or without semantic or namespaced classes\n Suggests to the developer the type of data that will be populated Semantic naming mirrors proper custom element/component naming\n  This blog post does a good job describing Semantic Elements.\n "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/variables/updating-variables/",
+	"title": "Updating Variables",
+	"tags": [],
+	"description": "",
+	"content": " Updating Variables  We can provide variables with a value by updating a value to the variable\n An = (equal sign) is used to assign a value to variable\n This process of updating/changing variable\u0026rsquo;s value is also referred to as assigning a value to a variable\n  // declaring a variable let firstName; // assigning a value to the variable firstName = \u0026quot;Cletus\u0026quot;;  Declaring \u0026amp; Assigning Variables in one step  We can both declare and assign variables in one step\n This would be done if the developer wanted to set the initial value of the variable\n  // declare and assign an intial value to a variable let score = 0;  Changing the value of a Variable after an initial value has already been assigned  In this case we will still use a single = (equal sign) to change or reassign a value of a variable   // declare and assign a value of 0 to the score variable let score = 0; // changing the value of the score variable from 0 to 3 score = 3;  "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/variables/",
+	"title": "Variables",
+	"tags": [],
+	"description": "",
+	"content": " What are Variables?\n Declaring Variables\n Updating Variables\n Naming Rules for Variables\n let vs var\n const\n  "
+},
+{
 	"uri": "/06-css-box-model/code-along-notifications/",
 	"title": "Code Along - Notifications",
 	"tags": [],
@@ -763,6 +826,13 @@
 	"content": " Adding New Elements using append() and prepend() Using methods like .prepend() and .append() you can dynamically add elements to html to your pages\nJS Bin on jsbin.com\n"
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/arrays/",
+	"title": "Arrays",
+	"tags": [],
+	"description": "",
+	"content": " Arrays  Used to when you are working with a list of values that are related to each other\n Use square brackets to create an array (this is also how you quickly recognize arrays)\n Values in an array are separated by commas\n  Creating an Array  We can store variables just like any other data type\n You can create that doesn\u0026rsquo;t initially contain any values, this is called an empty array\n An array can also be created with initial values\n Square brackets are a means of identifying if a variable is an array\n  // declare a variable as an empty array let numbers = []; // or you can declare an array with initial values let streets = ['Broadway', 'Houston', 'Grand'];  Values in an Array  Values in an array are accessed as if they are in a numbered list\n Arrays are zero based meaning the 1st “value” in an array is at position (index) 0, the 2nd element is at position 1, and so on\n You access the value of an element in the array by passing the index of the item in square brackets\n  let streets = ['Broadway', 'Houston', 'Grand']; // access the 2nd street listed in the array which is at index 1 let streetTwo = streets[1];  Accessing in an Array  You can access a value of an array by referencing its index (i.e. its order within the array)  // declare a variable called chipmunks and use it to store // an array of names let chipmunks = [\u0026quot;Alvin\u0026quot;, \u0026quot;Simon\u0026quot;, \u0026quot;Theodore\u0026quot;]; // reference the first value in the array // here we pass in a zero, since that represents the first // element (value) in an array let bandMember = chipmunks[0]; // the value stored in bandMember is \u0026quot;Alvin\u0026quot;  Changing Values in an Array  You can change a value in an array by referencing the value and then changing the value using an = (equal sign)  // declare a variable called newEditionMembers and use it to store // an array of names let newEditionMembers = [\u0026quot;Ricky Bell\u0026quot;, \u0026quot;Michael Bivins\u0026quot;, \u0026quot;Bobby Brown\u0026quot;, \u0026quot;Ronnie DeVoe\u0026quot;, \u0026quot;Ralph Tresvant\u0026quot;] // We are going replace Bobby Brown with Johnny Gill // by referencing the 3rd element of the array by using index 2 // and then use assignment (just an equal sign) to change // the value to Johnny Gill newEditionMembers[2] = \u0026quot;Johnny Gill\u0026quot;;  Array Examples JS Bin on jsbin.com\nArrays are a flexible and powerful feature of Javascript (and other programming languages as well). Click here for more information about Arrays\n "
+},
+{
 	"uri": "/08-css-positioning-and-colors/background-images/background-image-examples/",
 	"title": "Background Image Examples",
 	"tags": [],
@@ -789,6 +859,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Milestone III: Create Github Repository for Final Project Details TBD\n Due Date: Wednesday, April 24th  Do not include spaces in your github repository names\n - **Deliverable**: Submit a link to your github repo here -- "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/",
+	"title": "Data Types",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-positioning/fixed-positioning/",
@@ -840,6 +917,20 @@
 	"content": " Lab: Fashion Blog  Work in teams to finish the fictional developer\u0026rsquo;s site by building out their portfolio page (depicted in the image below)\n Timebox: 40 mins\n   Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n  "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/variables/naming-rules/",
+	"title": "Naming Rules for Variables",
+	"tags": [],
+	"description": "",
+	"content": " Naming Rules for Variables    Do Don\u0026rsquo;t     Use variable names that start with a letter, $, or _ Use variable names that start with a number   Use variable names that include letters, numbers, $ or _ Create variable names that include a \u0026ldquo;-\u0026rdquo;, \u0026ldquo;.\u0026rdquo; or space   Use \u0026ldquo;lower camel case\u0026rdquo; when creating variable names made up of more than one word, for example: firstName Create variable names that use reserved Javascript keywords such as let, var, function or switch    Variables names should describe the kind of information the variable stores\n Here\u0026rsquo;s a list of Javascript\u0026rsquo;s reserved keywords\n "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/data-types/objects/",
+	"title": "Objects",
+	"tags": [],
+	"description": "",
+	"content": " Objects  Objects are used to represent real world objects in programming\n Within an object, variables are known as properties and functions are known as methods\n Curly braces are a means of identifying if a variable is an object\n  // create an object that represents a dog let myDog = { name: \u0026quot;Fido\u0026quot;, age: 4, speak: function() { console.log('Woof woof'); } }   In the example above, we created an object and stored it in a variable called myDog\n This object has two (2) properties (name and age) and 1 method (speak)\n  Accessing Properties and Methods of Objects  Properties and values can be assigned and read using Dot notation  let myDog = { name: \u0026quot;Fido\u0026quot;, age: 4, speak: function() { console.log('Woof woof'); } } // store myDog's name in a variable called dogName let dogName = myDog.name; // call the speak method of myDog myDog.speak();  JS Bin on jsbin.com\nUpdating Object properties using dot notation  Object properties can be updated, added or deleted  JS Bin on jsbin.com\nThis of method as actions that our objects can take Like arrays, objects are another flexible and powerful feature of Javascript. Click here for more information about Objects\n "
+},
+{
 	"uri": "/08-css-positioning-and-colors/css-colors/rgba/",
 	"title": "RGBa",
 	"tags": [],
@@ -861,11 +952,11 @@
 	"content": " jQuery Overview During this section we\u0026rsquo;ll cover:\n What is jQuery?\n Benefits of jQuery\n How to jQuery to your projects\n jQuery syntax using $()\n Document Ready function\n  "
 },
 {
-	"uri": "/11-variables-and-datatypes/",
-	"title": "Variables &amp; Datatypes",
+	"uri": "/11-javascript-fundamentals-pt-1/",
+	"title": "Javscript Fundamentals - Part 1",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 11 Variables \u0026amp; Datatypes "
+	"content": " Lesson 11 Javascript Fundamentals - Part 1 "
 },
 {
 	"uri": "/12-conditionals-and-loops/",
@@ -880,6 +971,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Overview  Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.  What are the primary technologies associated with front-end development?  HTML\n CSS\n Javascript\n  How is front-end development differ from back-end development?  Backend development, is also known as server-side development and involves storing data on behalf of users or customers\n Example: Amazon, stores information about all it\u0026rsquo;s customers\u0026rsquo; order history in a database  Also where a company\u0026rsquo;s business logic lives\n Example: Amazon will only qualify non-prime customers for free shipping if they spend over $50  The programming languages used for back-end development includes (but is not limited to) Ruby, Python, Java, Go and Javascript (using a technology called NodeJS)\n  "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/arithmetic-operators/",
+	"title": "Arithmetic Operators",
+	"tags": [],
+	"description": "",
+	"content": " Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/13-arrays-and-objects/",
@@ -938,6 +1036,13 @@
 	"content": " jQuery in Action The following pages will contain live code examples of commonly used \u0026ldquo;DOM manipulation\u0026rdquo; patterns\nThis is not a exhaustive list (not possible) but will give you a high level idea of what you can do. jQuery documentation \u0026amp; google searches will help you determine if the feature you\u0026rsquo;re trying to implement is possible with jQuery\n  Selecting Elements\n Reading (getting) and writing (setting) content from/to our pages\n Adding New content to our pages\n Listening for events\n  "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/variables/let-vs-var/",
+	"title": "let vs var",
+	"tags": [],
+	"description": "",
+	"content": " let vs var  In recent past var was the only way to declare variables\n While var worked it a lot of confusing issues that came along with it\n let was introduced in the latest release of Javascript, ES6 to address these issues\n While var is still in use for legacy codebases, it is a recommended best practice to use let instead of var going forward\n   // declaring a variable using var var name = \u0026quot;Jen\u0026quot; // declaring a variable using let (best practice) let name = \u0026quot;Jen\u0026quot;  Click here for more information on the differences between let and var\n "
+},
+{
 	"uri": "/14-functions/",
 	"title": "Functions",
 	"tags": [],
@@ -980,6 +1085,13 @@
 	"content": " Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll use flexbox to create the following page layouts (depicted in the images below)\n  "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/code-along-score-keeper/",
+	"title": "Code Along - Score Keeper",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to complete an application used to keep track of a game\u0026rsquo;s score   "
+},
+{
 	"uri": "/final-projects/milestones-due-dates/create-project-plan/",
 	"title": "Create Project Plan",
 	"tags": [],
@@ -1015,6 +1127,13 @@
 	"content": " What is Javascript?  programming language created in 1995 by Netscape (now Mozilla)\n It was created in 10 days\n Not the same as java\n  What does Javascript do?  Adds interactivity to your websites\n Makes web based software feel more like desktop software\n Improves user experience\n  Why teach javascript in front-end web development?  Javascript is the only programming language that all web browsers understand  "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/variables/const/",
+	"title": "const",
+	"tags": [],
+	"description": "",
+	"content": " const  Stands for constant\n These are variables for which its value does not change after it has been assigned an initial value\n This help make your code easier to debug and protects certain values from accidentally being overridden in your codebase\n  Declaring a constant const are the same as let but with one key difference, values can only be assigned once to a const variable\n// declare a const named 'school' const school = \u0026quot;General Assembly\u0026quot;;  An error will occur if you try to update the value of a const\n // correctly declare a constant using \u0026quot;const\u0026quot; keyword const greeting = \u0026quot;Hello\u0026quot;; // const values cannot be updated, if you attempt to do so // an error will occur greeting = \u0026quot;Good Morning\u0026quot;; // this will throw an error  "
+},
+{
 	"uri": "/16-responsive-design/",
 	"title": "Responsive Design",
 	"tags": [],
@@ -1048,6 +1167,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Code Along: Color Scheme Switcher  Using Atom, open the folder called color_scheme_switcher in your lesson_09_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n Walk through an actual javascript code step-by-step\n Introduce variables, functions, listeners\n Talk about how Javascript finding the elements to control\n Make some small changes and examine the results.\n   "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/comparison-operators/",
+	"title": "Comparison Operators",
+	"tags": [],
+	"description": "",
+	"content": " Comparison Operators  Compares operands (the things on either side of the operator) and returns true or false (boolean) based one the comparison     Operator Description Example (all return true)     Equal (==) Returns true if the operands are equal 3 == \u0026ldquo;3\u0026rdquo; (uhmm yes this is actually true)   Not equal (!=) Returns true if the operands are not equal. (4 + 1) != 10   Strict equal (===) Returns true if the operands are equal and of the same type (8 * 1) === 8   Strict not equal (!==) Returns true if the operands are of the same type but not equal, or are of different type 3 !== \u0026ldquo;3\u0026rdquo;   Greater than (\u0026gt;) Returns true if the left operand is greater than the right operand 10 \u0026gt; (3 * 3)   Greater than or equal (\u0026gt;=) Returns true if the left operand is greater than or equal to the right operand 10 \u0026gt;= (3 * 3) + 1   Less than (\u0026lt;) Returns true if the left operand is less than the right operand 7 \u0026lt; (3 * 3)   Less than or equal (\u0026lt;=) Returns true if the left operand is less than or equal to the right operand 18 \u0026lt;= 6 * 3    JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shorthand/",
@@ -1113,6 +1239,20 @@
 	"content": " Lab: Traffic Light  Using Atom, open the folder called traffic_light in your lesson_09_files folder. You will be using these files as starting off point.\n DurigThe yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.\n Instructions\n Work in pairs\n Use \u0026ldquo;pattern matching\u0026rdquo; to identify what needs to fix the broken code\n Your job is to fix this code:\n   "
 },
 {
+	"uri": "/11-javascript-fundamentals-pt-1/logical-operators/",
+	"title": "Logical Operators",
+	"tags": [],
+	"description": "",
+	"content": " Logical Operators  Evaluates between two conditions/expressions and returns true or false\n with \u0026amp;\u0026amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true\n with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false\n     Operator Description Example (all return true)     Logical AND (\u0026amp;\u0026amp;) expr1 \u0026amp;\u0026amp; expr2 (3 \u0026gt; 1) \u0026amp;\u0026amp; \u0026ldquo;cat\u0026rdquo;.length === 3   Logical OR (||) expr1 || expr2 (4 + 1) \u0026lt; 8 |\\k    "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/conditionals/",
+	"title": "Conditionals",
+	"tags": [],
+	"description": "",
+	"content": " What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test\n if statements are the most common form of conditionals\n There are two types of if statements\n (if else) statements\n (if else if) statements\n   (if / else) statements  when evaluating between just two choices, use if/else\n These are great for “either or” situations\n You do not specify a condition for the “else” clause\n  let brushedTeeth = false if(brushedTeeth){ alert('Great job, you brushed your teeth!'); } else { alert('Go your brush teeth man, your breath is hot right now!'); }  JS Bin on jsbin.com\n(if / else if) statements  when evaluation among more than two choices, use if/else if\n You must specify a condition on the “else if” clause\n  let yourGrade = 84; if (yourGrade \u0026gt;= 90) { alert(\u0026quot;Congrats your score is 90 or above, that's an A!\u0026quot;); } else if (yourGrade \u0026gt;= 80){ alert(\u0026quot;Congrats your score is 80 or above, you earned a B\u0026quot;); } else { alert(\u0026quot;Your score is less than 80, no bueno\u0026quot;); }  JS Bin on jsbin.com\n"
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/",
 	"title": "Flex Property Examples",
 	"tags": [],
@@ -1139,6 +1279,20 @@
 	"tags": [],
 	"description": "",
 	"content": " Images  Images are placed in a \u0026lt;img\u0026gt;\n Empty element meaning there is no closing tag\n   \u0026lt;img src=\u0026quot;images/team_hands\u0026quot; alt=\u0026quot;a group of people touching hands in a star formation\u0026quot; title=\u0026quot;teamwork is awesome\u0026quot;\u0026gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)\n alt - Provides description of image for people who cannot see the image (accessibility)\n title - Used to provide additional information about the image. Most browsers will display this information in a tooltip.\n  Image File Formats  .png - Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif.\n .gif - Can have basic transparency, typically a png is used instead\n .jpeg - No transparency, can be stored at different compression levels with varying amounts of \u0026ldquo;lossy-ness\u0026rdquo;, typically the best format for photos\n  Image example JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/code-along-compare-that/",
+	"title": "Code Along - Compare That",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to complete an application used to compare two numbers   "
+},
+{
+	"uri": "/11-javascript-fundamentals-pt-1/code-along-blackout/",
+	"title": "Code Along - Blackout",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Blackout  Using Atom, open the folder called blackout in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to complete an application imitate a light switch   "
 },
 {
 	"uri": "/00-course-intro-and-tools/keys-to-success/",
