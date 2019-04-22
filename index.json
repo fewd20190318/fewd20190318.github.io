@@ -743,7 +743,7 @@
 },
 {
 	"uri": "/course-materials/solutions/",
-	"title": "Solutions",
+	"title": "Classwork &amp; Lab Solutions",
 	"tags": [],
 	"description": "",
 	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  "
@@ -922,6 +922,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors\n"
+},
+{
+	"uri": "/course-materials/homework-solutions/",
+	"title": "Homework Solutions",
+	"tags": [],
+	"description": "",
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  "
 },
 {
 	"uri": "/10-intro-to-jquery/jquery-in-action/",

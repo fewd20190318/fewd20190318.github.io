@@ -1067,7 +1067,7 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
-      <title>Solutions</title>
+      <title>Classwork &amp; Lab Solutions</title>
       <link>/course-materials/solutions/</link>
       <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
       
@@ -1304,6 +1304,16 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       
       <guid>/09-intro-to-programming/group-exercise-rock-paper-scissors/</guid>
       <description>Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors</description>
+    </item>
+    
+    <item>
+      <title>Homework Solutions</title>
+      <link>/course-materials/homework-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/homework-solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  </description>
     </item>
     
     <item>
