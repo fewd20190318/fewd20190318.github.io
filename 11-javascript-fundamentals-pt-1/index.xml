@@ -36,7 +36,7 @@
       <guid>/11-javascript-fundamentals-pt-1/code-along-faq/</guid>
       <description> Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.
  During this exercise, we&amp;rsquo;ll be doing the following:
- We&amp;rsquo;ll use jQuery implement a FAQ. found on a company&amp;rsquo;s support page   </description>
+ We&amp;rsquo;ll use jQuery implement a FAQ often found on a company&amp;rsquo;s support page   </description>
     </item>
     
     <item>
@@ -89,9 +89,10 @@
       <description>What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
  if statements are the most common form of conditionals
  There are two types of if statements
- (if else) statements
- (if else if) statements
-   (if / else) statements  when evaluating between just two choices, use if/else</description>
+ (if..else) statements
+ (if..else if) statements
+   (if&amp;hellip;else) statements  when evaluating between just two choices, use if/else
+ These are great for “either or” situations</description>
     </item>
     
     <item>
