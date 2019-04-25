@@ -168,6 +168,13 @@
 	"content": " Flex Container  The parent element in which flex items are contained\n Defined using the flex or inline-flex values of the display property\n flex: will make the flex-container a block-level element\n inline-flex: will make the flex-container an inline element\n   Flex Item  Children of a flex container  Main Axis  The axis along which the flex items follow each other\n flex-direction property determines the main axis\n  Cross Axis  The axis perpendicular to the main axis  Main Axis and Cross Axis changes with Flex Direction  If the flex-direction is row or row-reverse then the main axis will be along the horizontal plane and the cross axis will be along the vertical plane\n If the flex-direction is column or column-reverse then the main axis will be along the vertical plane and the cross axis will be along the horizontal plane\n  "
 },
 {
+	"uri": "/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/",
+	"title": ".text()",
+	"tags": [],
+	"description": "",
+	"content": " .text()  Allows you to either read (get) or write (set) the text of html elements (documentation)  Reading Text  To read (or get) the text of elements using jQuery you need to use the .text() method with nothing between the parentheses   // read the text found in the element .main // notice how nothing is in-between the parentheses $(\u0026quot;.main\u0026quot;).text();  Example #1 - Reading text using .text()\nJS Bin on jsbin.com\nIn the example above jQuery is used to listen for a .click() event on the button element and then call the showMessage() function when the element is clicked\nInside the showMessage function, $(\u0026quot;#lead\u0026quot;) selects the element with an id of lead and uses the .text() method with nothing in-between the parentheses to READ text found in the #lead element\nWriting Text  To write or update the text of elements using jQuery you need to use the .text() and place the new text in-between the parentheses   // Update the text found in .main to read \u0026quot;Hello World\u0026quot; // notice how we place \u0026quot;Hello World\u0026quot; in-between the parentheses $(\u0026quot;.main\u0026quot;).text(\u0026quot;Hello World\u0026quot;);  Example #2 - Writing text using .text()\nJS Bin on jsbin.com\nIn the example above jQuery is used to listen for a .click() event on the button element and then call the changeLeadSinger() function when the element is clicked\nInside the changeLeadSinger function, $(\u0026quot;#lead\u0026quot;) selects the element with an id of lead and uses the .text(\u0026lt;new text\u0026gt;) method with the new text placed in-between the parentheses to WRITE new text to the #lead element\n"
+},
+{
 	"uri": "/09-intro-to-programming/agenda/",
 	"title": "Agenda",
 	"tags": [],
@@ -182,7 +189,7 @@
 	"content": " Programming protips\n jQuery Overview\n See jQuery in Action (Code Examples)\n Code Along: Color Scheme Switcher (with jQuery)\n Lab: jQuery DOM Selector Practice\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/agenda/",
+	"uri": "/11-javascript-fundamentals/agenda/",
 	"title": "Agenda",
 	"tags": [],
 	"description": "",
@@ -249,7 +256,7 @@
 	"title": "Selecting Elements",
 	"tags": [],
 	"description": "",
-	"content": " Selecting Elements A most common usage pattern for jQuery is to programmatically select an element and then do something to it - usually add a listener or manipulate (change) it in some way\nDynamically changing your page using Javascript is commonly referred to as manipulating the DOM\nJS Bin on jsbin.com\nIn the example, above we are using jQuery to dynamically toggle the background of the box from blue to red using two (2) built-in jQuery methods .toggleClass() and .click()\n"
+	"content": " Selecting Elements  A most common usage pattern for jQuery is to programmatically select (or grab) an element and then do something to it - usually add a listener or manipulate (change) it in some way\n jQuery allows us to use css selectors to select elements:\n   // We can use css selectors to programmatically select elements $('p'); // Element/Tag selector $('.feature'); // Class selector $('#checkout'); // ID selector $('li strong'); // Descendant selector $('em, i'); // Multiple selector $('a[target=\u0026quot;_blank\u0026quot;]'); // Attribute selector $('p:nth-child(2)'); // Pseudo-class selector   Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM  Example #1\nJS Bin on jsbin.com\nIn the example above jQuery is used to listen for a .click() event on the #button element and then call the completeItem() function when that element is clicked\nInside the changeBackgroundColor function, $(\u0026quot;p\u0026quot;) selects the p element and uses the .toggleClass() method to dynamically toggle the class of .red-background\nExample #2\nJS Bin on jsbin.com\nIn the example above jQuery is used to listen for a .click() event on the #mark-complete element and then call the completeItem() function when the element is clicked\nInside the completeItem function, $(\u0026quot;p.last-of-type\u0026quot;) selects the last p element and uses the .addClass() method to dynamically add a class to the element\n"
 },
 {
 	"uri": "/06-css-box-model/css-cascading-guidelines/specificity/",
@@ -266,14 +273,14 @@
 	"content": " Static Positioning (Normal Flow)  Default way browser handles block and inline elements\n Each block-level element sits on top of the next one\n Inline elements will share line/row with other inline elements (space permitting)\n If developers want to explicitly specify static positioning, they can do so using CSS:\n  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/strings/",
+	"uri": "/11-javascript-fundamentals/data-types/strings/",
 	"title": "Strings",
 	"tags": [],
 	"description": "",
 	"content": " Strings  Strings can consist of letters and other characters\n They are surrounded by either double quotes or single quotes (this is how you recognize you are working with a string)\n Concatenation allows you to combine strings\n  // declare a variable called color and store a string let color = \u0026quot;green\u0026quot;;  Single or double quotes can be used for strings, but the opening quote must match the closing quote\n String Methods  Javascript has some built-in methods that allow developers to work with strings\n For example: if you wanted to know how many characters were in a string, you would use the .length method\n Here are some example of other methods you can use on strings\n  JS Bin on jsbin.com\nClick here for complete list of all the String methods\n "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/what-are-variables/",
+	"uri": "/11-javascript-fundamentals/variables/what-are-variables/",
 	"title": "What are Variables?",
 	"tags": [],
 	"description": "",
@@ -413,6 +420,13 @@
 	"content": " Understand what the term \u0026ldquo;front-end Development\u0026rdquo; means\n Introduce tools you will be using throughout the class\n Cover class logistics, structure \u0026amp; keys to success\n  "
 },
 {
+	"uri": "/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/",
+	"title": ".val()",
+	"tags": [],
+	"description": "",
+	"content": " .val()  Allows you to either read (get) or write (set) the value of html elements (documentation)\n This is mainly used to read and write values of form elements such as text fields (input fields)\n  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .name-field // notice how nothing is in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val();  Example #1 - Reading values using .val()\nTBD\nWriting Values  To write or update the value of elements using jQuery you need to use the .val() and place the new text in-between the parentheses   // Update the value found in .name-field to read \u0026quot;Barney the Purple Dinosaur\u0026quot; // notice how we place \u0026quot;Barney the Purple Dinosaur\u0026quot; in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val(\u0026quot;Barney the Purple Dinosaur\u0026quot;);  Example #2 - Writing values using .val()\nTBD\n"
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/",
 	"title": "Align Self",
 	"tags": [],
@@ -434,7 +448,7 @@
 	"content": " Benefits of jQuery?  Uses CSS selectors to help us grab or select elements programmatically (i.e. in our code)\n Accomplishes more with less code vs using native Javascript\n  CSS selectors means less code Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using native Javascript\n// selecting an element using native Javascript document.getElementById('flavors').onClick = doSomething();  Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('#flavors').click(doSomething);  In this code snippet above you can see jQuery allows us to use CSS selectors to programmatically select elements on our page\nThe ability to use CSS selectors to programmatically select elements is the main reason jQuery is so popular today\n Another Example Here\u0026rsquo;s another example of how jQuery results in much more clear and readable DOM manipulation logic\nIn this code snippet, we are using native Javascript to programmatically select the \u0026lt;body\u0026gt; element and then change the background color to white\n// selecting an element using native Javascript document.getElementsByTagName('body')[0].style.backgroundColor = 'white';  Compare the snippet above with the following snippet that accomplishes the same result using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('body').css('backgroundColor', 'white');  Note: best practice is to use camel case when referencing css properties that have multiple words i.e. \u0026lsquo;backgroundColor\u0026rsquo; instead of \u0026lsquo;background-color\u0026rsquo;\n "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/code-along-faq/",
+	"uri": "/11-javascript-fundamentals/code-along-faq/",
 	"title": "Code Along - FAQ",
 	"tags": [],
 	"description": "",
@@ -448,7 +462,7 @@
 	"content": " Containing Elements  Elements that contain groups of elements\n For example, grouping all of the elements associated with the header in a \u0026lt;div\u0026gt;\n \u0026lt;div\u0026gt; tags are commonly used as containing elements\n  In example the above example, orange lines represent \u0026lt;div\u0026gt; tags\n\u0026lt;div\u0026gt;  Used to group a set of elements together in one block-level box\n \u0026lt;div\u0026gt; element are block-level elements which means they will start on a new line\n  \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html\u0026gt; \u0026lt;head\u0026gt; \u0026lt;title\u0026gt;Sample Page\u0026lt;/title\u0026gt; \u0026lt;link rel=\u0026quot;stylesheet\u0026quot; type=\u0026quot;text/css\u0026quot; href=\u0026quot;css/styles.css\u0026quot;\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;!-- start of header div --\u0026gt; \u0026lt;div id=\u0026quot;header\u0026quot;\u0026gt; \u0026lt;img src=\u0026quot;images/logo.gif\u0026quot; alt=\u0026quot;Anish Kapoor\u0026quot; /\u0026gt; \u0026lt;ul\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;index.html\u0026quot;\u0026gt;Home\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;biography.html\u0026quot;\u0026gt;Biography\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;works.html\u0026quot;\u0026gt;Works\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;contact.html\u0026quot;\u0026gt;Contact\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt; \u0026lt;/ul\u0026gt; \u0026lt;/div\u0026gt; \u0026lt;!-- end of header div --\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt;  Structure using \u0026lt;div\u0026gt;s  Prior to HTML5, the divs have been the most common way to structure content on page\n Usual ids/classes are used to provide each div with context regarding the type of content div contains\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  \u0026lt;div\u0026gt;s are used to structure pages in logical sections/groups based on your site\u0026rsquo;s layout\n "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/declaring-variables/",
+	"uri": "/11-javascript-fundamentals/variables/declaring-variables/",
 	"title": "Declaring Variables",
 	"tags": [],
 	"description": "",
@@ -490,7 +504,7 @@
 	"content": " Throughout the course you will be providing deliverables that will help keep your final projects on track to be completed on time.\nMilestones    Milestone Due Date     Submit three (3) of project ideas Mon, Apr 15th   Get your project idea approved Mon, Apr 22nd   Create github repository for your final project Wed, Apr 24th   Create and submit wireframes Mon, Apr 29th   Provide a project plan for your final project Mon, Apr 29th   Host your project on Github pages Mon, May 13th   Submit your final project Mon, May 20th    "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/numbers/",
+	"uri": "/11-javascript-fundamentals/data-types/numbers/",
 	"title": "Numbers",
 	"tags": [],
 	"description": "",
@@ -508,7 +522,7 @@
 	"title": "Reading and Writing Content",
 	"tags": [],
 	"description": "",
-	"content": " Reading (getting) \u0026amp; Writing (setting) content Using methods like .html(), .text() and .val() you can get (i.e. retrieve) and set content on your pages\n// get the text content stored in an element $('p.intro').text(); // set the content to another value $('p.intro').text('Updated text that will replace existing content');  JS Bin on jsbin.com\nJS Bin on jsbin.com\n"
+	"content": " Reading (getting) \u0026amp; Writing (setting) content  Another common pattern with jQuery (and Dom Manipulation in general) is to programmatically read (get / retrieve) and write (set / update) content to and from our pages.\n The following built-in jQuery methods are frequently used to get and set content:\n .text()\n .val()\n .html()\n  // get the text content stored in an element $('p.intro').text(); // set the content to another value $('p.intro').text('Updated text that will replace existing content');  JS Bin on jsbin.com\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-positioning/relative-positioning/",
@@ -644,6 +658,13 @@
 	"content": " Lesson 07 Page Layout with Flexbox "
 },
 {
+	"uri": "/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/",
+	"title": ".html()",
+	"tags": [],
+	"description": "",
+	"content": " .html() TBD\n"
+},
+{
 	"uri": "/08-css-positioning-and-colors/css-positioning/absolute-positioning/",
 	"title": "Absolute Positioning",
 	"tags": [],
@@ -665,7 +686,7 @@
 	"content": " background-position Property  Used to position an image\n This property has two values\n horizontal position\n vertical position\n   body { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/cool-background-image.gif\u0026quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center\n You can also you pixels or percentages\n They will represent the distance from the top left corner of the window (or the containing box) top left corner is 0% 0%\n   .container { /* this image will be applied to the entire page */ background-image: url(\u0026quot;images/some-other-image.png\u0026quot;); background-repeat: no-repeat; background-position: 10px 30px; }  Live Example\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/booleans/",
+	"uri": "/11-javascript-fundamentals/data-types/booleans/",
 	"title": "Booleans",
 	"tags": [],
 	"description": "",
@@ -756,14 +777,14 @@
 	"content": " Structure using Semantic tags  Similar to \u0026lt;div\u0026gt;s, semantic tags are container elements\n HTML5 introduced semantic tags that directly communicate type of content the container element contains\n Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)\n There are rougly 100 semantic elements\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  Make sure you distinguish between \u0026lt;head\u0026gt; and \u0026lt;header\u0026gt;, they are not the same\n Benefits of Using Semantic Elements  Search engines will consider its contents as important keywords to influence the page\u0026rsquo;s search rankings (see SEO)\n Screen readers can use it as a signpost to help visually impaired users navigate a page\n Finding blocks of meaningful code is significantly easier than searching though endless divs with or without semantic or namespaced classes\n Suggests to the developer the type of data that will be populated Semantic naming mirrors proper custom element/component naming\n  This blog post does a good job describing Semantic Elements.\n "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/updating-variables/",
+	"uri": "/11-javascript-fundamentals/variables/updating-variables/",
 	"title": "Updating Variables",
 	"tags": [],
 	"description": "",
 	"content": " Updating Variables  We can provide variables with a value by updating a value to the variable\n An = (equal sign) is used to assign a value to variable\n This process of updating/changing variable\u0026rsquo;s value is also referred to as assigning a value to a variable\n  // declaring a variable let firstName; // assigning a value to the variable firstName = \u0026quot;Cletus\u0026quot;;  Declaring \u0026amp; Assigning Variables in one step  We can both declare and assign variables in one step\n This would be done if the developer wanted to set the initial value of the variable\n  // declare and assign an intial value to a variable let score = 0;  Changing the value of a Variable after an initial value has already been assigned  In this case we will still use a single = (equal sign) to change or reassign a value of a variable   // declare and assign a value of 0 to the score variable let score = 0; // changing the value of the score variable from 0 to 3 score = 3;  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/",
+	"uri": "/11-javascript-fundamentals/variables/",
 	"title": "Variables",
 	"tags": [],
 	"description": "",
@@ -809,7 +830,7 @@
 	"title": "Classwork &amp; Lab Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors \u0026amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",
@@ -826,7 +847,7 @@
 	"content": " Adding New Elements using append() and prepend() Using methods like .prepend() and .append() you can dynamically add elements to html to your pages\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/arrays/",
+	"uri": "/11-javascript-fundamentals/data-types/arrays/",
 	"title": "Arrays",
 	"tags": [],
 	"description": "",
@@ -861,7 +882,7 @@
 	"content": " Milestone III: Create Github Repository for Final Project Details TBD\n Due Date: Wednesday, April 24th  Do not include spaces in your github repository names\n - **Deliverable**: Submit a link to your github repo here -- "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/",
+	"uri": "/11-javascript-fundamentals/data-types/",
 	"title": "Data Types",
 	"tags": [],
 	"description": "",
@@ -917,14 +938,14 @@
 	"content": " Lab: Fashion Blog  Work in teams to finish the fictional developer\u0026rsquo;s site by building out their portfolio page (depicted in the image below)\n Timebox: 40 mins\n   Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/naming-rules/",
+	"uri": "/11-javascript-fundamentals/variables/naming-rules/",
 	"title": "Naming Rules for Variables",
 	"tags": [],
 	"description": "",
 	"content": " Naming Rules for Variables    Do Don\u0026rsquo;t     Use variable names that start with a letter, $, or _ Use variable names that start with a number   Use variable names that include letters, numbers, $ or _ Create variable names that include a \u0026ldquo;-\u0026rdquo;, \u0026ldquo;.\u0026rdquo; or space   Use \u0026ldquo;lower camel case\u0026rdquo; when creating variable names made up of more than one word, for example: firstName Create variable names that use reserved Javascript keywords such as let, var, function or switch    Variables names should describe the kind of information the variable stores\n Here\u0026rsquo;s a list of Javascript\u0026rsquo;s reserved keywords\n "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/data-types/objects/",
+	"uri": "/11-javascript-fundamentals/data-types/objects/",
 	"title": "Objects",
 	"tags": [],
 	"description": "",
@@ -952,11 +973,11 @@
 	"content": " jQuery Overview During this section we\u0026rsquo;ll cover:\n What is jQuery\n Benefits of jQuery\n How to add jQuery to your projects\n jQuery syntax using $()\n Document Ready function\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/",
-	"title": "Javscript Fundamentals - Part 1",
+	"uri": "/11-javascript-fundamentals/",
+	"title": "Javscript Fundamentals",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 11 Javascript Fundamentals - Part 1 "
+	"content": " Lesson 11 Javascript Fundamentals "
 },
 {
 	"uri": "/12-conditionals-and-loops/",
@@ -973,7 +994,7 @@
 	"content": " Overview  Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.  What are the primary technologies associated with front-end development?  HTML\n CSS\n Javascript\n  How is front-end development differ from back-end development?  Backend development, is also known as server-side development and involves storing data on behalf of users or customers\n Example: Amazon, stores information about all it\u0026rsquo;s customers\u0026rsquo; order history in a database  Also where a company\u0026rsquo;s business logic lives\n Example: Amazon will only qualify non-prime customers for free shipping if they spend over $50  The programming languages used for back-end development includes (but is not limited to) Ruby, Python, Java, Go and Javascript (using a technology called NodeJS)\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/arithmetic-operators/",
+	"uri": "/11-javascript-fundamentals/arithmetic-operators/",
 	"title": "Arithmetic Operators",
 	"tags": [],
 	"description": "",
@@ -1036,7 +1057,7 @@
 	"content": " jQuery in Action The following pages will contain live code examples of commonly used \u0026ldquo;DOM manipulation\u0026rdquo; patterns\nThis is not a exhaustive list (not possible) but will give you a high level idea of what you can do. jQuery documentation \u0026amp; google searches will help you determine if the feature you\u0026rsquo;re trying to implement is possible with jQuery\n  Selecting Elements\n Reading (getting) and writing (setting) content from/to our pages\n Adding New content to our pages\n Listening for events\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/let-vs-var/",
+	"uri": "/11-javascript-fundamentals/variables/let-vs-var/",
 	"title": "let vs var",
 	"tags": [],
 	"description": "",
@@ -1085,7 +1106,7 @@
 	"content": " Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll use flexbox to create the following page layouts (depicted in the images below)\n  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/code-along-score-keeper/",
+	"uri": "/11-javascript-fundamentals/code-along-score-keeper/",
 	"title": "Code Along - Score Keeper",
 	"tags": [],
 	"description": "",
@@ -1127,7 +1148,7 @@
 	"content": " What is Javascript?  programming language created in 1995 by Netscape (now Mozilla)\n It was created in 10 days\n Not the same as java\n  What does Javascript do?  Adds interactivity to your websites\n Makes web based software feel more like desktop software\n Improves user experience\n  Why teach javascript in front-end web development?  Javascript is the only programming language that all web browsers understand  "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/variables/const/",
+	"uri": "/11-javascript-fundamentals/variables/const/",
 	"title": "const",
 	"tags": [],
 	"description": "",
@@ -1169,7 +1190,7 @@
 	"content": " Code Along: Color Scheme Switcher  Using Atom, open the folder called color_scheme_switcher in your lesson_09_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n Walk through an actual javascript code step-by-step\n Introduce variables, functions, listeners\n Talk about how Javascript finding the elements to control\n Make some small changes and examine the results.\n   "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/comparison-operators/",
+	"uri": "/11-javascript-fundamentals/comparison-operators/",
 	"title": "Comparison Operators",
 	"tags": [],
 	"description": "",
@@ -1239,14 +1260,14 @@
 	"content": " Lab: Traffic Light  Using Atom, open the folder called traffic_light in your lesson_09_files folder. You will be using these files as starting off point.\n DurigThe yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.\n Instructions\n Work in pairs\n Use \u0026ldquo;pattern matching\u0026rdquo; to identify what needs to fix the broken code\n Your job is to fix this code:\n   "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/logical-operators/",
+	"uri": "/11-javascript-fundamentals/logical-operators/",
 	"title": "Logical Operators",
 	"tags": [],
 	"description": "",
 	"content": " Logical Operators  Evaluates between two conditions/expressions and returns true or false\n with \u0026amp;\u0026amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true\n with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false\n     Operator Description Example (all return true)     Logical AND (\u0026amp;\u0026amp;) expr1 \u0026amp;\u0026amp; expr2 (3 \u0026gt; 1) \u0026amp;\u0026amp; \u0026ldquo;cat\u0026rdquo;.length === 3   Logical OR (||) expr1 || expr2 (4 + 1) \u0026lt; 8 |\\k    Examples\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/conditionals/",
+	"uri": "/11-javascript-fundamentals/conditionals/",
 	"title": "Conditionals",
 	"tags": [],
 	"description": "",
@@ -1281,14 +1302,14 @@
 	"content": " Images  Images are placed in a \u0026lt;img\u0026gt;\n Empty element meaning there is no closing tag\n   \u0026lt;img src=\u0026quot;images/team_hands\u0026quot; alt=\u0026quot;a group of people touching hands in a star formation\u0026quot; title=\u0026quot;teamwork is awesome\u0026quot;\u0026gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)\n alt - Provides description of image for people who cannot see the image (accessibility)\n title - Used to provide additional information about the image. Most browsers will display this information in a tooltip.\n  Image File Formats  .png - Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif.\n .gif - Can have basic transparency, typically a png is used instead\n .jpeg - No transparency, can be stored at different compression levels with varying amounts of \u0026ldquo;lossy-ness\u0026rdquo;, typically the best format for photos\n  Image example JS Bin on jsbin.com\n"
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/code-along-compare-that/",
+	"uri": "/11-javascript-fundamentals/code-along-compare-that/",
 	"title": "Code Along - Compare That",
 	"tags": [],
 	"description": "",
 	"content": " Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to complete an application used to compare two numbers   "
 },
 {
-	"uri": "/11-javascript-fundamentals-pt-1/code-along-blackout/",
+	"uri": "/11-javascript-fundamentals/code-along-blackout/",
 	"title": "Code Along - Blackout",
 	"tags": [],
 	"description": "",

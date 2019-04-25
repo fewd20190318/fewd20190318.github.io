@@ -16,21 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/10-intro-to-jquery/jquery-in-action/selecting-elements/</guid>
-      <description>Selecting Elements A most common usage pattern for jQuery is to programmatically select an element and then do something to it - usually add a listener or manipulate (change) it in some way
-Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM
-JS Bin on jsbin.com
-In the example, above we are using jQuery to dynamically toggle the background of the box from blue to red using two (2) built-in jQuery methods .</description>
-    </item>
-    
-    <item>
-      <title>Reading and Writing Content</title>
-      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</guid>
-      <description>Reading (getting) &amp;amp; Writing (setting) content Using methods like .html(), .text() and .val() you can get (i.e. retrieve) and set content on your pages
-// get the text content stored in an element $(&#39;p.intro&#39;).text(); // set the content to another value $(&#39;p.intro&#39;).text(&#39;Updated text that will replace existing content&#39;);  JS Bin on jsbin.com
-JS Bin on jsbin.com</description>
+      <description>Selecting Elements  A most common usage pattern for jQuery is to programmatically select (or grab) an element and then do something to it - usually add a listener or manipulate (change) it in some way
+ jQuery allows us to use css selectors to select elements:
+   // We can use css selectors to programmatically select elements $(&#39;p&#39;); // Element/Tag selector $(&#39;.feature&#39;); // Class selector $(&#39;#checkout&#39;); // ID selector $(&#39;li strong&#39;); // Descendant selector $(&#39;em, i&#39;); // Multiple selector $(&#39;a[target=&amp;quot;_blank&amp;quot;]&#39;); // Attribute selector $(&#39;p:nth-child(2)&#39;); // Pseudo-class selector   Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM  Example #1</description>
     </item>
     
     <item>

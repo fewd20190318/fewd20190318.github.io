@@ -273,6 +273,15 @@ Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Ins
     </item>
     
     <item>
+      <title>.text()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</guid>
+      <description>.text()  Allows you to either read (get) or write (set) the text of html elements (documentation)  Reading Text  To read (or get) the text of elements using jQuery you need to use the .text() method with nothing between the parentheses   // read the text found in the element .main // notice how nothing is in-between the parentheses $(&amp;quot;.main&amp;quot;).text();  Example #1 - Reading text using .</description>
+    </item>
+    
+    <item>
       <title>Agenda</title>
       <link>/09-intro-to-programming/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -304,10 +313,10 @@ Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Ins
     
     <item>
       <title>Agenda</title>
-      <link>/11-javascript-fundamentals-pt-1/agenda/</link>
+      <link>/11-javascript-fundamentals/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/agenda/</guid>
+      <guid>/11-javascript-fundamentals/agenda/</guid>
       <description> Code Along: FAQ
  Console Log
  Variables
@@ -417,10 +426,9 @@ jQuery jQuery Documentation</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/10-intro-to-jquery/jquery-in-action/selecting-elements/</guid>
-      <description>Selecting Elements A most common usage pattern for jQuery is to programmatically select an element and then do something to it - usually add a listener or manipulate (change) it in some way
-Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM
-JS Bin on jsbin.com
-In the example, above we are using jQuery to dynamically toggle the background of the box from blue to red using two (2) built-in jQuery methods .</description>
+      <description>Selecting Elements  A most common usage pattern for jQuery is to programmatically select (or grab) an element and then do something to it - usually add a listener or manipulate (change) it in some way
+ jQuery allows us to use css selectors to select elements:
+   // We can use css selectors to programmatically select elements $(&#39;p&#39;); // Element/Tag selector $(&#39;.feature&#39;); // Class selector $(&#39;#checkout&#39;); // ID selector $(&#39;li strong&#39;); // Descendant selector $(&#39;em, i&#39;); // Multiple selector $(&#39;a[target=&amp;quot;_blank&amp;quot;]&#39;); // Attribute selector $(&#39;p:nth-child(2)&#39;); // Pseudo-class selector   Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM  Example #1</description>
     </item>
     
     <item>
@@ -451,10 +459,10 @@ In the example above #featured is more specific than .box so the background-colo
     
     <item>
       <title>Strings</title>
-      <link>/11-javascript-fundamentals-pt-1/data-types/strings/</link>
+      <link>/11-javascript-fundamentals/data-types/strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/data-types/strings/</guid>
+      <guid>/11-javascript-fundamentals/data-types/strings/</guid>
       <description>Strings  Strings can consist of letters and other characters
  They are surrounded by either double quotes or single quotes (this is how you recognize you are working with a string)
  Concatenation allows you to combine strings
@@ -463,10 +471,10 @@ In the example above #featured is more specific than .box so the background-colo
     
     <item>
       <title>What are Variables?</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</link>
+      <link>/11-javascript-fundamentals/variables/what-are-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</guid>
+      <guid>/11-javascript-fundamentals/variables/what-are-variables/</guid>
       <description>What are variables?  Allows us to store values and so our programs can keep track of Data
  Similar to algebra
  Helps you represent data or values
@@ -669,6 +677,17 @@ In the example, the p element will automatically inherit the font color property
     </item>
     
     <item>
+      <title>.val()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</guid>
+      <description>.val()  Allows you to either read (get) or write (set) the value of html elements (documentation)
+ This is mainly used to read and write values of form elements such as text fields (input fields)
+  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .</description>
+    </item>
+    
+    <item>
       <title>Align Self</title>
       <link>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -705,10 +724,10 @@ In the example, the p element will automatically inherit the font color property
     
     <item>
       <title>Code Along - FAQ</title>
-      <link>/11-javascript-fundamentals-pt-1/code-along-faq/</link>
+      <link>/11-javascript-fundamentals/code-along-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/code-along-faq/</guid>
+      <guid>/11-javascript-fundamentals/code-along-faq/</guid>
       <description> Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.
  During this exercise, we&amp;rsquo;ll be doing the following:
  We&amp;rsquo;ll use jQuery implement a FAQ often found on a company&amp;rsquo;s support page   </description>
@@ -730,10 +749,10 @@ In the example, the p element will automatically inherit the font color property
     
     <item>
       <title>Declaring Variables</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</link>
+      <link>/11-javascript-fundamentals/variables/declaring-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</guid>
+      <guid>/11-javascript-fundamentals/variables/declaring-variables/</guid>
       <description> Declaring Variables  Variables are created by declaring them
  Use the let keyword to declare a variable
  If you declare a variable without assigning it an initial value, the value of that variable will be undefined
@@ -778,10 +797,10 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     
     <item>
       <title>Numbers</title>
-      <link>/11-javascript-fundamentals-pt-1/data-types/numbers/</link>
+      <link>/11-javascript-fundamentals/data-types/numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/data-types/numbers/</guid>
+      <guid>/11-javascript-fundamentals/data-types/numbers/</guid>
       <description>Numbers  Used for tasks involving counting or calculating sums
  Whole numbers (integers) or decimals (floats)
  Numbers can be negative or positive
@@ -801,17 +820,6 @@ Converting Strings to Numbers  Sometimes you will find yourself in a position wh
  When an error occurs, take the following steps:
  Take deep breath Read the error message (look for clues) Find the source of the error (i.e. which line of code is causing the error) Fix the error  The process of fixing bugs is also referred to as debugging
     Use your developer console always</description>
-    </item>
-    
-    <item>
-      <title>Reading and Writing Content</title>
-      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</guid>
-      <description>Reading (getting) &amp;amp; Writing (setting) content Using methods like .html(), .text() and .val() you can get (i.e. retrieve) and set content on your pages
-// get the text content stored in an element $(&#39;p.intro&#39;).text(); // set the content to another value $(&#39;p.intro&#39;).text(&#39;Updated text that will replace existing content&#39;);  JS Bin on jsbin.com
-JS Bin on jsbin.com</description>
     </item>
     
     <item>
@@ -970,6 +978,15 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>.html()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</guid>
+      <description>.html() TBD</description>
+    </item>
+    
+    <item>
       <title>Absolute Positioning</title>
       <link>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -999,10 +1016,10 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     
     <item>
       <title>Booleans</title>
-      <link>/11-javascript-fundamentals-pt-1/data-types/booleans/</link>
+      <link>/11-javascript-fundamentals/data-types/booleans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/data-types/booleans/</guid>
+      <guid>/11-javascript-fundamentals/data-types/booleans/</guid>
       <description>Booleans  Can only have a value of true or false
  true/false are special keywords in javascript and do not have quotes around them
   // declare a variable called isOn and assign a value of true let isOn = true; // declare a variable called isWarm let isWarm; // assign a value of false to isWarm isWarm = false;   Booleans are useful for helping our programs make decisions (when used with conditionals, comparison &amp;amp; logical operators)</description>
@@ -1140,10 +1157,10 @@ In the example above we are applying order: -1 to the red box (.three) which res
     
     <item>
       <title>Updating Variables</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/updating-variables/</link>
+      <link>/11-javascript-fundamentals/variables/updating-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/updating-variables/</guid>
+      <guid>/11-javascript-fundamentals/variables/updating-variables/</guid>
       <description>Updating Variables  We can provide variables with a value by updating a value to the variable
  An = (equal sign) is used to assign a value to variable
  This process of updating/changing variable&amp;rsquo;s value is also referred to as assigning a value to a variable
@@ -1179,7 +1196,7 @@ In the example above we are applying order: -1 to the red box (.three) which res
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution  </description>
     </item>
     
     <item>
@@ -1206,10 +1223,10 @@ JS Bin on jsbin.com</description>
     
     <item>
       <title>Arrays</title>
-      <link>/11-javascript-fundamentals-pt-1/data-types/arrays/</link>
+      <link>/11-javascript-fundamentals/data-types/arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/data-types/arrays/</guid>
+      <guid>/11-javascript-fundamentals/data-types/arrays/</guid>
       <description>Arrays  Used to when you are working with a list of values that are related to each other
  Use square brackets to create an array (this is also how you quickly recognize arrays)
  Values in an array are separated by commas
@@ -1342,19 +1359,19 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     
     <item>
       <title>Naming Rules for Variables</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/naming-rules/</link>
+      <link>/11-javascript-fundamentals/variables/naming-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/naming-rules/</guid>
+      <guid>/11-javascript-fundamentals/variables/naming-rules/</guid>
       <description>Naming Rules for Variables    Do Don&amp;rsquo;t     Use variable names that start with a letter, $, or _ Use variable names that start with a number   Use variable names that include letters, numbers, $ or _ Create variable names that include a &amp;ldquo;-&amp;rdquo;, &amp;ldquo;.&amp;rdquo; or space   Use &amp;ldquo;lower camel case&amp;rdquo; when creating variable names made up of more than one word, for example: firstName Create variable names that use reserved Javascript keywords such as let, var, function or switch    Variables names should describe the kind of information the variable stores</description>
     </item>
     
     <item>
       <title>Objects</title>
-      <link>/11-javascript-fundamentals-pt-1/data-types/objects/</link>
+      <link>/11-javascript-fundamentals/data-types/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/data-types/objects/</guid>
+      <guid>/11-javascript-fundamentals/data-types/objects/</guid>
       <description>Objects  Objects are used to represent real world objects in programming
  Within an object, variables are known as properties and functions are known as methods
  Curly braces are a means of identifying if a variable is an object
@@ -1394,10 +1411,10 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     
     <item>
       <title>Arithmetic Operators</title>
-      <link>/11-javascript-fundamentals-pt-1/arithmetic-operators/</link>
+      <link>/11-javascript-fundamentals/arithmetic-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/arithmetic-operators/</guid>
+      <guid>/11-javascript-fundamentals/arithmetic-operators/</guid>
       <description>Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples</description>
     </item>
     
@@ -1467,10 +1484,10 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     
     <item>
       <title>let vs var</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</link>
+      <link>/11-javascript-fundamentals/variables/let-vs-var/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</guid>
+      <guid>/11-javascript-fundamentals/variables/let-vs-var/</guid>
       <description>let vs var  In recent past var was the only way to declare variables
  While var worked it a lot of confusing issues that came along with it
  let was introduced in the latest release of Javascript, ES6 to address these issues
@@ -1525,10 +1542,10 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     
     <item>
       <title>Code Along - Score Keeper</title>
-      <link>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</link>
+      <link>/11-javascript-fundamentals/code-along-score-keeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</guid>
+      <guid>/11-javascript-fundamentals/code-along-score-keeper/</guid>
       <description> Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.
  During this exercise, we&amp;rsquo;ll be doing the following:
  We&amp;rsquo;ll use javascript to complete an application used to keep track of a game&amp;rsquo;s score   </description>
@@ -1598,10 +1615,10 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     
     <item>
       <title>const</title>
-      <link>/11-javascript-fundamentals-pt-1/variables/const/</link>
+      <link>/11-javascript-fundamentals/variables/const/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/variables/const/</guid>
+      <guid>/11-javascript-fundamentals/variables/const/</guid>
       <description>const  Stands for constant
  These are variables for which its value does not change after it has been assigned an initial value
  This help make your code easier to debug and protects certain values from accidentally being overridden in your codebase
@@ -1650,10 +1667,10 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     
     <item>
       <title>Comparison Operators</title>
-      <link>/11-javascript-fundamentals-pt-1/comparison-operators/</link>
+      <link>/11-javascript-fundamentals/comparison-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/comparison-operators/</guid>
+      <guid>/11-javascript-fundamentals/comparison-operators/</guid>
       <description>Comparison Operators  Compares operands (the things on either side of the operator) and returns true or false (boolean) based one the comparison     Operator Description Example (all return true)     Equal (==) Returns true if the operands are equal 3 == &amp;ldquo;3&amp;rdquo; (uhmm yes this is actually true)   Not equal (!=) Returns true if the operands are not equal. (4 + 1) !</description>
     </item>
     
@@ -1751,10 +1768,10 @@ In the example above we are using align-content: center to align the 2 wrapped r
     
     <item>
       <title>Logical Operators</title>
-      <link>/11-javascript-fundamentals-pt-1/logical-operators/</link>
+      <link>/11-javascript-fundamentals/logical-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/logical-operators/</guid>
+      <guid>/11-javascript-fundamentals/logical-operators/</guid>
       <description>Logical Operators  Evaluates between two conditions/expressions and returns true or false
  with &amp;amp;&amp;amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true
  with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false
@@ -1763,10 +1780,10 @@ In the example above we are using align-content: center to align the 2 wrapped r
     
     <item>
       <title>Conditionals</title>
-      <link>/11-javascript-fundamentals-pt-1/conditionals/</link>
+      <link>/11-javascript-fundamentals/conditionals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/conditionals/</guid>
+      <guid>/11-javascript-fundamentals/conditionals/</guid>
       <description>What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
  if statements are the most common form of conditionals
  There are two types of if statements
@@ -1825,10 +1842,10 @@ In the example above we are using align-content: center to align the 2 wrapped r
     
     <item>
       <title>Code Along - Compare That</title>
-      <link>/11-javascript-fundamentals-pt-1/code-along-compare-that/</link>
+      <link>/11-javascript-fundamentals/code-along-compare-that/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/code-along-compare-that/</guid>
+      <guid>/11-javascript-fundamentals/code-along-compare-that/</guid>
       <description> Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.
  During this exercise, we&amp;rsquo;ll be doing the following:
  We&amp;rsquo;ll use javascript to complete an application used to compare two numbers   </description>
@@ -1836,10 +1853,10 @@ In the example above we are using align-content: center to align the 2 wrapped r
     
     <item>
       <title>Code Along - Blackout</title>
-      <link>/11-javascript-fundamentals-pt-1/code-along-blackout/</link>
+      <link>/11-javascript-fundamentals/code-along-blackout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/11-javascript-fundamentals-pt-1/code-along-blackout/</guid>
+      <guid>/11-javascript-fundamentals/code-along-blackout/</guid>
       <description> Code Along: Blackout  Using Atom, open the folder called blackout in your lesson_11_files folder. You will be using these files as starting off point.
  During this exercise, we&amp;rsquo;ll be doing the following:
  We&amp;rsquo;ll use javascript to complete an application imitate a light switch   </description>

@@ -112,6 +112,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</loc>
+  </url>
+  
+  <url>
     <loc>/09-intro-to-programming/agenda/</loc>
   </url>
   
@@ -120,7 +124,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/agenda/</loc>
+    <loc>/11-javascript-fundamentals/agenda/</loc>
   </url>
   
   <url>
@@ -169,11 +173,11 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/strings/</loc>
+    <loc>/11-javascript-fundamentals/data-types/strings/</loc>
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/what-are-variables/</loc>
+    <loc>/11-javascript-fundamentals/variables/what-are-variables/</loc>
   </url>
   
   <url>
@@ -261,6 +265,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</loc>
   </url>
   
@@ -273,7 +281,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/code-along-faq/</loc>
+    <loc>/11-javascript-fundamentals/code-along-faq/</loc>
   </url>
   
   <url>
@@ -281,7 +289,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/declaring-variables/</loc>
+    <loc>/11-javascript-fundamentals/variables/declaring-variables/</loc>
   </url>
   
   <url>
@@ -305,7 +313,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/numbers/</loc>
+    <loc>/11-javascript-fundamentals/data-types/numbers/</loc>
   </url>
   
   <url>
@@ -396,6 +404,10 @@
   </url>
   
   <url>
+    <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</loc>
   </url>
   
@@ -408,7 +420,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/booleans/</loc>
+    <loc>/11-javascript-fundamentals/data-types/booleans/</loc>
   </url>
   
   <url>
@@ -460,11 +472,11 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/updating-variables/</loc>
+    <loc>/11-javascript-fundamentals/variables/updating-variables/</loc>
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/</loc>
+    <loc>/11-javascript-fundamentals/variables/</loc>
   </url>
   
   <url>
@@ -502,7 +514,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/arrays/</loc>
+    <loc>/11-javascript-fundamentals/data-types/arrays/</loc>
   </url>
   
   <url>
@@ -522,7 +534,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/</loc>
+    <loc>/11-javascript-fundamentals/data-types/</loc>
   </url>
   
   <url>
@@ -555,11 +567,11 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/naming-rules/</loc>
+    <loc>/11-javascript-fundamentals/variables/naming-rules/</loc>
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/data-types/objects/</loc>
+    <loc>/11-javascript-fundamentals/data-types/objects/</loc>
   </url>
   
   <url>
@@ -575,7 +587,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/</loc>
+    <loc>/11-javascript-fundamentals/</loc>
   </url>
   
   <url>
@@ -588,7 +600,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/arithmetic-operators/</loc>
+    <loc>/11-javascript-fundamentals/arithmetic-operators/</loc>
   </url>
   
   <url>
@@ -624,7 +636,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/let-vs-var/</loc>
+    <loc>/11-javascript-fundamentals/variables/let-vs-var/</loc>
   </url>
   
   <url>
@@ -654,7 +666,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/code-along-score-keeper/</loc>
+    <loc>/11-javascript-fundamentals/code-along-score-keeper/</loc>
   </url>
   
   <url>
@@ -678,7 +690,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/variables/const/</loc>
+    <loc>/11-javascript-fundamentals/variables/const/</loc>
   </url>
   
   <url>
@@ -703,7 +715,7 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/comparison-operators/</loc>
+    <loc>/11-javascript-fundamentals/comparison-operators/</loc>
   </url>
   
   <url>
@@ -744,11 +756,11 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/logical-operators/</loc>
+    <loc>/11-javascript-fundamentals/logical-operators/</loc>
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/conditionals/</loc>
+    <loc>/11-javascript-fundamentals/conditionals/</loc>
   </url>
   
   <url>
@@ -770,11 +782,11 @@
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/code-along-compare-that/</loc>
+    <loc>/11-javascript-fundamentals/code-along-compare-that/</loc>
   </url>
   
   <url>
-    <loc>/11-javascript-fundamentals-pt-1/code-along-blackout/</loc>
+    <loc>/11-javascript-fundamentals/code-along-blackout/</loc>
   </url>
   
   <url>
