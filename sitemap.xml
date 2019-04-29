@@ -97,11 +97,6 @@
   </url>
   
   <url>
-    <loc>/00-dev-tools-github-depr/github-tutorial/</loc>
-    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/01-html-basics/html-attributes/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -203,6 +198,10 @@
   </url>
   
   <url>
+    <loc>/12-functions/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/homework-assignments/assignments/</loc>
   </url>
   
@@ -238,6 +237,10 @@
   
   <url>
     <loc>/05-css-selectors/classes-and-ids/</loc>
+  </url>
+  
+  <url>
+    <loc>/12-functions/defining-functions/</loc>
   </url>
   
   <url>
@@ -278,6 +281,10 @@
   
   <url>
     <loc>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</loc>
+  </url>
+  
+  <url>
+    <loc>/12-functions/calling-functions/</loc>
   </url>
   
   <url>
@@ -358,6 +365,10 @@
   </url>
   
   <url>
+    <loc>/12-functions/working-with-parameters/</loc>
+  </url>
+  
+  <url>
     <loc>/10-intro-to-jquery/jquery-overview/jquery-syntax/</loc>
   </url>
   
@@ -388,6 +399,10 @@
   
   <url>
     <loc>/06-css-box-model/box-model-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/12-functions/code-along-geometry-calculator/</loc>
   </url>
   
   <url>
@@ -472,6 +487,10 @@
   </url>
   
   <url>
+    <loc>/12-functions/single-responsibility-principle/</loc>
+  </url>
+  
+  <url>
     <loc>/11-javascript-fundamentals/variables/updating-variables/</loc>
   </url>
   
@@ -480,7 +499,15 @@
   </url>
   
   <url>
+    <loc>/12-functions/code-along-hilo/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-notifications/</loc>
+  </url>
+  
+  <url>
+    <loc>/12-functions/lab-hilo/</loc>
   </url>
   
   <url>
@@ -591,7 +618,7 @@
   </url>
   
   <url>
-    <loc>/12-conditionals-and-loops/</loc>
+    <loc>/12-functions/</loc>
   </url>
   
   <url>
@@ -604,7 +631,7 @@
   </url>
   
   <url>
-    <loc>/13-arrays-and-objects/</loc>
+    <loc>/13-arrays-and-loops/</loc>
   </url>
   
   <url>
@@ -640,11 +667,11 @@
   </url>
   
   <url>
-    <loc>/14-functions/</loc>
+    <loc>/14-javascript-lab/</loc>
   </url>
   
   <url>
-    <loc>/15-anonymous-functions-javascript-lab/</loc>
+    <loc>/15-responsive-design/</loc>
   </url>
   
   <url>
@@ -694,11 +721,7 @@
   </url>
   
   <url>
-    <loc>/16-responsive-design/</loc>
-  </url>
-  
-  <url>
-    <loc>/17-responsive-design-lab/</loc>
+    <loc>/16-responsive-design-lab/</loc>
   </url>
   
   <url>
@@ -723,7 +746,7 @@
   </url>
   
   <url>
-    <loc>/18-forms/</loc>
+    <loc>/17-forms/</loc>
   </url>
   
   <url>
@@ -812,11 +835,6 @@
   <url>
     <loc>/01-html-basics/tag-overview/other-tags/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/00-dev-tools-github-depr/</loc>
-    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>

@@ -147,13 +147,6 @@
 	"content": " Block Level Elements  Always appear on a new line or row\n By default, block elements take up an entire row regardless of the width of their content\n Example block elements: \u0026lt;p\u0026gt;, \u0026lt;h1\u0026gt;, \u0026lt;div\u0026gt;\n  JS Bin on jsbin.com\nFull list of block level elements can be found here\n Inline Elements  Sit within a block level element and do not start on a new line\n By default, inline elements only occupy the horizontal space needed to fit its content\n The height and width properties of an inline element will not be recognized\n Example inline elements: \u0026lt;a\u0026gt;, \u0026lt;img\u0026gt;, \u0026lt;span\u0026gt;\n  JS Bin on jsbin.com\nFull list of inline elements can be found here\n Inline-Block  Allows you make an element inline while also allowing the element to recognize height and width properties\n inline-block is set as a value of the display property in CSS\n  JS Bin on jsbin.com\nChanging Default Layout Behavior of Elements  The default layout behavior of elements can be overriden using the display property in CSS  // in css p.customer-logos { display: inline; }  In the example above, we are using CSS to change the matching \u0026lt;p\u0026gt; elements (with a class of customer-logos) to display inline instead of its default display layout behavior of block\nFor more information about the display property click here\n "
 },
 {
-	"uri": "/00-dev-tools-github-depr/github-tutorial/",
-	"title": "Git Tutorial",
-	"tags": [],
-	"description": "",
-	"content": " Initial Setup Step 1: Create a Github Account* *one-time step\n\u0026nbsp;\nStep 2: Download Github Desktop software* *one-time step\n\u0026nbsp;\nStep 3: Sign in to Github Account through the Github Desktop application  Github Desktop -\u0026gt; Preferences -\u0026gt; Accounts  *one-time step / Use your Github account username \u0026amp; password\n\u0026nbsp;\nStep 4: Create a folder named github in your \u0026ldquo;class\u0026rdquo; folder* *one-time step\n\u0026nbsp;\nStarting an Assignment Step 5a: Fork Instructor Repository  The link for the Instructor repository will be provided to you  \u0026nbsp;\nStep 5b: Fork Instructor Repository  Github will create a copy of the repo under your account  \u0026nbsp;\nStep 6: Confirm Repository was Successfully Forked \u0026nbsp;\nStep 7a: Clone Repository in Github \u0026nbsp;\nStep 7b: Click \u0026ldquo;Launch Application\u0026rdquo; button  This opens your Github Desktop application  \u0026nbsp;\nStep 7c: Select your \u0026ldquo;github\u0026rdquo; folder and click \u0026ldquo;clone\u0026rdquo;  This is where the project folder will live  \u0026nbsp;\nStep 8: Confirm Repo was created in Github Desktop \u0026nbsp;\nStep 9: Confirm project folder was created in \u0026ldquo;github\u0026rdquo; folder \u0026nbsp;\nStep 10a: Open project folder with sublime and add code (as you normally would) \u0026nbsp;\nStep 10b: View changes in Github Desktop \u0026nbsp;\nStep 11: Commit Your Changes \u0026nbsp;\nStep 12: Push your changes to Github.com \u0026nbsp;\nRepeat Steps 10 through 12 - as many times as needed\n \u0026nbsp;\nSubmitting Your Assignment Step 13a: Create a Pull Request in Github Desktop \u0026nbsp;\nStep 13b: Create a Pull Request in Github Desktop  Important: Pull request should be named: HW Submission from [Your Name]  \u0026nbsp;\nStep 13c: Create a Pull Request in Github Desktop \u0026nbsp;\nStep 14a: Confirm Creation of Pull Request on Github \u0026nbsp;\nStep 14b: Confirm Creation of Pull Request on Github \u0026nbsp;\nStep 14c: Confirm Creation of Pull Request on Github \u0026nbsp;\nReceive Feedback from Instructors Step 15a: Instructors will leave feedback and let you know what needs to be fixed  Hammer emojis indicate something that needs to be fixed  \u0026nbsp;\nStep 15b: Students can add comments of their own to get clarification \u0026nbsp;\nStep 16: Student Fixes Any Outstanding Issues (Hammer emojis) Repeat Steps 10 through 12\n Make your changes in sublime\n Commit your changes\n Push your changes\n  Do Not create a new Pull Request Your existing Pull Request will automatically be updated\n \u0026nbsp;\nStep 17: Instructor Reviews Changes  Instruction team will receive an email notification letting them know your Pull Request was updated Instruction team will confirm that \u0026ldquo;hammers\u0026rdquo; were addressed  \u0026nbsp;\nStep 18: Instructor Approves Your Assignment  Student will receive a \u0026ldquo;Thumbs Up\u0026rdquo; emoji indicating that the assignment was approved  "
-},
-{
 	"uri": "/01-html-basics/html-attributes/",
 	"title": "HTML Attributes",
 	"tags": [],
@@ -322,6 +315,13 @@
 	"content": " CSS Colors\n CSS Positioning\n Background Images\n Lab: Fashion Blog - Pt 2\n  "
 },
 {
+	"uri": "/12-functions/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Discuss Functions\n Code Along: Geometry Formulas using Functions\n Code Along: HiLo\n Lab: Complete HiLo\n  "
+},
+{
 	"uri": "/homework-assignments/assignments/",
 	"title": "Assignments",
 	"tags": [],
@@ -385,6 +385,13 @@
 	"content": " Classes and Ids  Both are just HTML attributes\n Should start with a letter or underscore\n Can be applied to any html element\n Important: Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved\n  Class Attribute  Is used to group elements together, therefore establishing them as different from other elements on the page\n Element can share the same class attribute values (this could be applied to another type of element)\n   \u0026lt;!-- in html --\u0026gt; \u0026lt;p class='important'\u0026gt; Awesome content \u0026lt;/p\u0026gt;   // in css, use a period to specify a class selector in css .important { font-weight: bold; }  In css class selectors are specified using a . (period)\n Id Attribute  Used to uniquely identify elements on a page\n No two elements should have the same id value (otherwise it would not be unique)\n   \u0026lt;!-- in html --\u0026gt; \u0026lt;button id='add-task'\u0026gt; Add Task \u0026lt;/button\u0026gt;   // in css a '#' (hash) is used to specify an id selector #add-task { font-size: 12px; }  In css id selectors are specified using a # (hash)\n Naming classes and ids  Developers can choose any name they want for classes and ids, however the names you choose should be descriptive  When should you use classes instead of ids (or vice versa)?  Use classes if applying a general style to more than one element on the same page\n Use ids when you style element differently from any other instance of the same element\n Use ids when using javascript to precisely target elements\n  "
 },
 {
+	"uri": "/12-functions/defining-functions/",
+	"title": "Defining Functions",
+	"tags": [],
+	"description": "",
+	"content": " Defining a Function  A function definition is code that stipulates what the function can do\n Use the function keyword to define a function\n Functions can be given a name\n The name must be followed by parentheses\n The opening and closing curly braces indicate a “code block”\n The statements for your function goes within the code block\n Simply defining the function will not run this code, this function must be “called” in order for the code inside the function to be run\n Also referred to as \u0026ldquo;declaring a function\u0026rdquo;\n  // define a function named sayGoodMorning() function sayGoodMorning() { console.log(\u0026quot;Good Morning\u0026quot;); }  "
+},
+{
 	"uri": "/06-css-box-model/css-cascading-guidelines/inheritance/",
 	"title": "Inheritance",
 	"tags": [],
@@ -396,7 +403,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals Pt 1)\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals)\n Lesson 12 files (Functions)\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -424,7 +431,7 @@
 	"title": ".val()",
 	"tags": [],
 	"description": "",
-	"content": " .val()  Allows you to either read (get) or write (set) the value of html elements (documentation)\n This is mainly used to read and write values of form elements such as text fields (input fields)\n  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .name-field // notice how nothing is in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val();  Example #1 - Reading values using .val()\nTBD\nWriting Values  To write or update the value of elements using jQuery you need to use the .val() and place the new text in-between the parentheses   // Update the value found in .name-field to read \u0026quot;Barney the Purple Dinosaur\u0026quot; // notice how we place \u0026quot;Barney the Purple Dinosaur\u0026quot; in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val(\u0026quot;Barney the Purple Dinosaur\u0026quot;);  Example #2 - Writing values using .val()\nTBD\n"
+	"content": " .val()  Allows you to either read (get) or write (set) the value of html elements (documentation)\n This is mainly used to read and write values of form elements such as text fields (input fields)\n  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .name-field // notice how nothing is in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val();  Example #1 - Reading values using .val()\nJS Bin on jsbin.com\nWriting Values  To write or update the value of elements using jQuery you need to use the .val() and place the new text in-between the parentheses   // Update the value found in .name-field to read \u0026quot;Barney the Purple Dinosaur\u0026quot; // notice how we place \u0026quot;Barney the Purple Dinosaur\u0026quot; in-between the parentheses $(\u0026quot;.name-field\u0026quot;).val(\u0026quot;Barney the Purple Dinosaur\u0026quot;);  Example #2 - Writing values using .val()\nJS Bin on jsbin.com\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/",
@@ -446,6 +453,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Benefits of jQuery?  Uses CSS selectors to help us grab or select elements programmatically (i.e. in our code)\n Accomplishes more with less code vs using native Javascript\n  CSS selectors means less code Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using native Javascript\n// selecting an element using native Javascript document.getElementById('flavors').onClick = doSomething();  Here\u0026rsquo;s how we would programmatically select an element with an id of \u0026ldquo;flavors\u0026rdquo; using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('#flavors').click(doSomething);  In this code snippet above you can see jQuery allows us to use CSS selectors to programmatically select elements on our page\nThe ability to use CSS selectors to programmatically select elements is the main reason jQuery is so popular today\n Another Example Here\u0026rsquo;s another example of how jQuery results in much more clear and readable DOM manipulation logic\nIn this code snippet, we are using native Javascript to programmatically select the \u0026lt;body\u0026gt; element and then change the background color to white\n// selecting an element using native Javascript document.getElementsByTagName('body')[0].style.backgroundColor = 'white';  Compare the snippet above with the following snippet that accomplishes the same result using jQuery\n// using jQuery (same as above but with much more intuitive syntax) $('body').css('backgroundColor', 'white');  Note: best practice is to use camel case when referencing css properties that have multiple words i.e. \u0026lsquo;backgroundColor\u0026rsquo; instead of \u0026lsquo;background-color\u0026rsquo;\n "
+},
+{
+	"uri": "/12-functions/calling-functions/",
+	"title": "Calling Functions",
+	"tags": [],
+	"description": "",
+	"content": " Calling a Function  Calling a function means you are using the function (as opposed to defining a function which only tells us what the function can do)\n To call a function you simply write function name followed by parentheses (don’t forget the parentheses!)\n Now you can call this function as many times as you want\n  // define / declare a function named shout() // by itself this doesn't do anything, we must \u0026quot;Call\u0026quot; it // in order to use it function shout() { alert(\u0026quot;HELLO!\u0026quot;); } // Calling the function named shout // we call a function by writing the name // of the function followed by parentheses shout();  JS Bin on jsbin.com\n"
 },
 {
 	"uri": "/11-javascript-fundamentals/code-along-faq/",
@@ -581,6 +595,13 @@
 	"content": " CSS Selectors Examples Class Selector JS Bin on jsbin.com\nID Selector JS Bin on jsbin.com\nChild Selector JS Bin on jsbin.com\nDescendent Selector Descendant Selector Example on jsbin.com\nAdjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com\nGeneral Sibling Selector General Sibling Selector Example on jsbin.com\nPseudo Class Selector JS Bin on jsbin.com\nPseudo Element Selector JS Bin on jsbin.com\n"
 },
 {
+	"uri": "/12-functions/working-with-parameters/",
+	"title": "Working with Parameters",
+	"tags": [],
+	"description": "",
+	"content": " Declaring Functions that need information  Some functions need additional information in order to perform a specific task\n This additional information is referred to as “parameters”\n To provide parameters to a function, you specify them inside the parentheses after the parameter name\n The parameters are used like variables within the function body\n We use the return keyword when we want our function to \u0026ldquo;give us back\u0026rdquo; a value\n In the case of the example we want the function to return the result of the multiplying the width times the height   Examples // define a function called getArea() // that accepts two parameters width \u0026amp; height // we MUST use the return keyword if we // want the function to give us back a value function getArea(width, height) { return width * height; } // Calling the getArea() function with values getArea(7, 5); // returns 35 // Calling the getArea() function again but this time with variables var doorWidth = 2; var doorHeight = 8; getArea(doorWidth, doorHeight); // returns 16  JS Bin on jsbin.com\n"
+},
+{
 	"uri": "/10-intro-to-jquery/jquery-overview/jquery-syntax/",
 	"title": "jQuery syntax using $() function",
 	"tags": [],
@@ -635,6 +656,13 @@
 	"tags": [],
 	"description": "",
 	"content": " CSS Box Model  Understanding the CSS Box Model is key to understanding how CSS works\n Going forward, you should view every element as a box (because that\u0026rsquo;s how browsers view them)\n   Block elements in the image are outlined in red, while inline elements are outlined in green\n Every element is a box, some boxes contain other boxes \u0026lt;body\u0026gt;, \u0026lt;div\u0026gt; or \u0026lt;article\u0026gt;\n CSS allows you to create rules the control each individual box\n   tags are examples of block elements-- , , , -- Box Model consists of:  Margin\n Padding\n Border\n  "
+},
+{
+	"uri": "/12-functions/code-along-geometry-calculator/",
+	"title": "Code Along - Geometry Calculator",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Geometry Calculator  Using Atom, open the folder called geometry_calculator in your lesson_12_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to implement an app that calculates geometry functions   "
 },
 {
 	"uri": "/05-css-selectors/exercise-css-diner/",
@@ -777,6 +805,13 @@
 	"content": " Structure using Semantic tags  Similar to \u0026lt;div\u0026gt;s, semantic tags are container elements\n HTML5 introduced semantic tags that directly communicate type of content the container element contains\n Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)\n There are rougly 100 semantic elements\n Above picture is just an example! This structure is not set in stone, use what makes sense for your project\n  Make sure you distinguish between \u0026lt;head\u0026gt; and \u0026lt;header\u0026gt;, they are not the same\n Benefits of Using Semantic Elements  Search engines will consider its contents as important keywords to influence the page\u0026rsquo;s search rankings (see SEO)\n Screen readers can use it as a signpost to help visually impaired users navigate a page\n Finding blocks of meaningful code is significantly easier than searching though endless divs with or without semantic or namespaced classes\n Suggests to the developer the type of data that will be populated Semantic naming mirrors proper custom element/component naming\n  This blog post does a good job describing Semantic Elements.\n "
 },
 {
+	"uri": "/12-functions/single-responsibility-principle/",
+	"title": "Single Responsibility Principle",
+	"tags": [],
+	"description": "",
+	"content": " Single Responsibility Principle (SRP)  SRP is a programming best practice that advocates modular code\n Put another way, your programs should be broken up in such a way where each part is responsible for only one \u0026ldquo;thing\u0026rdquo; or domain\n SRP is often applied to functions\n  Applying SRP to Functions  This concepts calls for your functions to only be \u0026ldquo;responsible\u0026rdquo; for one thing\n Often you\u0026rsquo;ll find that the logic in your functions are doing too much (for example: making calculations AND displaying the result to the screen)\n In these cases you should break out those multiple responsibilities into multiple functions\n This is what we did in the Geometry Calculator code along\n  "
+},
+{
 	"uri": "/11-javascript-fundamentals/variables/updating-variables/",
 	"title": "Updating Variables",
 	"tags": [],
@@ -791,11 +826,25 @@
 	"content": " What are Variables?\n Declaring Variables\n Updating Variables\n Naming Rules for Variables\n let vs var\n const\n  "
 },
 {
+	"uri": "/12-functions/code-along-hilo/",
+	"title": "Code Along - HiLo",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: HiLo  Using Atom, open the folder called hilo in your lesson_12_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to implement a guessing game   "
+},
+{
 	"uri": "/06-css-box-model/code-along-notifications/",
 	"title": "Code Along - Notifications",
 	"tags": [],
 	"description": "",
 	"content": " Code Along: Notifications  Using Atom, open the folder called notifications in your lesson_06_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll see examples of using classes and ids to style notifications that are often used to provide contextual information to users within an application\n  "
+},
+{
+	"uri": "/12-functions/lab-hilo/",
+	"title": "Lab - HiLo",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Complete HiLo  Form groups and work together to complete the HiLo application\n Instructions: Add the following functionality\n The secret number should be randomly generated\n Players should be limited to only 5 guesses\n If the player reaches 5 guesses without guessing the correct number then an error message with appear\n The game should reset after 5 guesses has been reached or after the secret number has been correctly guessed\n   Tips:  Write pseudocode before diving in What new variables will you need, if any? What new functions do you think you will need? Remember these are like actions for you program.  "
 },
 {
 	"uri": "/08-css-positioning-and-colors/",
@@ -879,7 +928,7 @@
 	"title": "Create Github Repository for Final Project",
 	"tags": [],
 	"description": "",
-	"content": " Milestone III: Create Github Repository for Final Project Details TBD\n Due Date: Wednesday, April 24th  Do not include spaces in your github repository names\n - **Deliverable**: Submit a link to your github repo here -- "
+	"content": " Milestone III: Create Github Repository for Final Project  Create a github repository for your final project, clone the project down to your \u0026lsquo;github\u0026rsquo; folder on your laptop\n Submit a link to your final project\u0026rsquo;s github repository\n Here\u0026rsquo;s an example of what link should look like: https://github.com/kareemgrant/kg-awesome-game  Due Date: Wednesday, April 24th\n Deliverable: Use this form to submit your repository url\n  Do not include spaces in your github repository names\n - **Deliverable**: Submit a link to your github repo here -- "
 },
 {
 	"uri": "/11-javascript-fundamentals/data-types/",
@@ -980,11 +1029,11 @@
 	"content": " Lesson 11 Javascript Fundamentals "
 },
 {
-	"uri": "/12-conditionals-and-loops/",
-	"title": "Conditionals &amp; Loops",
+	"uri": "/12-functions/",
+	"title": "Functions",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 12 Conditionals \u0026amp; Loops "
+	"content": " Lesson 12 Functions "
 },
 {
 	"uri": "/00-course-intro-and-tools/what-is-frontend-development/",
@@ -1001,18 +1050,18 @@
 	"content": " Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/13-arrays-and-objects/",
-	"title": "Arrays &amp; Objects",
+	"uri": "/13-arrays-and-loops/",
+	"title": "Arrays and Loops",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 13 Arrays \u0026amp; Objects "
+	"content": " Lesson 13 Arrays \u0026amp; Loops "
 },
 {
 	"uri": "/final-projects/milestones-due-dates/create-submit-wireframes/",
 	"title": "Create &amp; Submit Wireframes",
 	"tags": [],
 	"description": "",
-	"content": " Milestone IV: Create and Submit Wireframes Details TBD\n Due Date: Monday, April 29nd  "
+	"content": " Milestone IV: Create and Submit Wireframes  Due Date: Monday, April 29nd\n Create wireframes for each page layout (assuming you have multiple pages with different layouts) of your final project\n Instructions\n  The following assumes you have already created a github repository for your final project and cloned the project down to your \u0026lsquo;github\u0026rsquo; folder on your laptop (see Milestone II)\n  Add a new folder to your project files/folders for final project (created in Milestone II) called wireframes\n Add the digital version of your wireframe files to the newly created wireframes folder\n In Github Desktop: Commit your updates that includes the newly added wireframe files\n In Github Desktop: Push your commit to the remote repository for final project on Github.com so your changes can be reflected on Github.com\n Navigate to the repository on Github.com, open the wireframe folder (on Github.com) and copy the url (this url leads directly to your wireframes)\n Deliverable: Submit the url that leads directly to your wireframe files using this form\n  Here\u0026rsquo;s an example of what link should look like: https://github.com/kareemgrant/kg-awesome-game/tree/master/wireframes\n"
 },
 {
 	"uri": "/07-page-layout-flexbox/exercise/",
@@ -1064,18 +1113,18 @@
 	"content": " let vs var  In recent past var was the only way to declare variables\n While var worked it a lot of confusing issues that came along with it\n let was introduced in the latest release of Javascript, ES6 to address these issues\n While var is still in use for legacy codebases, it is a recommended best practice to use let instead of var going forward\n   // declaring a variable using var var name = \u0026quot;Jen\u0026quot; // declaring a variable using let (best practice) let name = \u0026quot;Jen\u0026quot;  Click here for more information on the differences between let and var\n "
 },
 {
-	"uri": "/14-functions/",
-	"title": "Functions",
+	"uri": "/14-javascript-lab/",
+	"title": "Javascript Lab",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 14 Functions "
+	"content": " Lesson 14 Javascript Lab "
 },
 {
-	"uri": "/15-anonymous-functions-javascript-lab/",
-	"title": "Anonymous Functions &amp; Javascript Lab",
+	"uri": "/15-responsive-design/",
+	"title": "Responsive Design",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 15 Anonymous Functions \u0026amp; Javascript "
+	"content": " Lesson 15 Responsive Design "
 },
 {
 	"uri": "/00-course-intro-and-tools/class-logistics-materials/",
@@ -1117,7 +1166,7 @@
 	"title": "Create Project Plan",
 	"tags": [],
 	"description": "",
-	"content": " Milestone V: Create Project Plan Details TBD\n Due Date: Monday, April 29th  Trello is a free project management tool that uses the kanban approach to track tasks\n - You will share (i.e. add us as team members) your trello board with the instruction team - **Deliverable**: Provide link to your Trello board here -- "
+	"content": " Milestone V: Create Project Plan  Due Date: Monday, April 29th\n Work with the instructor team to break up your final project into a series of steps that you\u0026rsquo;ll turn into tasks\n Create a Trello account and and create a \u0026ldquo;board\u0026rdquo; called FEWD Final Project to track your progress towards completed these tasks\n Invite / Add Kareem and Alejandra to your board as teammates\n Create an initial list of tasks that you\u0026rsquo;ll use to help keep you on track to complete your final project on time\n  Trello is a free project management tool that uses the kanban approach to track tasks\n  Deliverable: Use this form to submit a link to your Trello board  "
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/",
@@ -1155,18 +1204,11 @@
 	"content": " const  Stands for constant\n These are variables for which its value does not change after it has been assigned an initial value\n This help make your code easier to debug and protects certain values from accidentally being overridden in your codebase\n  Declaring a constant const are the same as let but with one key difference, values can only be assigned once to a const variable\n// declare a const named 'school' const school = \u0026quot;General Assembly\u0026quot;;  An error will occur if you try to update the value of a const\n // correctly declare a constant using \u0026quot;const\u0026quot; keyword const greeting = \u0026quot;Hello\u0026quot;; // const values cannot be updated, if you attempt to do so // an error will occur greeting = \u0026quot;Good Morning\u0026quot;; // this will throw an error  "
 },
 {
-	"uri": "/16-responsive-design/",
-	"title": "Responsive Design",
-	"tags": [],
-	"description": "",
-	"content": " Lesson 16 Responsive Design "
-},
-{
-	"uri": "/17-responsive-design-lab/",
+	"uri": "/16-responsive-design-lab/",
 	"title": "Responsive Design Lab",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 17 Responsive Design Lab "
+	"content": " Lesson 16 Responsive Design Lab "
 },
 {
 	"uri": "/00-course-intro-and-tools/tools/",
@@ -1204,11 +1246,11 @@
 	"content": " flex shorthand  allows developers to specify a flex-item\u0026rsquo;s flex-grow, flex-shrink and flex-basis all at the same time   .item { flex: none | [ \u0026lt;'flex-grow'\u0026gt; \u0026lt;'flex-shrink'\u0026gt;? || \u0026lt;'flex-basis'\u0026gt; ] }  "
 },
 {
-	"uri": "/18-forms/",
+	"uri": "/17-forms/",
 	"title": "Forms",
 	"tags": [],
 	"description": "",
-	"content": " Lesson 18 Forms "
+	"content": " Lesson 17 Forms "
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-colors/hsla/",
@@ -1349,13 +1391,6 @@
 	"tags": [],
 	"description": "",
 	"content": " Many more tags There are many other tags available to developers such as:\n \u0026lt;b\u0026gt; Makes text bold\u0026lt;/b\u0026gt; \u0026lt;i\u0026gt; Italic text \u0026lt;/i\u0026gt; \u0026lt;br/\u0026gt; Used to break text within a paragraph \u0026lt;hr /\u0026gt; Used to add a horizontal line to visually break up text  JS Bin on jsbin.com\nMDN (Mozilla Developer Network) is an excellent resource for all things HTML, CSS and Javascript. For a complete list of all tags avaiable click here\n "
-},
-{
-	"uri": "/00-dev-tools-github-depr/",
-	"title": "Dev Tools, Git &amp; Github",
-	"tags": [],
-	"description": "",
-	"content": " Lesson 00 Dev Tools, Git \u0026amp; Github "
 },
 {
 	"uri": "/course-materials/",

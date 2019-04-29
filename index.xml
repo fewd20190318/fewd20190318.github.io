@@ -229,23 +229,6 @@ Full list of block level elements can be found here
     </item>
     
     <item>
-      <title>Git Tutorial</title>
-      <link>/00-dev-tools-github-depr/github-tutorial/</link>
-      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
-      <guid>/00-dev-tools-github-depr/github-tutorial/</guid>
-      <description>Initial Setup Step 1: Create a Github Account* *one-time step
-&amp;nbsp;
-Step 2: Download Github Desktop software* *one-time step
-&amp;nbsp;
-Step 3: Sign in to Github Account through the Github Desktop application  Github Desktop -&amp;gt; Preferences -&amp;gt; Accounts  *one-time step / Use your Github account username &amp;amp; password
-&amp;nbsp;
-Step 4: Create a folder named github in your &amp;ldquo;class&amp;rdquo; folder* *one-time step
-&amp;nbsp;
-Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Instructor repository will be provided to you  &amp;nbsp;</description>
-    </item>
-    
-    <item>
       <title>HTML Attributes</title>
       <link>/01-html-basics/html-attributes/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -534,6 +517,19 @@ In the example above #featured is more specific than .box so the background-colo
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/12-functions/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/agenda/</guid>
+      <description> Discuss Functions
+ Code Along: Geometry Formulas using Functions
+ Code Along: HiLo
+ Lab: Complete HiLo
+  </description>
+    </item>
+    
+    <item>
       <title>Exercise: Working with Github</title>
       <link>/02-git-github/exercise-github-workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -607,6 +603,21 @@ Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</descr
  Can be applied to any html element
  Important: Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved
   Class Attribute  Is used to group elements together, therefore establishing them as different from other elements on the page</description>
+    </item>
+    
+    <item>
+      <title>Defining Functions</title>
+      <link>/12-functions/defining-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/defining-functions/</guid>
+      <description>Defining a Function  A function definition is code that stipulates what the function can do
+ Use the function keyword to define a function
+ Functions can be given a name
+ The name must be followed by parentheses
+ The opening and closing curly braces indicate a “code block”
+ The statements for your function goes within the code block
+ Simply defining the function will not run this code, this function must be “called” in order for the code inside the function to be run</description>
     </item>
     
     <item>
@@ -720,6 +731,18 @@ In the example, the p element will automatically inherit the font color property
  Accomplishes more with less code vs using native Javascript
   CSS selectors means less code Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using native Javascript
 // selecting an element using native Javascript document.getElementById(&#39;flavors&#39;).onClick = doSomething();  Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using jQuery</description>
+    </item>
+    
+    <item>
+      <title>Calling Functions</title>
+      <link>/12-functions/calling-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/calling-functions/</guid>
+      <description>Calling a Function  Calling a function means you are using the function (as opposed to defining a function which only tells us what the function can do)
+ To call a function you simply write function name followed by parentheses (don’t forget the parentheses!)
+ Now you can call this function as many times as you want
+  // define / declare a function named shout() // by itself this doesn&#39;t do anything, we must &amp;quot;Call&amp;quot; it // in order to use it function shout() { alert(&amp;quot;HELLO!</description>
     </item>
     
     <item>
@@ -899,6 +922,19 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Working with Parameters</title>
+      <link>/12-functions/working-with-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/working-with-parameters/</guid>
+      <description>Declaring Functions that need information  Some functions need additional information in order to perform a specific task
+ This additional information is referred to as “parameters”
+ To provide parameters to a function, you specify them inside the parentheses after the parameter name
+ The parameters are used like variables within the function body
+ We use the return keyword when we want our function to &amp;ldquo;give us back&amp;rdquo; a value</description>
+    </item>
+    
+    <item>
       <title>jQuery syntax using $() function</title>
       <link>/10-intro-to-jquery/jquery-overview/jquery-syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -951,6 +987,17 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
  Timebox: 35 mins
  Before you start building: Draw a wireframe of the layout to help you plan your approach
  The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Geometry Calculator</title>
+      <link>/12-functions/code-along-geometry-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/code-along-geometry-calculator/</guid>
+      <description> Code Along: Geometry Calculator  Using Atom, open the folder called geometry_calculator in your lesson_12_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement an app that calculates geometry functions   </description>
     </item>
     
     <item>
@@ -1156,6 +1203,19 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
+      <title>Single Responsibility Principle</title>
+      <link>/12-functions/single-responsibility-principle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/single-responsibility-principle/</guid>
+      <description>Single Responsibility Principle (SRP)  SRP is a programming best practice that advocates modular code
+ Put another way, your programs should be broken up in such a way where each part is responsible for only one &amp;ldquo;thing&amp;rdquo; or domain
+ SRP is often applied to functions
+  Applying SRP to Functions  This concepts calls for your functions to only be &amp;ldquo;responsible&amp;rdquo; for one thing
+ Often you&amp;rsquo;ll find that the logic in your functions are doing too much (for example: making calculations AND displaying the result to the screen)</description>
+    </item>
+    
+    <item>
       <title>Updating Variables</title>
       <link>/11-javascript-fundamentals/variables/updating-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1168,6 +1228,17 @@ In the example above we are applying order: -1 to the red box (.three) which res
     </item>
     
     <item>
+      <title>Code Along - HiLo</title>
+      <link>/12-functions/code-along-hilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/code-along-hilo/</guid>
+      <description> Code Along: HiLo  Using Atom, open the folder called hilo in your lesson_12_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement a guessing game   </description>
+    </item>
+    
+    <item>
       <title>Code Along - Notifications</title>
       <link>/06-css-box-model/code-along-notifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1176,6 +1247,20 @@ In the example above we are applying order: -1 to the red box (.three) which res
       <description> Code Along: Notifications  Using Atom, open the folder called notifications in your lesson_06_files folder. You will be using these files as starting off point.
  As a class, we&amp;rsquo;ll see examples of using classes and ids to style notifications that are often used to provide contextual information to users within an application
   </description>
+    </item>
+    
+    <item>
+      <title>Lab - HiLo</title>
+      <link>/12-functions/lab-hilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/lab-hilo/</guid>
+      <description>Lab: Complete HiLo  Form groups and work together to complete the HiLo application
+ Instructions: Add the following functionality
+ The secret number should be randomly generated
+ Players should be limited to only 5 guesses
+ If the player reaches 5 guesses without guessing the correct number then an error message with appear
+ The game should reset after 5 guesses has been reached or after the secret number has been correctly guessed</description>
     </item>
     
     <item>
@@ -1276,9 +1361,11 @@ JS Bin on jsbin.com</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</guid>
-      <description> Milestone III: Create Github Repository for Final Project Details TBD
- Due Date: Wednesday, April 24th  Do not include spaces in your github repository names
- - **Deliverable**: Submit a link to your github repo here -- </description>
+      <description>Milestone III: Create Github Repository for Final Project  Create a github repository for your final project, clone the project down to your &amp;lsquo;github&amp;rsquo; folder on your laptop
+ Submit a link to your final project&amp;rsquo;s github repository
+ Here&amp;rsquo;s an example of what link should look like: https://github.com/kareemgrant/kg-awesome-game  Due Date: Wednesday, April 24th
+ Deliverable: Use this form to submit your repository url
+  Do not include spaces in your github repository names</description>
     </item>
     
     <item>
@@ -1424,8 +1511,11 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/final-projects/milestones-due-dates/create-submit-wireframes/</guid>
-      <description> Milestone IV: Create and Submit Wireframes Details TBD
- Due Date: Monday, April 29nd  </description>
+      <description>Milestone IV: Create and Submit Wireframes  Due Date: Monday, April 29nd
+ Create wireframes for each page layout (assuming you have multiple pages with different layouts) of your final project
+ Instructions
+  The following assumes you have already created a github repository for your final project and cloned the project down to your &amp;lsquo;github&amp;rsquo; folder on your laptop (see Milestone II)
+  Add a new folder to your project files/folders for final project (created in Milestone II) called wireframes</description>
     </item>
     
     <item>
@@ -1557,9 +1647,11 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/final-projects/milestones-due-dates/create-project-plan/</guid>
-      <description> Milestone V: Create Project Plan Details TBD
- Due Date: Monday, April 29th  Trello is a free project management tool that uses the kanban approach to track tasks
- - You will share (i.e. add us as team members) your trello board with the instruction team - **Deliverable**: Provide link to your Trello board here -- </description>
+      <description>Milestone V: Create Project Plan  Due Date: Monday, April 29th
+ Work with the instructor team to break up your final project into a series of steps that you&amp;rsquo;ll turn into tasks
+ Create a Trello account and and create a &amp;ldquo;board&amp;rdquo; called FEWD Final Project to track your progress towards completed these tasks
+ Invite / Add Kareem and Alejandra to your board as teammates
+ Create an initial list of tasks that you&amp;rsquo;ll use to help keep you on track to complete your final project on time</description>
     </item>
     
     <item>
