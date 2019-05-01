@@ -313,6 +313,32 @@ Full list of block level elements can be found here
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/13-arrays-and-loops/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/agenda/</guid>
+      <description> Review arrays
+ Discuss looping / iterating through arrays
+ Discuss using objects with arrays
+ Code Along: Array Exercise
+ Lab: Rock Paper Scissors
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/14-javascript-lab/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/agenda/</guid>
+      <description> Discuss anonymous functions
+ Discuss $(this)
+ Lab: Weather Application
+  </description>
+    </item>
+    
+    <item>
       <title>Background Image</title>
       <link>/08-css-positioning-and-colors/background-images/background-image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -708,6 +734,28 @@ In the example, the p element will automatically inherit the font color property
     </item>
     
     <item>
+      <title>Anonymous Functions</title>
+      <link>/14-javascript-lab/anonymous-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/anonymous-functions/</guid>
+      <description>What are Anonymous Functions? // An anonymous function is a function without a name function(width, height){ return width * height; }; // this function can later be stored as a variable and used later in your code let area = function(width, height){ return width * height; }; // Call anonymous function stored as a variable area(4, 5); // returns 20  When should you use Anonymous Functions?  Use for code that only needs to run once within a task</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/13-arrays-and-loops/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/arrays/</guid>
+      <description>Arrays  Used to when you are working with a list of values that are related to each other
+ Use square brackets to create an array (this is also how you quickly recognize arrays)
+ Values in an array are separated by commas
+  Creating an Array  We can store variables just like any other data type
+ You can create that doesn&amp;rsquo;t initially contain any values, this is called an empty array</description>
+    </item>
+    
+    <item>
       <title>Background Repeat</title>
       <link>/08-css-positioning-and-colors/background-images/background-repeat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1025,6 +1073,15 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>$(this)</title>
+      <link>/14-javascript-lab/this/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/this/</guid>
+      <description>$(this)  this one of the most misunderstood concepts in javascript this (pure javascript) refers to the owner of a function $(this) (jquery) gives you reference to uses jQuery to select the current element  Example of $(this) in use // Event that makes the &amp;lt;p&amp;gt; element disappear when it is clicked $(&#39;p&#39;).click(function(){ // $(this) refers to the jQuery element, $(p), that // the click event was called on // Tell the &amp;lt;p&amp;gt; element to hide itself $(this).</description>
+    </item>
+    
+    <item>
       <title>.html()</title>
       <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1141,6 +1198,27 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <description>Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.
  Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:
  We have provided you with a finished version of Fashion Blog part I, please use these files for the lab</description>
+    </item>
+    
+    <item>
+      <title>Lab Overview</title>
+      <link>/14-javascript-lab/lab-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/lab-overview/</guid>
+      <description>Lab: Weather Appliction  You will build a Weather Application that converts a Celsius temperature input by a user to Fahrenheit and changes the background image according to the weather.  Requirements  Application will take Celsius temperature (via user input) and convert it to Fahrenheit Application will change the background image of the page to match the new temperature  Please Note: The layout and &amp;ldquo;look and feel&amp;rdquo; of the application is totally up to you as long as you meet the requirements above</description>
+    </item>
+    
+    <item>
+      <title>Looping through Arrays</title>
+      <link>/13-arrays-and-loops/looping-through-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/looping-through-arrays/</guid>
+      <description>Loops and Iteration  Loops offer a quick and easy way to do something repeatedly  Javascript offers many different ways to loop, click here for more information
+ Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  let fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com
+click here for more information about the forEach() loop
+ Using $.each() (jQuery)  jQuery also provides a way to iterate arrays through its $.</description>
     </item>
     
     <item>
@@ -1445,6 +1523,19 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Lab Milestone #1</title>
+      <link>/14-javascript-lab/milestone-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-1/</guid>
+      <description>Follow the steps below to complete Milestone #1:
+In groups of three or four students:
+ Document the requirements of the proposed application
+ User stories are a good way to document requirements, learn more here  Write the pseudo code for the application
+  Time box: 20 minutes</description>
+    </item>
+    
+    <item>
       <title>Naming Rules for Variables</title>
       <link>/11-javascript-fundamentals/variables/naming-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1472,6 +1563,15 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       
       <guid>/08-css-positioning-and-colors/css-colors/rgba/</guid>
       <description> RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25); }  </description>
+    </item>
+    
+    <item>
+      <title>Using Objects with Arrays</title>
+      <link>/13-arrays-and-loops/objects-with-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/objects-with-arrays/</guid>
+      <description>Objects with Arrays  Since objects are used to represent real world &amp;ldquo;things&amp;rdquo;, they are often combined with arrays to represent a collection of real world things  // declaring an array that contains objects as items let shows = [ { name: &amp;quot;Breaking Bad&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;AMC&amp;quot; }, { name: &amp;quot;Game of Thrones&amp;quot;, genre: &amp;quot;Fantasy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Silicon Valley&amp;quot;, genre: &amp;quot;Comedy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Narcos&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Netflix&amp;quot; }, { name: &amp;quot;Vikings&amp;quot;, genre: &amp;quot;Action&amp;quot;, network: &amp;quot;History Channel&amp;quot; }, { name: &amp;quot;Power&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Starz&amp;quot; }, ];   In the code example above, we have an array called shows that contains a collection of objects that represents some TV shows  Looping (iteration) through an array of objects  Looping through an array of objects is technically the same as looping through an array of any other datatype (i.</description>
     </item>
     
     <item>
@@ -1503,6 +1603,17 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       
       <guid>/11-javascript-fundamentals/arithmetic-operators/</guid>
       <description>Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Arrays Exercise</title>
+      <link>/13-arrays-and-loops/code-along-arrays-exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/code-along-arrays-exercise/</guid>
+      <description> Code Along: Arrays Exercise  Using Atom, open the folder called arrays_exercise in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ We&amp;rsquo;ll practice working with arrays by following the instructions specified in the exercise.js file   </description>
     </item>
     
     <item>
@@ -1570,6 +1681,18 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       <guid>/course-materials/homework-solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
  Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  </description>
+    </item>
+    
+    <item>
+      <title>Lab Milestone #2</title>
+      <link>/14-javascript-lab/milestone-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-2/</guid>
+      <description>Follow the steps below to complete Milestone #2:
+In your groups:
+ Set up your projects (folder structure) Write the code that will do the following process temperature (in Celsius) input by a user and convert that temperature to Fahrenheit and Display the result on the screen  Time box: 60 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
     </item>
     
     <item>
@@ -1691,6 +1814,33 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
     </item>
     
     <item>
+      <title>Lab - Rock, Paper, Scissors</title>
+      <link>/13-arrays-and-loops/lab-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/lab-rock-paper-scissors/</guid>
+      <description>Lab: Rock, Paper Scissors  Using Atom, open the folder called rock_paper_scissors in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ Work in pairs/groups (each student should have their own copy of the app on your computers)
+ Review the completed version of the app (found in folder called rock_paper_scissors_obfuscated) to understand how the app is expected to work
+ Review the Javascript code (found in js/main.</description>
+    </item>
+    
+    <item>
+      <title>Lab Milestone #3</title>
+      <link>/14-javascript-lab/milestone-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-3/</guid>
+      <description>Follow the steps below to complete Milestone #3:
+In your groups:
+ Complete the application by adding logic that changes the background image to reflect the converted temperature   Example: If the converted temperature is 10 F (degrees) the background image should represent something cold
+ Make the application your own - choose your own background images
+  Timebox: 20 to 30 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
+    </item>
+    
+    <item>
       <title>What is Javascript?</title>
       <link>/09-intro-to-programming/what-is-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1740,6 +1890,17 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       
       <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</guid>
       <description> Align Items  defines the default behaviour for how flex items are laid out along the cross axis on the current line  </description>
+    </item>
+    
+    <item>
+      <title>Bonus Milestone</title>
+      <link>/14-javascript-lab/bonus-milestone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/bonus-milestone/</guid>
+      <description>Follow the steps below to complete the Bonus Milestone:
+ Add logic that also allows users to convert from Fahrenheit to Celsius (currently the application only converts from Celsius to Fahrenheit)
+ Add logic that displays an error message when the user enters a non number (for example: when users enter a letter or a special character such as &amp;ldquo;#&amp;rdquo; or &amp;ldquo;$&amp;rdquo; into the text field and tries to calculate the temperature conversion)</description>
     </item>
     
     <item>

@@ -123,6 +123,14 @@
   </url>
   
   <url>
+    <loc>/13-arrays-and-loops/agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-javascript-lab/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -276,6 +284,14 @@
   </url>
   
   <url>
+    <loc>/14-javascript-lab/anonymous-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/13-arrays-and-loops/arrays/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-repeat/</loc>
   </url>
   
@@ -419,6 +435,10 @@
   </url>
   
   <url>
+    <loc>/14-javascript-lab/this/</loc>
+  </url>
+  
+  <url>
     <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</loc>
   </url>
   
@@ -464,6 +484,14 @@
   
   <url>
     <loc>/08-css-positioning-and-colors/lab-fashion-blog-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-javascript-lab/lab-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/13-arrays-and-loops/looping-through-arrays/</loc>
   </url>
   
   <url>
@@ -594,6 +622,10 @@
   </url>
   
   <url>
+    <loc>/14-javascript-lab/milestone-1/</loc>
+  </url>
+  
+  <url>
     <loc>/11-javascript-fundamentals/variables/naming-rules/</loc>
   </url>
   
@@ -603,6 +635,10 @@
   
   <url>
     <loc>/08-css-positioning-and-colors/css-colors/rgba/</loc>
+  </url>
+  
+  <url>
+    <loc>/13-arrays-and-loops/objects-with-arrays/</loc>
   </url>
   
   <url>
@@ -635,6 +671,10 @@
   </url>
   
   <url>
+    <loc>/13-arrays-and-loops/code-along-arrays-exercise/</loc>
+  </url>
+  
+  <url>
     <loc>/final-projects/milestones-due-dates/create-submit-wireframes/</loc>
   </url>
   
@@ -656,6 +696,10 @@
   
   <url>
     <loc>/course-materials/homework-solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-javascript-lab/milestone-2/</loc>
   </url>
   
   <url>
@@ -713,6 +757,14 @@
   </url>
   
   <url>
+    <loc>/13-arrays-and-loops/lab-rock-paper-scissors/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-javascript-lab/milestone-3/</loc>
+  </url>
+  
+  <url>
     <loc>/09-intro-to-programming/what-is-javascript/</loc>
   </url>
   
@@ -731,6 +783,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</loc>
+  </url>
+  
+  <url>
+    <loc>/14-javascript-lab/bonus-milestone/</loc>
   </url>
   
   <url>

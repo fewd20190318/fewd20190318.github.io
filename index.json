@@ -189,6 +189,20 @@
 	"content": " Code Along: FAQ\n Console Log\n Variables\n Data Types\n Arithmetic Operators\n Code Along: Score Keeper\n Comparison \u0026amp; Logical Operators\n Conditionals\n Code Alongs: Compare That \u0026amp; Blackout\n  "
 },
 {
+	"uri": "/13-arrays-and-loops/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Review arrays\n Discuss looping / iterating through arrays\n Discuss using objects with arrays\n Code Along: Array Exercise\n Lab: Rock Paper Scissors\n  "
+},
+{
+	"uri": "/14-javascript-lab/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Discuss anonymous functions\n Discuss $(this)\n Lab: Weather Application\n  "
+},
+{
 	"uri": "/08-css-positioning-and-colors/background-images/background-image/",
 	"title": "Background Image",
 	"tags": [],
@@ -403,7 +417,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals)\n Lesson 12 files (Functions)\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals)\n Lesson 12 files (Functions)\n Lesson 13 files (Arrays and Loops)\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -439,6 +453,20 @@
 	"tags": [],
 	"description": "",
 	"content": " align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; } --- Live Example  JS Bin on jsbin.com\n"
+},
+{
+	"uri": "/14-javascript-lab/anonymous-functions/",
+	"title": "Anonymous Functions",
+	"tags": [],
+	"description": "",
+	"content": " What are Anonymous Functions? // An anonymous function is a function without a name function(width, height){ return width * height; }; // this function can later be stored as a variable and used later in your code let area = function(width, height){ return width * height; }; // Call anonymous function stored as a variable area(4, 5); // returns 20  When should you use Anonymous Functions?  Use for code that only needs to run once within a task\n Use as an event handlers to perform a task when an event occurs\n  Event handlers are functions that are called when an event is triggered\n Using an anonymous function as an event handler // Uses a *named function* to serve as a event handler (function that is called as a result of an event) $('#blueButton').click(blueEffect); function blueEffect(){ $('body').css('background-color', 'blue'); };  // Results are same as above example, but instead we use an anonymous function as a click handler // This is the common jQuery pattern $('#blueButton').click(function(){ $('body').css('background-color', 'blue'); });  "
+},
+{
+	"uri": "/13-arrays-and-loops/arrays/",
+	"title": "Arrays",
+	"tags": [],
+	"description": "",
+	"content": " Arrays  Used to when you are working with a list of values that are related to each other\n Use square brackets to create an array (this is also how you quickly recognize arrays)\n Values in an array are separated by commas\n  Creating an Array  We can store variables just like any other data type\n You can create that doesn\u0026rsquo;t initially contain any values, this is called an empty array\n An array can also be created with initial values\n Square brackets are a means of identifying if a variable is an array\n  // declare a variable as an empty array let numbers = []; // or you can declare an array with initial values let streets = ['Broadway', 'Houston', 'Grand'];  Values in an Array  Values in an array are accessed as if they are in a numbered list\n Arrays are zero based meaning the 1st “value” in an array is at position (index) 0, the 2nd element is at position 1, and so on\n You access the value of an element in the array by passing the index of the item in square brackets\n  let streets = ['Broadway', 'Houston', 'Grand']; // access the 2nd street listed in the array which is at index 1 let streetTwo = streets[1];  Accessing in an Array  You can access a value of an array by referencing its index (i.e. its order within the array)  // declare a variable called chipmunks and use it to store // an array of names let chipmunks = [\u0026quot;Alvin\u0026quot;, \u0026quot;Simon\u0026quot;, \u0026quot;Theodore\u0026quot;]; // reference the first value in the array // here we pass in a zero, since that represents the first // element (value) in an array let bandMember = chipmunks[0]; // the value stored in bandMember is \u0026quot;Alvin\u0026quot;  Changing Values in an Array  You can change a value in an array by referencing the value and then changing the value using an = (equal sign)  // declare a variable called newEditionMembers and use it to store // an array of names let newEditionMembers = [\u0026quot;Ricky Bell\u0026quot;, \u0026quot;Michael Bivins\u0026quot;, \u0026quot;Bobby Brown\u0026quot;, \u0026quot;Ronnie DeVoe\u0026quot;, \u0026quot;Ralph Tresvant\u0026quot;] // We are going replace Bobby Brown with Johnny Gill // by referencing the 3rd element of the array by using index 2 // and then use assignment (just an equal sign) to change // the value to Johnny Gill newEditionMembers[2] = \u0026quot;Johnny Gill\u0026quot;;  Array Examples JS Bin on jsbin.com\nArrays are a flexible and powerful feature of Javascript (and other programming languages as well). Click here for more information about Arrays\n "
 },
 {
 	"uri": "/08-css-positioning-and-colors/background-images/background-repeat/",
@@ -686,6 +714,13 @@
 	"content": " Lesson 07 Page Layout with Flexbox "
 },
 {
+	"uri": "/14-javascript-lab/this/",
+	"title": "$(this)",
+	"tags": [],
+	"description": "",
+	"content": " $(this)  this one of the most misunderstood concepts in javascript this (pure javascript) refers to the owner of a function $(this) (jquery) gives you reference to uses jQuery to select the current element  Example of $(this) in use // Event that makes the \u0026lt;p\u0026gt; element disappear when it is clicked $('p').click(function(){ // $(this) refers to the jQuery element, $(p), that // the click event was called on // Tell the \u0026lt;p\u0026gt; element to hide itself $(this).hide(); });  JS Bin on jsbin.com\nActive Link Example using $(this)  The following is example of how a developer could go using javascript to implement an \u0026ldquo;active link\u0026rdquo; effect  JS Bin on jsbin.com\n"
+},
+{
 	"uri": "/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/",
 	"title": ".html()",
 	"tags": [],
@@ -768,6 +803,20 @@
 	"tags": [],
 	"description": "",
 	"content": " Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.\n Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:\n We have provided you with a finished version of Fashion Blog part I, please use these files for the lab\n   Before you start building:\n Draw a wireframe of the layout Identify your flex containers Idenitfy your nested flex containers  Timebox: 35 mins\n  "
+},
+{
+	"uri": "/14-javascript-lab/lab-overview/",
+	"title": "Lab Overview",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Weather Appliction  You will build a Weather Application that converts a Celsius temperature input by a user to Fahrenheit and changes the background image according to the weather.  Requirements  Application will take Celsius temperature (via user input) and convert it to Fahrenheit Application will change the background image of the page to match the new temperature  Please Note: The layout and \u0026ldquo;look and feel\u0026rdquo; of the application is totally up to you as long as you meet the requirements above\n"
+},
+{
+	"uri": "/13-arrays-and-loops/looping-through-arrays/",
+	"title": "Looping through Arrays",
+	"tags": [],
+	"description": "",
+	"content": " Loops and Iteration  Loops offer a quick and easy way to do something repeatedly  Javascript offers many different ways to loop, click here for more information\n Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  let fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com\nclick here for more information about the forEach() loop\n Using $.each() (jQuery)  jQuery also provides a way to iterate arrays through its $.each() method  let fruits=[“Banana”,”Apple”,”Pear”]; $.each(fruits, function(index, element){ console.log(index, element); });  JS Bin on jsbin.com\nclick here for more information about the jQuery\u0026rsquo;s $.each() loop\n "
 },
 {
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/order/",
@@ -987,6 +1036,13 @@
 	"content": " Lab: Fashion Blog  Work in teams to finish the fictional developer\u0026rsquo;s site by building out their portfolio page (depicted in the image below)\n Timebox: 40 mins\n   Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.\n Before you start building: Draw a wireframe of the layout to help you plan your approach\n  "
 },
 {
+	"uri": "/14-javascript-lab/milestone-1/",
+	"title": "Lab Milestone #1",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #1:\nIn groups of three or four students:\n Document the requirements of the proposed application\n User stories are a good way to document requirements, learn more here  Write the pseudo code for the application\n  Time box: 20 minutes\n"
+},
+{
 	"uri": "/11-javascript-fundamentals/variables/naming-rules/",
 	"title": "Naming Rules for Variables",
 	"tags": [],
@@ -1006,6 +1062,13 @@
 	"tags": [],
 	"description": "",
 	"content": " RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25); }  "
+},
+{
+	"uri": "/13-arrays-and-loops/objects-with-arrays/",
+	"title": "Using Objects with Arrays",
+	"tags": [],
+	"description": "",
+	"content": " Objects with Arrays  Since objects are used to represent real world \u0026ldquo;things\u0026rdquo;, they are often combined with arrays to represent a collection of real world things  // declaring an array that contains objects as items let shows = [ { name: \u0026quot;Breaking Bad\u0026quot;, genre: \u0026quot;Drama\u0026quot;, network: \u0026quot;AMC\u0026quot; }, { name: \u0026quot;Game of Thrones\u0026quot;, genre: \u0026quot;Fantasy\u0026quot;, network: \u0026quot;HBO\u0026quot; }, { name: \u0026quot;Silicon Valley\u0026quot;, genre: \u0026quot;Comedy\u0026quot;, network: \u0026quot;HBO\u0026quot; }, { name: \u0026quot;Narcos\u0026quot;, genre: \u0026quot;Drama\u0026quot;, network: \u0026quot;Netflix\u0026quot; }, { name: \u0026quot;Vikings\u0026quot;, genre: \u0026quot;Action\u0026quot;, network: \u0026quot;History Channel\u0026quot; }, { name: \u0026quot;Power\u0026quot;, genre: \u0026quot;Drama\u0026quot;, network: \u0026quot;Starz\u0026quot; }, ];   In the code example above, we have an array called shows that contains a collection of objects that represents some TV shows  Looping (iteration) through an array of objects  Looping through an array of objects is technically the same as looping through an array of any other datatype (i.e. strings, numbers, etc)  JS Bin on jsbin.com\nThis example uses html tables. Documentation for tables can be found here\n "
 },
 {
 	"uri": "/21-class-resources/atom-themes/",
@@ -1057,6 +1120,13 @@
 	"content": " Lesson 13 Arrays \u0026amp; Loops "
 },
 {
+	"uri": "/13-arrays-and-loops/code-along-arrays-exercise/",
+	"title": "Code Along - Arrays Exercise",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Arrays Exercise  Using Atom, open the folder called arrays_exercise in your lesson_13_files folder. You will be using these files as starting off point.\n Instructions\n We\u0026rsquo;ll practice working with arrays by following the instructions specified in the exercise.js file   "
+},
+{
 	"uri": "/final-projects/milestones-due-dates/create-submit-wireframes/",
 	"title": "Create &amp; Submit Wireframes",
 	"tags": [],
@@ -1097,6 +1167,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  "
+},
+{
+	"uri": "/14-javascript-lab/milestone-2/",
+	"title": "Lab Milestone #2",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #2:\nIn your groups:\n Set up your projects (folder structure) Write the code that will do the following process temperature (in Celsius) input by a user and convert that temperature to Fahrenheit and Display the result on the screen  Time box: 60 minutes\nNote: While you will be working within a group, each student should have their own copy of the project on their computers\n"
 },
 {
 	"uri": "/10-intro-to-jquery/jquery-in-action/",
@@ -1190,6 +1267,20 @@
 	"content": " justify-content  defines the alignment along the main axis\n will distribute extra free space left after all the flex items have reached their maximum size\n  .container { justify-content: flex-start | flex-end | center | space-between | space-around; }  "
 },
 {
+	"uri": "/13-arrays-and-loops/lab-rock-paper-scissors/",
+	"title": "Lab - Rock, Paper, Scissors",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Rock, Paper Scissors  Using Atom, open the folder called rock_paper_scissors in your lesson_13_files folder. You will be using these files as starting off point.\n Instructions\n Work in pairs/groups (each student should have their own copy of the app on your computers)\n Review the completed version of the app (found in folder called rock_paper_scissors_obfuscated) to understand how the app is expected to work\n Review the Javascript code (found in js/main.js) that you were provided with to help you get started\n Plan out your approach before coding (using pseudocode, whiteboarding, etc.)\n Use console.log to print out values to console to help ensure you\u0026rsquo;re on the right path\n   "
+},
+{
+	"uri": "/14-javascript-lab/milestone-3/",
+	"title": "Lab Milestone #3",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #3:\nIn your groups:\n Complete the application by adding logic that changes the background image to reflect the converted temperature   Example: If the converted temperature is 10 F (degrees) the background image should represent something cold\n Make the application your own - choose your own background images\n  Timebox: 20 to 30 minutes\nNote: While you will be working within a group, each student should have their own copy of the project on their computers\n"
+},
+{
 	"uri": "/09-intro-to-programming/what-is-javascript/",
 	"title": "What is Javascript?",
 	"tags": [],
@@ -1223,6 +1314,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Align Items  defines the default behaviour for how flex items are laid out along the cross axis on the current line  "
+},
+{
+	"uri": "/14-javascript-lab/bonus-milestone/",
+	"title": "Bonus Milestone",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete the Bonus Milestone:\n Add logic that also allows users to convert from Fahrenheit to Celsius (currently the application only converts from Celsius to Fahrenheit)\n Add logic that displays an error message when the user enters a non number (for example: when users enter a letter or a special character such as \u0026ldquo;#\u0026rdquo; or \u0026ldquo;$\u0026rdquo; into the text field and tries to calculate the temperature conversion)\n  "
 },
 {
 	"uri": "/09-intro-to-programming/code-along-color-scheme-switcher/",
