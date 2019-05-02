@@ -1358,8 +1358,8 @@ In the example above we are applying order: -1 to the red box (.three) which res
       <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
       
       <guid>/course-materials/solutions/</guid>
-      <description>Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution</description>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  </description>
     </item>
     
     <item>
@@ -1505,6 +1505,21 @@ JS Bin on jsbin.com</description>
 Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
  Directions:  Review the assignment here
  Fork the following repository: fewd20190318/hw-03-jquery-traffic-light
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>HW #4 - Citipix</title>
+      <link>/homework-assignments/assignments/hw-04-citipix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-04-citipix/</guid>
+      <description>Homework #4: Citipix Use Javascript &amp;amp; jQuery to create an interactive web application
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-04-citipix
  Clone the assignment repository down to your computer
  Work on your assignment and regularly commit your work
  Submit your assignment using a Pull Request</description>

@@ -928,7 +928,7 @@
 	"title": "Classwork &amp; Lab Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors \u0026amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution\n Hilo Solution\n  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors \u0026amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",
@@ -1027,6 +1027,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Homework #3: jQuery Traffic Light Use jQuery to make the Traffic Light application fully functional\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-03-jquery-traffic-light\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
+},
+{
+	"uri": "/homework-assignments/assignments/hw-04-citipix/",
+	"title": "HW #4 - Citipix",
+	"tags": [],
+	"description": "",
+	"content": " Homework #4: Citipix Use Javascript \u0026amp; jQuery to create an interactive web application\nPlease refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments\n Directions:  Review the assignment here\n Fork the following repository: fewd20190318/hw-04-citipix\n Clone the assignment repository down to your computer\n Work on your assignment and regularly commit your work\n Submit your assignment using a Pull Request\n  "
 },
 {
 	"uri": "/06-css-box-model/lab-fashion-blog/",
