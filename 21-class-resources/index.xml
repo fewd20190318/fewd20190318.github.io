@@ -66,5 +66,17 @@ jQuery jQuery Documentation</description>
  Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
     </item>
     
+    <item>
+      <title>Wireframes to HTML</title>
+      <link>/21-class-resources/wireframes-to-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/wireframes-to-html/</guid>
+      <description>Why Wireframes? Wireframes are meant to help you plan the overall structure (layout of your pages)
+See this article for a good overview of wireframes: https://balsamiq.com/learn/resources/articles/what-are-wireframes/
+What happens after the wireframes? The next step after creating your wireframes is to convert the wireframes into HTML (using minimal css to create high level box containers).
+After that is done, you can then proceed to add your content and CSS styling.</description>
+    </item>
+    
   </channel>
 </rss>
