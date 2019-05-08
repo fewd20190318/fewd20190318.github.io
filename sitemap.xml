@@ -111,6 +111,10 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/media-queries/media-query-parts/media/</loc>
+  </url>
+  
+  <url>
     <loc>/09-intro-to-programming/agenda/</loc>
   </url>
   
@@ -128,6 +132,10 @@
   
   <url>
     <loc>/14-javascript-lab/agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/agenda/</loc>
   </url>
   
   <url>
@@ -155,8 +163,16 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/relative-measurements/ems/</loc>
+  </url>
+  
+  <url>
     <loc>/02-git-github/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/media-queries/media-query-overview/</loc>
   </url>
   
   <url>
@@ -180,11 +196,19 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/responsive-design-overview/what-is-responsive-design/</loc>
+  </url>
+  
+  <url>
     <loc>/11-javascript-fundamentals/variables/what-are-variables/</loc>
   </url>
   
   <url>
     <loc>/10-intro-to-jquery/jquery-overview/what-is-jquery/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/viewport-meta-tag/what-is-viewport/</loc>
   </url>
   
   <url>
@@ -228,6 +252,10 @@
   
   <url>
     <loc>/04-css-basics/thinking-in-boxes/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/fixed-width-layouts/</loc>
   </url>
   
   <url>
@@ -332,6 +360,18 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/media-queries/media-query-parts/media-features/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/media-queries/media-query-parts/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/media-queries/media-query-parts/media-types/</loc>
+  </url>
+  
+  <url>
     <loc>/final-projects/milestones-due-dates/</loc>
   </url>
   
@@ -344,6 +384,10 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/relative-measurements/rems/</loc>
+  </url>
+  
+  <url>
     <loc>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</loc>
   </url>
   
@@ -352,7 +396,19 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/responsive-design-overview/examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/responsive-design-overview/</loc>
+  </url>
+  
+  <url>
     <loc>/final-projects/milestones-due-dates/submit-project-ideas/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</loc>
   </url>
   
   <url>
@@ -377,7 +433,19 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/viewport-meta-tag/</loc>
+  </url>
+  
+  <url>
     <loc>/05-css-selectors/css-selectors-examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/media-queries/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/responsive-design-overview/responsive-design-components/</loc>
   </url>
   
   <url>
@@ -459,6 +527,10 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/media-queries/breakpoints/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-tags-and-boxes/</loc>
   </url>
   
@@ -496,6 +568,14 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/relative-measurements/percentages/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/progressive-enhancement/</loc>
   </url>
   
   <url>
@@ -551,7 +631,15 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/code-along-responsive-marketing-layout/</loc>
+  </url>
+  
+  <url>
     <loc>/10-intro-to-jquery/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/relative-measurements/</loc>
   </url>
   
   <url>
@@ -622,6 +710,10 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/responsive-design-overview/how-to-implement/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/lab-fashion-blog/</loc>
   </url>
   
@@ -642,6 +734,18 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design/media-queries/recommended-breakpoints/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/responsive-images/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/relative-measurements/setting-up-font-size/</loc>
+  </url>
+  
+  <url>
     <loc>/13-arrays-and-loops/objects-with-arrays/</loc>
   </url>
   
@@ -655,6 +759,10 @@
   
   <url>
     <loc>/11-javascript-fundamentals/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/rules-of-thumb/</loc>
   </url>
   
   <url>

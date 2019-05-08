@@ -265,6 +265,15 @@ Full list of block level elements can be found here
     </item>
     
     <item>
+      <title>@media</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media/</guid>
+      <description>  @media only screen and (min-width: 576px) { /** add styles here **/ }  @media  All media queries must start with @media  </description>
+    </item>
+    
+    <item>
       <title>Agenda</title>
       <link>/09-intro-to-programming/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -335,6 +344,23 @@ Full list of block level elements can be found here
       <description> Discuss anonymous functions
  Discuss $(this)
  Lab: Weather Application
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/15-responsive-design/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/agenda/</guid>
+      <description> Fixed Width and Mobile Layouts
+ Responsive Design Overview
+ Viewport Meta Tag
+ Media Queries and Breakpoints
+ Grids
+ Code Along
+ Ems / Rems
+ Lab
   </description>
     </item>
     
@@ -417,6 +443,31 @@ jQuery jQuery Documentation</description>
     </item>
     
     <item>
+      <title>EMS</title>
+      <link>/15-responsive-design/relative-measurements/ems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/ems/</guid>
+      <description>What are EMs?  Scalable unit that is used in web document media
+ Font-size is computed relative to font-size of parent element
+ Does not lock users into an absolute font-size (older browsers do not re-size text set in pixels when users zoom)
+ Provides users with highest level of control over the content they are viewing
+  History: Old-fashioned metal typesetting, the em referred to the size of the metal plates that contained a raised letter, which had to be wide enough to fit the widest letter, the capital M.</description>
+    </item>
+    
+    <item>
+      <title>Media Query Overview</title>
+      <link>/15-responsive-design/media-queries/media-query-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-overview/</guid>
+      <description>What are the Media Queries?  Key element in responsive design
+ Allow you to apply different styles based on the screen size of the user&amp;rsquo;s device (viewport)
+ Media Queries ask questions such as: Is the width of the viewport greater than or equal to 768px?
+ Media queries don’t affect the HTML (the actual content and structure of the underlying page) — they only affect the styles that are applied to the page using CSS</description>
+    </item>
+    
+    <item>
       <title>Overview &amp; Requirements</title>
       <link>/final-projects/overview-requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -479,6 +530,17 @@ In the example above #featured is more specific than .box so the background-colo
     </item>
     
     <item>
+      <title>What Is Responsive Design?</title>
+      <link>/15-responsive-design/responsive-design-overview/what-is-responsive-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/what-is-responsive-design/</guid>
+      <description> What is Responsive Design?  A way of making websites that can be easily viewed and used on any type of device and size of screen  Advantages of Responsive Design  Developers only have to create one website, one design, one set of code, and one set of content
+ Better optimized for search (SEO), no longer need to use m-dot websites
+  </description>
+    </item>
+    
+    <item>
       <title>What are Variables?</title>
       <link>/11-javascript-fundamentals/variables/what-are-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -503,6 +565,17 @@ In the example above #featured is more specific than .box so the background-colo
  Consistent across all browsers
  Does not do anything native / vanilla Javascript cannot do, just does it with a more intuitive syntax
   It&amp;rsquo;s important to note that jQuery is NOT another programming language it is a library or tool built on top of Javascript</description>
+    </item>
+    
+    <item>
+      <title>What is the Viewport?</title>
+      <link>/15-responsive-design/viewport-meta-tag/what-is-viewport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/what-is-viewport/</guid>
+      <description>What is the viewport?  Area on the computer or device screen where you are viewing a web page
+ Viewport width is not always the same thing as screen width
+ For example: Drogo has a laptop that has a maximum screen width of 1280px, but likes to resize his web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don&amp;rsquo;t allow you to change the size of your browser</description>
     </item>
     
     <item>
@@ -591,6 +664,22 @@ Steps  1) Fork this repository located on Github.com
    Block elements in the image are outlined in red, while inline elements are outlined in green
  Every element is a box, some boxes contain other boxes &amp;lt;body&amp;gt;, &amp;lt;div&amp;gt; or &amp;lt;article&amp;gt;
  CSS allows you to create rules the control each individual box</description>
+    </item>
+    
+    <item>
+      <title>Fixed Width Layouts</title>
+      <link>/15-responsive-design/fixed-width-layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/fixed-width-layouts/</guid>
+      <description>Fixed Width Layouts  Method of designing websites so they look the same on any sized monitor
+ Pre-dates advent of smartphones and mobile web-browsing
+ Not optimized for smaller screens
+ Uses pixels to set width of the layout
+ Still fairly common
+  Examples of Fixed Width Design  ikea.com
+ amazon.com
+  Disadvantages of Fixed Width Design  Displayed the same way regardless of screen size</description>
     </item>
     
     <item>
@@ -867,6 +956,26 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Media Features</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-features/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Feature/Attribute  Media features allows you to specify different viewport attributes and are always expressed in parentheses  @media only screen and (min-width: 768px) { body { /* styles go here */ } p { /* styles go here */ } .some-style { /* styles go here */ } }   The styles in the media query above will only be applied when the viewport width is greater than or equal to 768px  Available Media Query Attributes (Features) The following is a list of Media Features available</description>
+    </item>
+    
+    <item>
+      <title>Media Types</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-types/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Types  Indicates what type of media the query will be using. Screen tells the browser the query will be used by a computer or mobile device
+ The only keyword indicates that this query will be only be for the screen media type and no other
+  While we will just be using the screen media type, you can see a list of all available media types here</description>
+    </item>
+    
+    <item>
       <title>Numbers</title>
       <link>/11-javascript-fundamentals/data-types/numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -894,6 +1003,20 @@ Converting Strings to Numbers  Sometimes you will find yourself in a position wh
     </item>
     
     <item>
+      <title>REMs</title>
+      <link>/15-responsive-design/relative-measurements/rems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/rems/</guid>
+      <description>What are REMs?  Similar to EMs, key difference is how the relative measurement is calculated
+ Instead of sizing fonts relative to their parent containers, REM sizes fonts relative to the root view (i.e. )
+ This means a lot less math when attempting to calculate the real pixel value
+  Example: REMs in Action
+JS Bin on jsbin.com
+In the example above, the .green-box element has it&amp;rsquo;s font size set using REM (font-size: 1.</description>
+    </item>
+    
+    <item>
       <title>Relative Positioning</title>
       <link>/08-css-positioning-and-colors/css-positioning/relative-positioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -903,6 +1026,20 @@ Converting Strings to Numbers  Sometimes you will find yourself in a position wh
  Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow
  Usually accompanied by box offsets: top, right, bottom, left.
  It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Examples</title>
+      <link>/15-responsive-design/responsive-design-overview/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/examples/</guid>
+      <description> Examples of Responsive Design  World Wild Life Fund
+ Etsy
+ Boston Globe
+ Shopify
+ Slack
+  </description>
     </item>
     
     <item>
@@ -916,6 +1053,18 @@ Converting Strings to Numbers  Sometimes you will find yourself in a position wh
  Due Date: Monday, April 15th
  After which, I&amp;rsquo;ll schedule some time to meet with you to discuss your ideas
   </description>
+    </item>
+    
+    <item>
+      <title>Viewport Meta Tag</title>
+      <link>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</guid>
+      <description>Viewport Meta Tag Add the following to your  element
+ This enables use of media queries for cross-device layouts.  &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt;  More info on the viewport meta tag
+What happens if you don&amp;rsquo;t set the viewport?  The example above depicts a website being viewed on a legacy iPhone (320 pixels wide)
+ Because the viewport meta tag was not set the mobile browser will automatically assume you want to see the &amp;ldquo;entire&amp;rdquo; page on your smaller screen.</description>
     </item>
     
     <item>
@@ -967,6 +1116,19 @@ Adjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com
 General Sibling Selector General Sibling Selector Example on jsbin.com
 Pseudo Class Selector JS Bin on jsbin.com
 Pseudo Element Selector JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Components</title>
+      <link>/15-responsive-design/responsive-design-overview/responsive-design-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/responsive-design-components/</guid>
+      <description>Two Main Components of Responsive Design  Media Queries
+ Flexibility
+  Media Queries  Allow you to use CSS to change the design of the website depending on the width of the device’s screen / viewport  Flexibility  Concept means that our Horizontal measurements on our site need to respond to changes in the size of the screen
+ This means:
+ Width of columns and other layout elements will be in percentages</description>
     </item>
     
     <item>
@@ -1130,6 +1292,16 @@ Pseudo Element Selector JS Bin on jsbin.com</description>
     </item>
     
     <item>
+      <title>Breakpoints</title>
+      <link>/15-responsive-design/media-queries/breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/breakpoints/</guid>
+      <description>What are Breakpoints?  Term used to describe that specific widths (or points) where your CSS styles change as a result of a media queries   @media only screen and (min-width: 768px) { /* styles go here */ }  The example above, the styles inside the media query will go into effect at the point where the viewport width is greater than or equal to 768px
+Example of CSS stylesheet with media queries  /* styles outside of the media queries are considered default styles */ .</description>
+    </item>
+    
+    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1233,6 +1405,33 @@ click here for more information about the forEach() loop
    .item { order: &amp;lt;integer&amp;gt;; }  Live Example
 JS Bin on jsbin.com
 In the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.</description>
+    </item>
+    
+    <item>
+      <title>Percentages</title>
+      <link>/15-responsive-design/relative-measurements/percentages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/percentages/</guid>
+      <description>Percentages  Percentages are a relative unit of measurement similar to EMs
+ When you size elements based on percentages the resulting size will be relative to that element&amp;rsquo;s parent
+ The default font-size in percentages is 100%
+ Can also be used instead of EMs
+  Example: Percentage in action
+JS Bin on jsbin.com
+In the example above you will see that the % measurements for the .</description>
+    </item>
+    
+    <item>
+      <title>Progressive Enhancement</title>
+      <link>/15-responsive-design/progressive-enhancement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/progressive-enhancement/</guid>
+      <description> What is progressive enhancement?  Design for the most narrow screens first then work your way up to larger screens
+ Also referred to as Mobile-first design
+ See this article for information on progressive enhancement
+  </description>
     </item>
     
     <item>
@@ -1350,6 +1549,17 @@ In the example above we are applying order: -1 to the red box (.three) which res
       <description>Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page
  Z-index allows you to control which elements appear on top when elements overlap
   .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Responsive Marketing Layout</title>
+      <link>/15-responsive-design/code-along-responsive-marketing-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/code-along-responsive-marketing-layout/</guid>
+      <description> Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
     </item>
     
     <item>
@@ -1526,6 +1736,18 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
     </item>
     
     <item>
+      <title>Implementing Responsive Design</title>
+      <link>/15-responsive-design/responsive-design-overview/how-to-implement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/how-to-implement/</guid>
+      <description> Implementing Responsive Design  Add Viewport Meta Tag to your  tag
+ Use Media Queries
+ Leverage relative measurement approaches (EMs/REMs or Percentages) instead of pixels
+  </description>
+    </item>
+    
+    <item>
       <title>Lab - Fashion Blog</title>
       <link>/06-css-box-model/lab-fashion-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1581,6 +1803,39 @@ In groups of three or four students:
     </item>
     
     <item>
+      <title>Recommended Breakpoints</title>
+      <link>/15-responsive-design/media-queries/recommended-breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/recommended-breakpoints/</guid>
+      <description>If you are starting a responsive design project from scratch This approach assumes you are starting a responsive design project from scratch and you will use progressive enhancement (also referred to a &amp;ldquo;mobile first&amp;rdquo;) approach
+/* main.css */ /* Extra small devices (portrait phones, less than 576px) No media query since styles outside of the media queries below will apply to everything &#39;up to 576px&#39; or everything below 576px */ p { } .</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images</title>
+      <link>/15-responsive-design/responsive-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-images/</guid>
+      <description>Tips for working with Images  Start with largest version of your image and use css styling to resize to desired size (more on this next class)
+ Use max-width: 100% to prevent images from extending wider than its container
+  /* Apply to all images */ img { max-width: 100%; }  Example: Fixing the image container issue
+JS Bin on jsbin.com
+In the example above, the default size of the image extends beyond the image container.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Font Size for Responsive Projects</title>
+      <link>/15-responsive-design/relative-measurements/setting-up-font-size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/setting-up-font-size/</guid>
+      <description>How should we set up font size for a responsively designed project? Current best practice (subject to change) is to use the following approach in your CSS file for your responsively designed projects:
+// main.css body { // default font-size for most browsers is 16px // setting it to 100% ensures that the base size // will conform to the browser defaults font-size: 100%; } .content { // use ems or rems for all other font-sizes font-size: 1.</description>
+    </item>
+    
+    <item>
       <title>Using Objects with Arrays</title>
       <link>/13-arrays-and-loops/objects-with-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1597,6 +1852,19 @@ In groups of three or four students:
       <guid>/21-class-resources/atom-themes/</guid>
       <description>Changing Themes Atom allows you to easily switch between your installed themes by doing the following:
  Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
+    </item>
+    
+    <item>
+      <title>Rules of Thumb</title>
+      <link>/15-responsive-design/rules-of-thumb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/rules-of-thumb/</guid>
+      <description>Rules of Thumb for Responsive Design The following is a list of sensible guidelines to following when incorporating responsive design into your projects
+ When determining which breakpoints to use, always start with the recommended breakpoints [found here] and then add others on an as needed basis
+ Use EMs (or REMs) to make you text size scalable
+ Use Percentages or EMs/REMs for Horizontal measurements
+ Consider using EMs/REMs to dynamically adjust padding if to optimize readability of your content at different widths</description>
     </item>
     
     <item>
