@@ -1057,13 +1057,6 @@
 	"content": " Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page\n Z-index allows you to control which elements appear on top when elements overlap\n  .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example\nJS Bin on jsbin.com\n"
 },
 {
-	"uri": "/15-responsive-design/code-along-responsive-marketing-layout/",
-	"title": "Code Along - Responsive Marketing Layout",
-	"tags": [],
-	"description": "",
-	"content": " Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll convert this layout to a responsive layout\n  "
-},
-{
 	"uri": "/10-intro-to-jquery/",
 	"title": "Intro to jQuery",
 	"tags": [],
@@ -1594,6 +1587,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Align Content  aligns a flex container\u0026rsquo;s lines within when there is extra space in the cross-axis\n align-content only applies when there are mutiple lines of flex items\n  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example\nJS Bin on jsbin.com\nIn the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis\n"
+},
+{
+	"uri": "/15-responsive-design/code-along-responsive-marketing-layout/",
+	"title": "Code Along - Responsive Marketing Layout",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll convert this layout to a responsive layout\n  "
 },
 {
 	"uri": "/09-intro-to-programming/lab-traffic-light/",

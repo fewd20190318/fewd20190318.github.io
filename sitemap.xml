@@ -631,10 +631,6 @@
   </url>
   
   <url>
-    <loc>/15-responsive-design/code-along-responsive-marketing-layout/</loc>
-  </url>
-  
-  <url>
     <loc>/10-intro-to-jquery/</loc>
   </url>
   
@@ -944,6 +940,10 @@
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</loc>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design/code-along-responsive-marketing-layout/</loc>
   </url>
   
   <url>

@@ -1552,17 +1552,6 @@ In the example above you will see that the % measurements for the .</description
     </item>
     
     <item>
-      <title>Code Along - Responsive Marketing Layout</title>
-      <link>/15-responsive-design/code-along-responsive-marketing-layout/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/15-responsive-design/code-along-responsive-marketing-layout/</guid>
-      <description> Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.
- As a class, we&amp;rsquo;ll convert this layout to a responsive layout
-  </description>
-    </item>
-    
-    <item>
       <title>Classwork &amp; Lab Solutions</title>
       <link>/course-materials/solutions/</link>
       <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
@@ -2299,6 +2288,17 @@ Note: While you will be working within a group, each student should have their o
   .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example
 JS Bin on jsbin.com
 In the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Responsive Marketing Layout</title>
+      <link>/15-responsive-design/code-along-responsive-marketing-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/code-along-responsive-marketing-layout/</guid>
+      <description> Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
     </item>
     
     <item>
