@@ -1850,7 +1850,7 @@ In the example above, the default size of the image extends beyond the image con
       
       <guid>/15-responsive-design/rules-of-thumb/</guid>
       <description>Rules of Thumb for Responsive Design The following is a list of sensible guidelines to following when incorporating responsive design into your projects
- When determining which breakpoints to use, always start with the recommended breakpoints [found here] and then add others on an as needed basis
+ When determining which breakpoints to use, always start with the recommended breakpoints and then add others on an as needed basis
  Use EMs (or REMs) to make you text size scalable
  Use Percentages or EMs/REMs for Horizontal measurements
  Consider using EMs/REMs to dynamically adjust padding if to optimize readability of your content at different widths</description>
