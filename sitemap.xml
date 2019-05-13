@@ -139,6 +139,10 @@
   </url>
   
   <url>
+    <loc>/16-responsive-design-lab/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -360,6 +364,10 @@
   </url>
   
   <url>
+    <loc>/16-responsive-design-lab/lab-overview/</loc>
+  </url>
+  
+  <url>
     <loc>/15-responsive-design/media-queries/media-query-parts/media-features/</loc>
   </url>
   
@@ -567,6 +575,14 @@
   </url>
   
   <url>
+    <loc>/15-responsive-design-lab-depr/milestone-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/16-responsive-design-lab/milestone-1/</loc>
+  </url>
+  
+  <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</loc>
   </url>
   
@@ -718,6 +734,10 @@
   </url>
   
   <url>
+    <loc>/16-responsive-design-lab/milestone-2/</loc>
+  </url>
+  
+  <url>
     <loc>/11-javascript-fundamentals/variables/naming-rules/</loc>
   </url>
   
@@ -808,6 +828,10 @@
   
   <url>
     <loc>/14-javascript-lab/milestone-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/16-responsive-design-lab/milestone-3/</loc>
   </url>
   
   <url>
@@ -1030,6 +1054,11 @@
   <url>
     <loc>/01-html-basics/reading-assignment/</loc>
     <lastmod>2019-03-17T01:04:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/15-responsive-design-lab-depr/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

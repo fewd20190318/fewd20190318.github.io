@@ -217,6 +217,13 @@
 	"content": " Fixed Width and Mobile Layouts\n Responsive Design Overview\n Viewport Meta Tag\n Media Queries and Breakpoints\n Grids\n Code Along\n Ems / Rems\n Lab\n  "
 },
 {
+	"uri": "/16-responsive-design-lab/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Review Concepts from last class\n Lab: Startup Matchmaker - Responsive\n  "
+},
+{
 	"uri": "/08-css-positioning-and-colors/background-images/background-image/",
 	"title": "Background Image",
 	"tags": [],
@@ -466,7 +473,7 @@
 	"title": "Lesson Files",
 	"tags": [],
 	"description": "",
-	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals)\n Lesson 12 files (Functions)\n Lesson 13 files (Arrays and Loops)\n Lesson 14 files (Javascript Lab) : No files needed\n Lesson 15 files (Responsive Design)\n  "
+	"content": " Lesson Files  Lesson 00 files (Course Intro \u0026amp; Tools) : No files needed\n Lesson 01 files (HTML Basics)\n Lesson 02 files (Git/Github): No files needed\n Lesson 03 files (Relative Paths)\n Lesson 04 files (CSS Basics)\n Lesson 05 files (CSS Selectors): No files needed\n Lesson 06 files (CSS Box Model)\n Lesson 07 files (Page Layout with Flexbox)\n Lesson 08 files (CSS Positioning, Colors \u0026amp; Background Images)\n Lesson 09 files (Intro to Programming)\n Lesson 10 files (Intro to jQuery)\n Lesson 11 files (Javascript Fundamentals)\n Lesson 12 files (Functions)\n Lesson 13 files (Arrays and Loops)\n Lesson 14 files (Javascript Lab) : No files needed\n Lesson 15 files (Responsive Design)\n Lesson 16 files (Responsive Design Lab)\n  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/body-head-title/",
@@ -586,6 +593,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa; }  "
+},
+{
+	"uri": "/16-responsive-design-lab/lab-overview/",
+	"title": "Lab Overview",
+	"tags": [],
+	"description": "",
+	"content": " Lab: Startup Matchmaker  You have been hired to turn Startup Matchmaker into a fully responsive site  Requirements  Using Atom, open the folder called startup_matchmaker in your lesson_16_files folder. You will be using these files as starting off point.\n Update Startup Matchmaker so the homepage\u0026rsquo;s content is effectively displayed on tablets or below (viewport width: 768px or below)\n  "
 },
 {
 	"uri": "/15-responsive-design/media-queries/media-query-parts/media-features/",
@@ -945,6 +959,20 @@
 	"content": " Loops and Iteration  Loops offer a quick and easy way to do something repeatedly  Javascript offers many different ways to loop, click here for more information\n Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  let fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com\nclick here for more information about the forEach() loop\n Using $.each() (jQuery)  jQuery also provides a way to iterate arrays through its $.each() method  let fruits=[“Banana”,”Apple”,”Pear”]; $.each(fruits, function(index, element){ console.log(index, element); });  JS Bin on jsbin.com\nclick here for more information about the jQuery\u0026rsquo;s $.each() loop\n "
 },
 {
+	"uri": "/15-responsive-design-lab-depr/milestone-1/",
+	"title": "Milestone #1",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #1:\nIn groups:\n Sketch out your proposed layout for mobile version (tablet and below) of the site  Some things to think about:\n Will you need to hide menus?\n What content should be featured on a narrow screen?\n  Time box: 15 minutes\n"
+},
+{
+	"uri": "/16-responsive-design-lab/milestone-1/",
+	"title": "Milestone #1",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #1:\nIn groups:\n Create wireframes (sketches) of your proposed layout for mobile version (tablet and below) of the Startup Matchmaker landing page  Some things to think about:\n Will you need to hide menus?\n What content should be featured on a narrow screen?\n  Time box: 15 minutes\n"
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flex-items-properties/order/",
 	"title": "Order",
 	"tags": [],
@@ -1204,6 +1232,13 @@
 	"content": "Follow the steps below to complete Milestone #1:\nIn groups of three or four students:\n Document the requirements of the proposed application\n User stories are a good way to document requirements, learn more here  Write the pseudo code for the application\n  Time box: 20 minutes\n"
 },
 {
+	"uri": "/16-responsive-design-lab/milestone-2/",
+	"title": "Milestone #2",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete Milestone #2:\nIn pairs (or groups):\n Add the the required media query / breakpoint that optimize the content to be viewable on screens that have a viewport of 768px or below.\n Use your wireframes created from Milestone #1 to help guide you as you add the styles necessary make viewing the landing page on tablets or below an optimal experience\n  Time box: 45 minutes\nNote: While you will be working with a partner, each student should have their own copy of the project on their computers\n"
+},
+{
 	"uri": "/11-javascript-fundamentals/variables/naming-rules/",
 	"title": "Naming Rules for Variables",
 	"tags": [],
@@ -1363,6 +1398,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Follow the steps below to complete Milestone #2:\nIn your groups:\n Set up your projects (folder structure) Write the code that will do the following process temperature (in Celsius) input by a user and convert that temperature to Fahrenheit and Display the result on the screen  Time box: 60 minutes\nNote: While you will be working within a group, each student should have their own copy of the project on their computers\n"
+},
+{
+	"uri": "/16-responsive-design-lab/milestone-3/",
+	"title": "Milestone #3",
+	"tags": [],
+	"description": "",
+	"content": "Follow the steps below to complete the Milestone #3:\nIn pairs (or groups):\n Implement a hamburger menu that will be displayed on narrow screens\n When the user clicks on the hamburger menu, the hidden navigation items (i.e. Developers, Designers, How It Works, Our Team) should slide down\n  Time box: 30 minutes\nHint: Review the Responsive Marketing Layout Code Along for an example of how to implementing an hamburger menu\nUse the hamburger icon from Font Awesome.\n "
 },
 {
 	"uri": "/21-class-resources/wireframes-to-html/",
@@ -1593,7 +1635,7 @@
 	"title": "Code Along - Responsive Marketing Layout",
 	"tags": [],
 	"description": "",
-	"content": " Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout in your lesson_15_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll convert this layout to a responsive layout\n  "
+	"content": " Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout_updated in your lesson_15_files folder. You will be using these files as starting off point.\n As a class, we\u0026rsquo;ll convert this layout to a responsive layout\n  "
 },
 {
 	"uri": "/09-intro-to-programming/lab-traffic-light/",
@@ -1727,6 +1769,13 @@
 	"tags": [],
 	"description": "",
 	"content": "View the following videos before the next class\n Video: What is Version Control (6 mins) \n Video: What is Git (8 mins)\n Video: What is Github? (4 mins)\n  Complete the following tutorial before the next class\n Tutorial: Hello World Github Tutorial  "
+},
+{
+	"uri": "/15-responsive-design-lab-depr/",
+	"title": "15-responsive-design-lab-deprs",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/categories/",
