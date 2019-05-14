@@ -1417,20 +1417,6 @@ click here for more information about the forEach() loop
     
     <item>
       <title>Milestone #1</title>
-      <link>/15-responsive-design-lab-depr/milestone-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/15-responsive-design-lab-depr/milestone-1/</guid>
-      <description>Follow the steps below to complete Milestone #1:
-In groups:
- Sketch out your proposed layout for mobile version (tablet and below) of the site  Some things to think about:
- Will you need to hide menus?
- What content should be featured on a narrow screen?
-  Time box: 15 minutes</description>
-    </item>
-    
-    <item>
-      <title>Milestone #1</title>
       <link>/16-responsive-design-lab/milestone-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1608,7 +1594,7 @@ In the example above you will see that the % measurements for the .</description
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  </description>
     </item>
     
     <item>
@@ -2015,7 +2001,7 @@ In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 w
       
       <guid>/course-materials/homework-solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  Homework #3: jQuery Traffic Light Solution  HW #3 Solution  </description>
+ Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  Homework #3: jQuery Traffic Light Solution  HW #3 Solution  Homework #4: Citipix Solution  HW #4 Solution  </description>
     </item>
     
     <item>
