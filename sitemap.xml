@@ -143,6 +143,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/agenda/</loc>
+  </url>
+  
+  <url>
     <loc>/08-css-positioning-and-colors/background-images/background-image/</loc>
   </url>
   
@@ -197,6 +201,10 @@
   
   <url>
     <loc>/11-javascript-fundamentals/data-types/strings/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/form-elements/text-input/</loc>
   </url>
   
   <url>
@@ -356,6 +364,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/form-overview/</loc>
+  </url>
+  
+  <url>
     <loc>/homework-assignments/assignments/hw-01-online-travel-guide/</loc>
   </url>
   
@@ -385,6 +397,10 @@
   
   <url>
     <loc>/11-javascript-fundamentals/data-types/numbers/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/form-elements/password-input/</loc>
   </url>
   
   <url>
@@ -441,6 +457,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/form-elements/</loc>
+  </url>
+  
+  <url>
     <loc>/15-responsive-design/viewport-meta-tag/</loc>
   </url>
   
@@ -454,6 +474,10 @@
   
   <url>
     <loc>/15-responsive-design/responsive-design-overview/responsive-design-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/styling-forms/</loc>
   </url>
   
   <url>
@@ -475,6 +499,10 @@
   
   <url>
     <loc>/04-css-basics/code-along/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/code-along-contact-us-form/</loc>
   </url>
   
   <url>
@@ -608,6 +636,10 @@
   
   <url>
     <loc>/12-functions/single-responsibility-principle/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/form-elements/text-area/</loc>
   </url>
   
   <url>
@@ -746,6 +778,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/form-elements/radio-button/</loc>
+  </url>
+  
+  <url>
     <loc>/15-responsive-design/media-queries/recommended-breakpoints/</loc>
   </url>
   
@@ -792,6 +828,10 @@
   
   <url>
     <loc>/13-arrays-and-loops/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/form-elements/checkbox/</loc>
   </url>
   
   <url>
@@ -897,6 +937,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/form-elements/select/</loc>
+  </url>
+  
+  <url>
     <loc>/09-intro-to-programming/what-is-javascript/</loc>
   </url>
   
@@ -954,6 +998,10 @@
   </url>
   
   <url>
+    <loc>/17-forms/form-elements/submit-button/</loc>
+  </url>
+  
+  <url>
     <loc>/01-html-basics/tag-overview/links/</loc>
     <lastmod>2019-03-14T20:29:59-04:00</lastmod>
   </url>
@@ -968,6 +1016,10 @@
   
   <url>
     <loc>/09-intro-to-programming/lab-traffic-light/</loc>
+  </url>
+  
+  <url>
+    <loc>/17-forms/form-elements/label/</loc>
   </url>
   
   <url>
