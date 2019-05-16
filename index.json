@@ -298,7 +298,7 @@
 	"title": "Maps with MapBox",
 	"tags": [],
 	"description": "",
-	"content": " Overview Mapbox is a Javascript library that allows you to add maps to your projects\nDemo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.\ndownload NYC Museums Map\nSetup Instructions  Sign up for a Mapbox account\n Download the demo application and save files in your class folder\n Add your Access Token to main.js on line 7\n   Run a Local Server on your computer (Required!) Using the command line, navigate to the project folder (from Step #2 above) and start a local server\n Open up your browser and type the following address into the address bar: http://localhost:8000\n  "
+	"content": " Overview Mapbox is a Javascript library that allows you to add maps to your projects\nDemo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.\ndownload NYC Museums Map\nSetup Instructions  Sign up for a Mapbox account\n Download the demo application and save files in your class folder\n Add your Access Token to main.js on line 7\n Run a Local Server on your computer (Required!) Using the command line, navigate to the project folder (from Step #2 above) and start a local server\n Open up your browser and type the following address into the address bar: http://localhost:8000\n  "
 },
 {
 	"uri": "/15-responsive-design/media-queries/media-query-overview/",
