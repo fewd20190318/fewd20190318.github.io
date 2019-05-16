@@ -287,6 +287,20 @@
 	"content": " Lesson 02 Git \u0026amp; Github "
 },
 {
+	"uri": "/21-class-resources/running-local-server/macos/",
+	"title": "MacOS Instructions",
+	"tags": [],
+	"description": "",
+	"content": " MacOS Instructions  Open the Terminal application on your Macbook\n Using the command line navigate to the project folder\nIn the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example\nOn your command line you would do the following (do not type \u0026lsquo;$\u0026rsquo;, your text input on the command line should with cd):\n$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server\n Open your browser and navigate http://localhost:8000\n  At this point your project will be displayed in the browser and you will have successfully launched your project on a local server.\nNOTE: To close the server press Ctrl-c to close the server when it is not in use\n"
+},
+{
+	"uri": "/course-materials/code-demos/maps-with-mapbox/",
+	"title": "Maps with MapBox",
+	"tags": [],
+	"description": "",
+	"content": " Overview Mapbox is a Javascript library that allows you to add maps to your projects\nDemo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.\ndownload NYC Museums Map\nSetup Instructions  Sign up for a Mapbox account\n Download the demo application and save files in your class folder\n Add your Access Token to main.js on line 7\n   Run a Local Server on your computer (Required!) Using the command line, navigate to the project folder (from Step #2 above) and start a local server\n Open up your browser and type the following address into the address bar: http://localhost:8000\n  "
+},
+{
 	"uri": "/15-responsive-design/media-queries/media-query-overview/",
 	"title": "Media Query Overview",
 	"tags": [],
@@ -362,6 +376,13 @@
 	"tags": [],
 	"description": "",
 	"content": " What is the viewport?  Area on the computer or device screen where you are viewing a web page\n Viewport width is not always the same thing as screen width\n For example: Drogo has a laptop that has a maximum screen width of 1280px, but likes to resize his web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don\u0026rsquo;t allow you to change the size of your browser\n  "
+},
+{
+	"uri": "/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/",
+	"title": "iTunes Search API",
+	"tags": [],
+	"description": "",
+	"content": " Demo Application Summary This application uses the iTunes API to display a list of songs/albums associated with artist submitted into the search field\ndownload iTunes Search Application\n"
 },
 {
 	"uri": "/05-css-selectors/agenda/",
@@ -728,6 +749,13 @@
 	"content": " What is Programming?  List of instructions that a computer needs in order to complete a task\n Instructions are provided in a programming language that the computer understands\n These set of instructions are commonly referred as source code or a program\n  "
 },
 {
+	"uri": "/21-class-resources/running-local-server/windows/",
+	"title": "Windows Instructions",
+	"tags": [],
+	"description": "",
+	"content": " Windows Instructions  Open the Command Prompt application on Windows\n Install python, see the instructions here\n Using the command line navigate to the project folder\nIn the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example\nOn your command line you would do the following (do not type \u0026lsquo;$\u0026rsquo;, your text input on the command line should with cd):\n$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server\n Open your browser and navigate http://localhost:8000\n  At this point your project will be displayed in the browser and you will have successfully launched your project on a local server.\nNOTE: To close the server press Ctrl-c to close the server when it is not in use\n"
+},
+{
 	"uri": "/10-intro-to-jquery/jquery-overview/adding-jquery/",
 	"title": "Adding jQuery to your projects",
 	"tags": [],
@@ -945,6 +973,13 @@
 	"content": " What are Breakpoints?  Term used to describe that specific widths (or points) where your CSS styles change as a result of a media queries   @media only screen and (min-width: 768px) { /* styles go here */ }  The example above, the styles inside the media query will go into effect at the point where the viewport width is greater than or equal to 768px\nExample of CSS stylesheet with media queries  /* styles outside of the media queries are considered default styles */ .some-style { } .some-other-style { } @media only screen and (min-width: 576px) { /* styles go here */ } @media only screen and (min-width: 768px) { /* styles go here */ } @media only screen and (min-width: 992px) { /* styles go here */ } @media only screen and (min-width: 1200px) { /* styles go here */ } @media only screen and (min-width: 1200px) and (orientation: landscape) { /* styles go here */ }  "
 },
 {
+	"uri": "/course-materials/code-demos/carousels/",
+	"title": "Carousels with Slick",
+	"tags": [],
+	"description": "",
+	"content": " Overview Slick is a Javascript plugin that makes it easy to carousels to your project.\nDemo Application Summary This application uses Slick to create a simple carousels of 80\u0026rsquo;s cartoons cover art.\ndownload 80\u0026rsquo;s Cartoons Carousel\n"
+},
+{
 	"uri": "/06-css-box-model/code-along-tags-and-boxes/",
 	"title": "Code Along - Tags and Boxes",
 	"tags": [],
@@ -978,6 +1013,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Milestone II: Get Final Project Idea Approved Details TBD\n Due Date: Monday, April 22nd  "
+},
+{
+	"uri": "/course-materials/code-demos/getting-data-from-other-services/giphy-api/",
+	"title": "Giphy Search API",
+	"tags": [],
+	"description": "",
+	"content": " Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field\ndownload Giphy Search Application\n"
 },
 {
 	"uri": "/homework-assignments/assignments/hw-02-relaxr-project/",
@@ -1152,7 +1194,7 @@
 	"title": "Classwork &amp; Lab Solutions",
 	"tags": [],
 	"description": "",
-	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors \u0026amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays \u0026amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  "
+	"content": " Solutions Disclaimer: These files are not meant to be viewed as the \u0026ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.\n Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors \u0026amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays \u0026amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  Lesson 17: Forms  Contact Us Form Solution  "
 },
 {
 	"uri": "/01-html-basics/tag-overview/text/",
@@ -1209,6 +1251,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Strings\n Numbers\n Booleans\n Arrays\n Objects\n  "
+},
+{
+	"uri": "/course-materials/code-demos/fancy-filtering-sorting/",
+	"title": "Fancy Filtering &amp; Sorting with MixitUp",
+	"tags": [],
+	"description": "",
+	"content": " [Add Gif]\nOverview MixItUp is a Javascript plugin that makes it easy to adding visually appealing filter and sorting to your projects.\nDemo Application Summary This application uses MixItUp to create a Greek Mythology Flash card application.\ndownload Greek Mythology Flash Cards\n"
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-positioning/fixed-positioning/",
@@ -1540,6 +1589,13 @@
 	"content": " Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.\n During this exercise, we\u0026rsquo;ll be doing the following:\n We\u0026rsquo;ll use javascript to complete an application used to keep track of a game\u0026rsquo;s score   "
 },
 {
+	"uri": "/course-materials/code-demos/",
+	"title": "Code Demos &amp; Examples",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/final-projects/milestones-due-dates/create-project-plan/",
 	"title": "Create Project Plan",
 	"tags": [],
@@ -1552,6 +1608,13 @@
 	"tags": [],
 	"description": "",
 	"content": " flex-shrink  defines the ability for a flex item to shrink if necessary.\n a unitless measure that respresents a proportion or ratio (similar to flex-grow)\n  "
+},
+{
+	"uri": "/course-materials/code-demos/getting-data-from-other-services/",
+	"title": "Getting Data from Other Services",
+	"tags": [],
+	"description": "",
+	"content": " APIs APIs (Application Programming Interfaces) allow developers to work with data from other services / applications (e.g. twitter, instagram, slack)\n"
 },
 {
 	"uri": "/08-css-positioning-and-colors/css-colors/hsl/",
@@ -1580,6 +1643,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Follow the steps below to complete Milestone #3:\nIn your groups:\n Complete the application by adding logic that changes the background image to reflect the converted temperature   Example: If the converted temperature is 10 F (degrees) the background image should represent something cold\n Make the application your own - choose your own background images\n  Timebox: 20 to 30 minutes\nNote: While you will be working within a group, each student should have their own copy of the project on their computers\n"
+},
+{
+	"uri": "/21-class-resources/running-local-server/",
+	"title": "Running a Local Server",
+	"tags": [],
+	"description": "",
+	"content": " Why Do you need to run a local server?  There are many instances where developers will want their local environment (i.e. developing on your laptop or desktop) to closely resemble a production environment (e.g. your application hosted in the cloud)\n This allows test your application in a more realistic setting.\n There are some instances where running a local server is required. Examples of this scenario includes working with 3rd party APIs such as Mapbox or Twitter.\n  Running a Local Server You\u0026rsquo;ll need to run a server on your computer in order for the application to run. Do the following to get a server running on your computer:\n Click Here for MacOS Instructions\n Click Here for Windows Instructions\n  "
 },
 {
 	"uri": "/17-forms/form-elements/select/",
@@ -1685,6 +1755,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lab: jQuery DOM Selector Practice  Using Atom, open the folder called jquery_dom_selector_practice in your lesson_10_files folder. You will be using these files as starting off point.\n Instructions\n Follow the instructions specified in the exercise.js file   "
+},
+{
+	"uri": "/course-materials/code-demos/pinterest-type-layout-masonry/",
+	"title": "Pinterest-style layout with Masonry",
+	"tags": [],
+	"description": "",
+	"content": " Overview Masonry is a Javascript plugin that makes it easy to create cascading grids that automatically resize as the viewport width resizes. This results in a UI layout similar to Pinterest.\nDemo Application Summary This application uses Masonry to create a cascading grid layout.\ndownload Masonry example\n"
 },
 {
 	"uri": "/17-forms/form-elements/submit-button/",

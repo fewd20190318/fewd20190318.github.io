@@ -479,6 +479,34 @@ jQuery jQuery Documentation</description>
     </item>
     
     <item>
+      <title>MacOS Instructions</title>
+      <link>/21-class-resources/running-local-server/macos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/running-local-server/macos/</guid>
+      <description>MacOS Instructions  Open the Terminal application on your Macbook
+ Using the command line navigate to the project folder
+In the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example
+On your command line you would do the following (do not type &amp;lsquo;$&amp;rsquo;, your text input on the command line should with cd):
+$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server</description>
+    </item>
+    
+    <item>
+      <title>Maps with MapBox</title>
+      <link>/course-materials/code-demos/maps-with-mapbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/maps-with-mapbox/</guid>
+      <description>Overview Mapbox is a Javascript library that allows you to add maps to your projects
+Demo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.
+download NYC Museums Map
+Setup Instructions  Sign up for a Mapbox account
+ Download the demo application and save files in your class folder
+ Add your Access Token to main.js on line 7
+   Run a Local Server on your computer (Required!</description>
+    </item>
+    
+    <item>
       <title>Media Query Overview</title>
       <link>/15-responsive-design/media-queries/media-query-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -608,6 +636,16 @@ In the example above #featured is more specific than .box so the background-colo
       <description>What is the viewport?  Area on the computer or device screen where you are viewing a web page
  Viewport width is not always the same thing as screen width
  For example: Drogo has a laptop that has a maximum screen width of 1280px, but likes to resize his web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don&amp;rsquo;t allow you to change the size of your browser</description>
+    </item>
+    
+    <item>
+      <title>iTunes Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</guid>
+      <description>Demo Application Summary This application uses the iTunes API to display a list of songs/albums associated with artist submitted into the search field
+download iTunes Search Application</description>
     </item>
     
     <item>
@@ -1143,6 +1181,20 @@ What happens if you don&amp;rsquo;t set the viewport?  The example above depicts
     </item>
     
     <item>
+      <title>Windows Instructions</title>
+      <link>/21-class-resources/running-local-server/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/running-local-server/windows/</guid>
+      <description>Windows Instructions  Open the Command Prompt application on Windows
+ Install python, see the instructions here
+ Using the command line navigate to the project folder
+In the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example
+On your command line you would do the following (do not type &amp;lsquo;$&amp;rsquo;, your text input on the command line should with cd):
+$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server</description>
+    </item>
+    
+    <item>
       <title>Adding jQuery to your projects</title>
       <link>/10-intro-to-jquery/jquery-overview/adding-jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1391,6 +1443,17 @@ Example of CSS stylesheet with media queries  /* styles outside of the media que
     </item>
     
     <item>
+      <title>Carousels with Slick</title>
+      <link>/course-materials/code-demos/carousels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/carousels/</guid>
+      <description>Overview Slick is a Javascript plugin that makes it easy to carousels to your project.
+Demo Application Summary This application uses Slick to create a simple carousels of 80&amp;rsquo;s cartoons cover art.
+download 80&amp;rsquo;s Cartoons Carousel</description>
+    </item>
+    
+    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1433,6 +1496,16 @@ In the image above, we have a html document on the left and a visual representat
       <guid>/final-projects/milestones-due-dates/get-idea-approved/</guid>
       <description> Milestone II: Get Final Project Idea Approved Details TBD
  Due Date: Monday, April 22nd  </description>
+    </item>
+    
+    <item>
+      <title>Giphy Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</guid>
+      <description>Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field
+download Giphy Search Application</description>
     </item>
     
     <item>
@@ -1670,7 +1743,7 @@ In the example above you will see that the % measurements for the .</description
       
       <guid>/course-materials/solutions/</guid>
       <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
- Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  </description>
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  Lesson 17: Forms  Contact Us Form Solution  </description>
     </item>
     
     <item>
@@ -1755,6 +1828,18 @@ JS Bin on jsbin.com</description>
  Here&amp;rsquo;s an example of what link should look like: https://github.com/kareemgrant/kg-awesome-game  Due Date: Wednesday, April 24th
  Deliverable: Use this form to submit your repository url
   Do not include spaces in your github repository names</description>
+    </item>
+    
+    <item>
+      <title>Fancy Filtering &amp; Sorting with MixitUp</title>
+      <link>/course-materials/code-demos/fancy-filtering-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/fancy-filtering-sorting/</guid>
+      <description>[Add Gif]
+Overview MixItUp is a Javascript plugin that makes it easy to adding visually appealing filter and sorting to your projects.
+Demo Application Summary This application uses MixItUp to create a Greek Mythology Flash card application.
+download Greek Mythology Flash Cards</description>
     </item>
     
     <item>
@@ -2431,6 +2516,17 @@ Note: While you will be working within a group, each student should have their o
       <description> Lab: jQuery DOM Selector Practice  Using Atom, open the folder called jquery_dom_selector_practice in your lesson_10_files folder. You will be using these files as starting off point.
  Instructions
  Follow the instructions specified in the exercise.js file   </description>
+    </item>
+    
+    <item>
+      <title>Pinterest-style layout with Masonry</title>
+      <link>/course-materials/code-demos/pinterest-type-layout-masonry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/pinterest-type-layout-masonry/</guid>
+      <description>Overview Masonry is a Javascript plugin that makes it easy to create cascading grids that automatically resize as the viewport width resizes. This results in a UI layout similar to Pinterest.
+Demo Application Summary This application uses Masonry to create a cascading grid layout.
+download Masonry example</description>
     </item>
     
     <item>

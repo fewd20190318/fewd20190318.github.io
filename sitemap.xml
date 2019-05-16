@@ -180,6 +180,14 @@
   </url>
   
   <url>
+    <loc>/21-class-resources/running-local-server/macos/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/maps-with-mapbox/</loc>
+  </url>
+  
+  <url>
     <loc>/15-responsive-design/media-queries/media-query-overview/</loc>
   </url>
   
@@ -221,6 +229,10 @@
   
   <url>
     <loc>/15-responsive-design/viewport-meta-tag/what-is-viewport/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</loc>
   </url>
   
   <url>
@@ -440,6 +452,10 @@
   </url>
   
   <url>
+    <loc>/21-class-resources/running-local-server/windows/</loc>
+  </url>
+  
+  <url>
     <loc>/10-intro-to-jquery/jquery-overview/adding-jquery/</loc>
   </url>
   
@@ -567,6 +583,10 @@
   </url>
   
   <url>
+    <loc>/course-materials/code-demos/carousels/</loc>
+  </url>
+  
+  <url>
     <loc>/06-css-box-model/code-along-tags-and-boxes/</loc>
   </url>
   
@@ -584,6 +604,10 @@
   
   <url>
     <loc>/final-projects/milestones-due-dates/get-idea-approved/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</loc>
   </url>
   
   <url>
@@ -718,6 +742,10 @@
   
   <url>
     <loc>/11-javascript-fundamentals/data-types/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/fancy-filtering-sorting/</loc>
   </url>
   
   <url>
@@ -913,11 +941,19 @@
   </url>
   
   <url>
+    <loc>/course-materials/code-demos/</loc>
+  </url>
+  
+  <url>
     <loc>/final-projects/milestones-due-dates/create-project-plan/</loc>
   </url>
   
   <url>
     <loc>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/getting-data-from-other-services/</loc>
   </url>
   
   <url>
@@ -934,6 +970,10 @@
   
   <url>
     <loc>/14-javascript-lab/milestone-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/21-class-resources/running-local-server/</loc>
   </url>
   
   <url>
@@ -995,6 +1035,10 @@
   
   <url>
     <loc>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</loc>
+  </url>
+  
+  <url>
+    <loc>/course-materials/code-demos/pinterest-type-layout-masonry/</loc>
   </url>
   
   <url>
