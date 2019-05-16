@@ -1505,7 +1505,11 @@ In the image above, we have a html document on the left and a visual representat
       
       <guid>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</guid>
       <description>Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field
-download Giphy Search Application</description>
+download Giphy Search Application
+Setup Instructions  Sign up for a Giphy Developer account
+ Download the demo application and save files in your class folder
+ Add your Access Token to app.js on line 31
+ Run a Local Server on your computer (Required!</description>
     </item>
     
     <item>

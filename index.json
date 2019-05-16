@@ -1019,7 +1019,7 @@
 	"title": "Giphy Search API",
 	"tags": [],
 	"description": "",
-	"content": " Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field\ndownload Giphy Search Application\n"
+	"content": " Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field\ndownload Giphy Search Application\nSetup Instructions  Sign up for a Giphy Developer account\n Download the demo application and save files in your class folder\n Add your Access Token to app.js on line 31\n Run a Local Server on your computer (Required!) Using the command line, navigate to the project folder (from Step #2 above) and start a local server\n Open up your browser and type the following address into the address bar: http://localhost:8000\n  "
 },
 {
 	"uri": "/homework-assignments/assignments/hw-02-relaxr-project/",
