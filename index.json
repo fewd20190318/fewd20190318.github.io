@@ -154,6 +154,13 @@
 	"content": " What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.\n They are placed in the opening tag\n They have two parts: name, value\n  Attribute Structure  Attribute Name\n Indicates what kind of extra information you are supplying to the browser about the content in the element characters within the brackets indicates the tags purpose  Attribute Value\n Information or setting for the attribute Is placed in double or single quotes   Example of a HTML Attribute  \u0026lt;img src=\u0026quot;mdn-logo-sm.png\u0026quot; alt=\u0026quot;MDN\u0026quot;\u0026gt;  A complete list of all the available HTML attributes can be found here\n "
 },
 {
+	"uri": "/18-final-projects-lab/agenda/",
+	"title": "Agenda",
+	"tags": [],
+	"description": "",
+	"content": " Code Along: Host Final Projects using Github Pages\n Lab: Work on Final Projects\n  "
+},
+{
 	"uri": "/07-page-layout-flexbox/flexbox/flexbox-terminology/",
 	"title": "Flexbox Terminology",
 	"tags": [],
@@ -980,6 +987,13 @@
 	"content": " Overview Slick is a Javascript plugin that makes it easy to carousels to your project.\nDemo Application Summary This application uses Slick to create a simple carousels of 80\u0026rsquo;s cartoons cover art.\ndownload 80\u0026rsquo;s Cartoons Carousel\n"
 },
 {
+	"uri": "/18-final-projects-lab/code-along-host-github-pages/",
+	"title": "Code Along - Host Final Project on Github Pages",
+	"tags": [],
+	"description": "",
+	"content": " Github Pages  Free service from Github that allows developers to host websites in the cloud\n We will be using Github Pages to host your final projects\n  Instructions As a class we will follow the instructions found in the link below to host our Final Projects in the cloud:\ninstructions\n"
+},
+{
 	"uri": "/06-css-box-model/code-along-tags-and-boxes/",
 	"title": "Code Along - Tags and Boxes",
 	"tags": [],
@@ -1034,6 +1048,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.\n Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:\n We have provided you with a finished version of Fashion Blog part I, please use these files for the lab\n   Before you start building:\n Draw a wireframe of the layout Identify your flex containers Idenitfy your nested flex containers  Timebox: 35 mins\n  "
+},
+{
+	"uri": "/18-final-projects-lab/lab-final-projects/",
+	"title": "Lab - Final Projects",
+	"tags": [],
+	"description": "",
+	"content": " Lab  Work on your final project\n At this point you should only be adding finishing touches (fine tuning CSS, fixing indentation, etc)\n You should avoid adding new features at this point\n  "
 },
 {
 	"uri": "/14-javascript-lab/lab-overview/",
@@ -1769,6 +1790,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Submit Button \u0026lt;form action=\u0026quot;http://www.example.com/subscribe.php\u0026quot;\u0026gt; \u0026lt;p\u0026gt;Subscribe to our email list:\u0026lt;/p\u0026gt; \u0026lt;input type=\u0026quot;text\u0026quot; name=\u0026quot;email\u0026quot; /\u0026gt; \u0026lt;input type=\u0026quot;submit\u0026quot; name=\u0026quot;subscribe\u0026quot; value=\u0026quot;Subscribe\u0026quot; /\u0026gt; \u0026lt;/form\u0026gt;  Submit Button Example Submit Button Attributes  type=\u0026ldquo;submit\u0026rdquo;: Submit button are used to submit a form to a server\n name: Used by the server to identify which form control that data came from\n value: Controls the text that appears on the button\n  The \u0026lt;button\u0026gt; element can also be used more info\n"
+},
+{
+	"uri": "/18-final-projects-lab/",
+	"title": "Final Projects Lab",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 18 Final Projects Lab "
 },
 {
 	"uri": "/01-html-basics/tag-overview/links/",

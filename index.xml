@@ -242,6 +242,17 @@ Full list of block level elements can be found here
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>/18-final-projects-lab/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>/18-final-projects-lab/agenda/</guid>
+      <description> Code Along: Host Final Projects using Github Pages
+ Lab: Work on Final Projects
+  </description>
+    </item>
+    
+    <item>
       <title>Flexbox Terminology</title>
       <link>/07-page-layout-flexbox/flexbox/flexbox-terminology/</link>
       <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
@@ -1454,6 +1465,18 @@ download 80&amp;rsquo;s Cartoons Carousel</description>
     </item>
     
     <item>
+      <title>Code Along - Host Final Project on Github Pages</title>
+      <link>/18-final-projects-lab/code-along-host-github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/18-final-projects-lab/code-along-host-github-pages/</guid>
+      <description>Github Pages  Free service from Github that allows developers to host websites in the cloud
+ We will be using Github Pages to host your final projects
+  Instructions As a class we will follow the instructions found in the link below to host our Final Projects in the cloud:
+instructions</description>
+    </item>
+    
+    <item>
       <title>Code Along - Tags and Boxes</title>
       <link>/06-css-box-model/code-along-tags-and-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1536,6 +1559,18 @@ Please refer to the Homework Submission Github Workflow guide for detailed instr
       <description>Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.
  Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:
  We have provided you with a finished version of Fashion Blog part I, please use these files for the lab</description>
+    </item>
+    
+    <item>
+      <title>Lab - Final Projects</title>
+      <link>/18-final-projects-lab/lab-final-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/18-final-projects-lab/lab-final-projects/</guid>
+      <description> Lab  Work on your final project
+ At this point you should only be adding finishing touches (fine tuning CSS, fixing indentation, etc)
+ You should avoid adding new features at this point
+  </description>
     </item>
     
     <item>
