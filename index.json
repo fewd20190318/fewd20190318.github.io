@@ -322,6 +322,13 @@
 	"content": " Overview  Final Projects are a requirement of \u0026ldquo;course completion\u0026rdquo;\n Project should be something that you are passionate about\n We\u0026rsquo;ve established some milestones (and due dates) that will help you stay on track to complete your projects on time\n Each milestone will include a deliverable  Instruction team will actively work with you to help you manage scope and come up with a project plan\n Click here for examples of what other GA FEWD students have built\n  Requirements Your final projects must make use of the following:\n HTML\n CSS\n \u0026ldquo;some\u0026rdquo; javascript\n Good indentation\n Follow best practices for file/folder structure\n  "
 },
 {
+	"uri": "/19-final-project-presentations/presentation-script/",
+	"title": "Presentation Script",
+	"tags": [],
+	"description": "",
+	"content": " Presentation Script Each student will use the script below to present their projects to the class\n Introduce yourself and your project\n Question: Why did you choose to build this project?\n Provide the class with a quick demo of your project\n Question: What was the most challenging aspect your project?\n Question: Given more time and knowledge what additional features would you have added?\n Question: What did you enjoy most about building this project?\n Audience Q/A\n  "
+},
+{
 	"uri": "/10-intro-to-jquery/jquery-in-action/selecting-elements/",
 	"title": "Selecting Elements",
 	"tags": [],
@@ -733,6 +740,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/19-final-project-presentations/student-projects/",
+	"title": "Student Projects",
+	"tags": [],
+	"description": "",
+	"content": "   Student Project     Senecca Bratcher https://sjbrat.github.io/   Paloma Calles https://palomacalles.github.io/   Lauren Farfel https://lfarfel95.github.io/   Allison Gollub https://allisongee.github.io/index.html   Jennifer Gong https://jngong.github.io/   Emilee Lindner https://emilee537.github.io/   Taylor Mckeel    Karen Ortiz https://kayoh26.github.io/   Sammi Oyeniyi https://soyeniyi801.github.io/   Sarah Shaw https://sarahfshaw.github.io/   Nathan Taylor    Jacy Waldrop https://jbwaldrop01.github.io/   Lauralyn Watson https://lswatson.github.io/    "
 },
 {
 	"uri": "/final-projects/milestones-due-dates/submit-project-ideas/",
@@ -1797,6 +1811,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Lesson 18 Final Projects Lab "
+},
+{
+	"uri": "/19-final-project-presentations/",
+	"title": "Final Project Presentations",
+	"tags": [],
+	"description": "",
+	"content": " Lesson 19 Final Project Presentations "
 },
 {
 	"uri": "/01-html-basics/tag-overview/links/",
